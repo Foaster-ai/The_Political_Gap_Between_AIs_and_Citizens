@@ -1,0 +1,497 @@
+[
+  {
+    "question": "What policy should the State adopt regarding the entry and residence of migrant persons?",
+    "propositions": [
+      {
+        "candidate_id": "Elly Schlein",
+        "value": "The idea would be to replace a reactive crisis management with a solidarity-based and shared reception policy at the European level, in order to govern migration as an ordinary element of modern societies. The right approach is to reform the system for allocating asylum applications to base it on a genuinely shared responsibility, moving away from the logic of the country of first entry. This implies the establishment of a permanent sea rescue mission and the creation of legal and secure entry routes, including humanitarian corridors. A European fund for dispersed reception would directly support projects presented by local authorities committed to dignified integration. Thus, this would make it possible to guarantee respect for fundamental rights while ensuring a humane and orderly management of flows, based on cooperation and legality."
+      },
+      {
+        "candidate_id": "Giorgia Melonie",
+        "value": "The idea would be to regain control of migration flows by substituting a structural and legal approach for the management of irregular arrivals. The priority is to address the phenomenon at its source by establishing cooperation agreements with third countries to prevent departures and to manage protection claims there. The central pillar of this policy is strengthening external border control, dismantling smuggler networks, and implementing development plans to tackle the root causes of migration. Legal entry routes must be conditioned on quotas based on the real needs of the labor market. Thus, this would drastically reduce clandestine immigration while organizing regular and controlled immigration."
+      },
+      {
+        "candidate_id": "Giuseppe Conte",
+        "value": "The idea would be to replace crisis management with a structured asylum and migration policy that combines humanity and pragmatism. The right approach is to outsource the preliminary examination of asylum applications to safe third countries via expert commissions, thereby creating legal and secure access routes that dry up clandestine networks. For the remaining irregular arrivals, it is imperative to establish an automatic and mandatory relocation mechanism between States, based on objective criteria such as GDP and the unemployment rate, while addressing the root causes of migration through strengthened cooperation. This would thus make it possible to control flows, ensure a fair distribution of responsibilities in Europe, and replace the current, costly and inhumane model with an orderly and dignified system."
+      },
+      {
+        "candidate_id": "Silvio Berlusconi",
+        "value": "The idea would be to regain control of migratory flows by firmly distinguishing legal entry channels from the fight against irregular immigration. The priority is to prevent illegal arrivals upstream, by concluding agreements with North African countries to block departures and human trafficking. The most effective approach is to outsource the processing of asylum applications to reception centers located outside European territory and managed by the European Union. At the same time, an active policy of social and professional inclusion should be promoted for immigrants in regular status. Thus, this would make it possible to dismantle smuggling networks, manage flows before their arrival on national soil, and ensure orderly management that favors the integration of only legal migrants."
+      },
+      {
+        "candidate_id": "Matteo Salvini",
+        "value": "The idea would be to replace emergency management with a structured policy of flow control, acting at the source to distinguish legal entries from irregular migration. The right approach is to externalize the processing of asylum claims in identification centers located in North Africa, in collaboration with international organizations and countries of origin. At the same time, strict control of maritime borders will be reestablished, with bans on entry into national waters and strengthened cooperation with Libyan coast guards. Entry into the territory will be conditioned on legal and qualified channels, according to labor market needs, putting an end to mass regularizations and derogatory protection statuses. Internally, removal procedures will be made effective by an extensive network of detention centers. Thus, this would make it possible to sustainably reduce irregular arrivals and ensure that only persons eligible for protection are admitted, after an examination of their situation prior to their arrival in the territory."
+      },
+      {
+        "candidate_id": "Angelo Bonelli",
+        "value": "The idea would be to abandon a purely security-focused management of migratory flows in order to adopt an approach based on solidarity and respect for human rights. The right approach is to replace the Dublin system with a European mechanism for solidarity-based distribution and to open legal and safe migration channels to stem irregular immigration. This involves re-establishing a public sea rescue mission, ending agreements that outsource border control, and abolishing administrative detention centers. Simplifying asylum procedures and facilitating access to the labor market are essential to promote successful integration. Thus, it would make it possible to guarantee the dignity of individuals, to effectively combat the underground economy, and to bring migration policy into conformity with international law."
+      },
+      {
+        "candidate_id": "Carlo Calenda",
+        "value": "The idea would be to move away from crisis management and adopt a pragmatic migration policy aligned with the country's demographic and economic needs. The central focus is to distinguish profiles in order to open legal, planned routes of entry that meet labor market needs through a remote sponsorship mechanism. Integration is not an option but a requirement, achieved through mandatory linguistic and cultural training for newcomers. At the same time, the regularization of people already on the territory will be strictly conditioned on obtaining declared employment, and access to citizenship will be tied to the successful completion of a full educational pathway. In this way, it would drastically reduce irregular immigration while addressing labor shortages and strengthening social cohesion."
+      }
+    ]
+  },
+  {
+    "question": "Which measures should be prioritized to promote employment and reduce unemployment?",
+    "propositions": [
+      {
+        "candidate_id": "Elly Schlein",
+        "value": "The idea would be to rebuild the social contract around quality work, acting simultaneously on pay, stability and worker protection in the face of transitions. The right approach is to establish a baseline of decent pay through a legal minimum wage, while making permanent the European Employment Support Fund to turn it into a common unemployment insurance mechanism. This arrangement must secure pathways during the ecological and digital transitions. At the same time, measures should be taken to encourage a reduction in working time at equal pay to better share productivity gains and to put a definitive end to unpaid internships. In this way, it would be possible to build a more resilient and equitable labor market, where job security and purchasing power are strengthened for all workers, regardless of their sector."
+      },
+      {
+        "candidate_id": "Giorgia Melonie",
+        "value": "The idea would be to unleash productive energies to invigorate the labor market by creating an environment conducive to investment and hiring. The right approach is to massively lighten the administrative and regulatory constraints that weigh on businesses, especially the smallest. The main effort should focus on reducing the tax burden for companies that hire by redirecting unused budgets toward direct incentive measures. At the same time, it is crucial to support innovation, youth entrepreneurship, and to adapt skills through training. Thus, this would make it possible to restore companies' competitiveness and to stimulate sustainable job creation driven by the private sector."
+      },
+      {
+        "candidate_id": "Giuseppe Conte",
+        "value": "The idea would be to refound the social pact by prioritizing job quality and stability rather than the market's sole flexibility. The right approach is to reverse the trend toward precariousness by establishing a framework directive to strictly limit the use of short-term contracts, while guaranteeing a legal minimum wage in each State to counter social dumping. The central axis of this transformation lies in reducing working time to 32 hours per week without loss of income, an objective made possible by incentive mechanisms financing companies that create new positions as compensation. Thus, this would not only allow combatting precariousness and improving work-life balance, but also redistributing work and generating fairer and more sustainable economic growth."
+      },
+      {
+        "candidate_id": "Silvio Berlusconi",
+        "value": "The idea would be to unleash the job-creation potential by significantly reducing the cost of labor for businesses. To achieve this, the main approach consists of a substantial reduction of the tax wedge, benefiting both employers and employees. This general measure would be complemented by targeted contribution deductions to encourage the hiring of young people, women and persons with disabilities, particularly in the least advantaged regions. It also involves strengthening flexibility through tools such as the chèque-emploi and reforming social assistance by replacing passive benefits with active policies for training and professional integration. Thus, this would directly stimulate hiring, energize the labor market and sustainably encourage businesses to create wealth and jobs."
+      },
+      {
+        "candidate_id": "Matteo Salvini",
+        "value": "The idea would be to revitalize the labor market by lightening the burdens weighing on employment and by redirecting social benefits toward incentives for activity. The central axis is a significant and lasting reduction of the tax wedge, to the tune of ten points over ten years, in order to reduce the cost of labor for businesses and increase net wages. At the same time, the citizen's income will be split: it will become a pure support for those unfit to work, while for others it will be transformed into a mandatory integration pathway, linking the aid to training and active job search, with strong tax incentives for the companies that hire them. Targeted deductions will also aim at the employment of young people under 35. Thus, this would help stimulate job creation by making work less costly, while transforming welfare into a springboard toward sustainable employment."
+      },
+      {
+        "candidate_id": "Angelo Bonelli",
+        "value": "The idea would be to tackle precariousness and low wages head-on by redirecting the market toward stable and dignified jobs. The central axis is to establish a legal minimum wage, below which no remuneration would be possible, and to restore the permanent employment contract as the norm by drastically limiting atypical contracts. A structuring measure would consist of implementing a reduction in working time without loss of pay, encouraged by a public incentive fund, in order to better distribute work and productivity gains. The protection of purchasing power would be ensured by a mechanism of automatic indexation of incomes to inflation. Thus, this would make it possible to fight working poverty, stimulate demand and sustainably improve quality of life."
+      },
+      {
+        "candidate_id": "Carlo Calenda",
+        "value": "The idea would be to shift from an assistance-based logic to an activation logic, ensuring that work is always more advantageous than inactivity. The central pillar is to increase workers' disposable income by introducing a minimum wage negotiated by the social partners, a negative income tax mechanism for low wages, and the full exemption of productivity bonuses. In parallel, social benefits must become a springboard back to employment by strictly conditioning their payment on qualifying training and by suspending entitlement at the first refusal of a suitable job offer. Combating the skills deficit through targeted training and the drastic simplification of labor law are the other pillars of this approach. Thus, this would help reduce structural unemployment by increasing the labor supply and rewarding merit."
+      }
+    ]
+  },
+  {
+    "question": "How can we guarantee a satisfactory standard of living and limit economic inequalities?",
+    "propositions": [
+      {
+        "candidate_id": "Elly Schlein",
+        "value": "The idea would be to guarantee a dignified basic standard of living for all citizens by strengthening social convergence through robust public policies and redistributive taxation at the continental level. The right approach is to establish a guaranteed minimum income at the European level to prevent poverty. At the same time, it is essential to take resolute action against tax evasion by harmonizing corporate tax and targeting tax havens within the Union. This fiscal rebalancing should finance universal access to essential services, notably health care and housing. Thus, it would make it possible to structurally reduce precariousness and to correct inequalities of destiny, consolidating a social model in which prosperity is more equitably shared."
+      },
+      {
+        "candidate_id": "Giorgia Melonie",
+        "value": "The idea would be to break with austerity by making economic growth, driven by strategic investment, the main lever for improving the standard of living. The right approach is to reorient public spending toward productive investments, while relaxing budgetary constraints to finance them. It is a question of excluding future-oriented expenditures, such as those related to the green and digital transitions, from the calculation of deficits. Particular attention must be paid to reducing territorial divides, by focusing efforts on the development of the most fragile economic areas. Thus, this would make it possible to generate a dynamic of sustainable growth that mechanically reduces the burden of public debt and corrects economic imbalances between territories."
+      },
+      {
+        "candidate_id": "Giuseppe Conte",
+        "value": "The idea would be to move from a purely monetary union to a genuine Social Union by establishing a structural mechanism to protect against poverty and reduce inequalities. The central axis of this ambition is a framework directive for a European citizens' income, establishing universal minimum income criteria in each State. The financing of this measure would be ensured by a tax overhaul, notably through a common tax on corporations and capital, in order to rebalance the burden that currently falls on labor. This policy must be accompanied by a resolute fight against multinational tax evasion. Thus, this would create a powerful automatic stabilizer in the face of economic crises, concretely reduce poverty, and strengthen cohesion by narrowing wealth gaps between citizens and territories."
+      },
+      {
+        "candidate_id": "Silvio Berlusconi",
+        "value": "The idea would be to act simultaneously on taxation and solidarity mechanisms to protect purchasing power and support the most vulnerable. The central approach is to reduce the tax wedge to increase workers' net income and to lower VAT on essential goods and energy. At the same time, the social assistance system must be thoroughly reformed, replacing passive benefits with active integration and training measures for an effective return to employment. This policy must be complemented by a targeted increase in minimum, social, and disability pensions. Thus, this would ensure a tangible increase in disposable income for households and retirees while encouraging autonomy through work and guaranteeing a robust safety net for the most vulnerable."
+      },
+      {
+        "candidate_id": "Matteo Salvini",
+        "value": "The idea would be to guarantee a satisfactory standard of living by acting directly on disposable income, through a overhaul of the tax system that favors family and work rather than assistance mechanisms. The right approach is to replace complex progressivity with a flat tax, whose taxable base is adjusted by a family quotient. This system allows the tax burden to be adjusted according to the number of children and dependents, thus directly supporting household income. This reform is accompanied by a reduction of the tax wedge to increase net wages and lighter taxation on additional income to encourage growth. In this way, it would free up purchasing power for families and the middle class, considered the engine of consumption and social stability, while making work systematically more advantageous than inactivity."
+      },
+      {
+        "candidate_id": "Angelo Bonelli",
+        "value": "The idea would be to rebalance the distribution of wealth through a large-scale tax reform and an increase in labor incomes. The objective is to tackle inequalities at the source to fund universal public services and guarantee a dignified standard of living. The right approach is to establish a unified and strongly progressive tax system, where all incomes — labor, capital and property — are taxed under the same schedule. It then involves introducing a new personal wealth tax on fortunes exceeding five million euros. A key measure is the taxation at 100% of the superprofits of companies in the energy sector, the revenues of which would be directly redistributed. In parallel, a guaranteed minimum wage and pension would be established to ensure a decent income. Thus, this would significantly reduce wealth gaps, strengthen the purchasing power of the working and middle classes, and ensure sustainable financing for quality public services accessible to all."
+      },
+      {
+        "candidate_id": "Carlo Calenda",
+        "value": "The idea would be to replace the logic of wealth redistribution with a policy of equal opportunity from the outset. The priority is not to correct inequalities of outcome through confiscatory taxes, but to prevent them at the source by guaranteeing everyone the same starting point. The main lever lies in massive investment in universal public services – education, health, training – which constitute each person's true initial capital. For the lowest incomes, a negative income tax system provides an income supplement that encourages work rather than subsidizing inactivity. Social benefits, for their part, are rethought as temporary springboards, strictly conditioned on an insertion pathway. Thus, this would make it possible to build a society where social mobility is a reality, founded on merit and individual effort rather than on welfare dependency."
+      }
+    ]
+  },
+  {
+    "question": "What should be the balance between social protection and economic freedom?",
+    "propositions": [
+      {
+        "candidate_id": "Elly Schlein",
+        "value": "The idea would be to subordinate economic freedom to objectives of social progress, making the protection of citizens the condition for sustainable prosperity. The right approach is to frame the market economy with a foundation of non-negotiable social rights, enshrined in the treaties. This means that access to markets and public financing must be conditioned on compliance with strict social and environmental standards. Innovation and competitiveness are guided by an active industrial policy, and not left to market forces alone, in order to prevent social and fiscal dumping. Thus, this would make it possible to reconcile economic performance and social cohesion, by transforming the single market into a genuine space of shared prosperity rather than a field of deregulated competition."
+      },
+      {
+        "candidate_id": "Giorgia Melonie",
+        "value": "The idea would be to redefine social protection not as an end in itself, but as a targeted investment in the service of a free and dynamic economy. The priority is to free private initiative by lightening the burdens that weigh on those who create wealth and jobs. At the same time, social action must be focused on strategic objectives, first and foremost support for the family and for natality, considered as a productive investment for the future. Solidarity mechanisms should be reserved for the most vulnerable people, such as the elderly and people with disabilities. Thus, this would make it possible to guarantee the sustainability of the social model by basing it on economic prosperity and responsibility, rather than on redistribution that weakens competitiveness."
+      },
+      {
+        "candidate_id": "Giuseppe Conte",
+        "value": "The idea would be to break with the logic in which the social is subordinated to the economic, in order to make economic freedom a lever in the service of collective protection. The right approach is to end the dogma of austerity by establishing a \"golden rule\" that shields strategic public investments (climate, health, education) from budgetary constraints. The central axis is the construction of a European protection floor, with a binding minimum wage to stop social dumping and a citizenship income guaranteeing dignity. The freedom to undertake must be exercised within a framework that promotes employment stability and the fair distribution of wealth. Thus, this would make it possible to build a more resilient and inclusive economy, where performance is no longer measured solely by GDP growth, but by the real well-being of citizens and the sustainability of our social model."
+      },
+      {
+        "candidate_id": "Silvio Berlusconi",
+        "value": "The idea would be to conceive social protection not as a brake, but as a catalyst for economic freedom, by creating a virtuous circle between wealth creation and solidarity. The central axis consists in massively reducing the fiscal and regulatory pressure on businesses and labor, in order to stimulate investment and employment. In parallel, social assistance measures must be transformed, by replacing passive subsidies with active policies of integration and training. A safety net must, however, be maintained and strengthened for people truly unable to work, notably by raising minimum and disability pensions. Thus, this would make it possible to guarantee the sustainability of the social system thanks to a more dynamic economy, while directing national solidarity toward incentivizing work and protecting the most vulnerable."
+      },
+      {
+        "candidate_id": "Matteo Salvini",
+        "value": "The idea would be to restore the primacy of economic freedom as the driver of collective prosperity, with social protection being a consequence of the wealth created and not an obstacle to its production. The right approach is to drastically lighten the constraints weighing on businesses and workers through simplified taxation and a massive reduction of bureaucracy, encouraging a withdrawal of the State from the economic sphere. Assistance measures, such as the citizens' income, should be conditioned on active job-seeking and training, to become a temporary springboard into work rather than an alternative to it. Protection is thus reserved for situations of proven fragility, and not for inactivity. Thus, this would make it possible to create a virtuous circle where economic growth, freed from its shackles, finances targeted and sustainable social protection, founded on individual responsibility rather than dependence on the State."
+      },
+      {
+        "candidate_id": "Angelo Bonelli",
+        "value": "The idea would be to break with the logic of subordinating the social to the economic by reaffirming the primacy of the collective interest. The right approach is for the State to fully assume its role as a strategic actor rather than a mere regulator. To achieve this, the priority is to halt privatizations and bring essential services such as water and energy back under public control. Entrepreneurial freedom must be framed by strict social and environmental obligations, in particular through strong regulation of the labor market to eradicate precariousness. Public enterprises are intended to serve as a lever for society, notably by stabilizing prices, rather than to maximize profits. Thus, this would make it possible to build an economic model in which the pursuit of collective well-being and the protection of the most vulnerable constitute the true drivers of prosperity, not constraints."
+      },
+      {
+        "candidate_id": "Carlo Calenda",
+        "value": "The idea would be to redefine social protection not as an end in itself, but as an instrument serving economic freedom and individual autonomy. The central focus is to free private initiative by reducing the bureaucratic and fiscal burden that weighs on businesses. At the same time, social protection must be transformed into a springboard to employment rather than a passive benefit. Benefits cannot be an unconditional right; they must be strictly time-limited and conditioned on tangible engagement in qualifying training pathways and job search, with the removal of entitlements upon the first refusal of a valid offer. Thus, this would create a virtuous circle where economic growth finances an effective social protection that promotes responsibility, which in turn fuels a dynamic labor market."
+      }
+    ]
+  },
+  {
+    "question": "To what extent should regions have political and financial autonomy?",
+    "propositions": [
+      {
+        "candidate_id": "Elly Schlein",
+        "value": "The idea would be to conceive regional autonomy not as an end in itself, but as a lever serving strengthened territorial cohesion and effective solidarity. The right approach is to massively reinforce cohesion policies led at the European level by providing territories with increased financial resources and administrative competences to implement common strategies. Financial autonomy must translate into an ability to effectively manage dedicated funds, particularly for the most fragile areas, in order to maintain essential public services there and to revive economic activity. Political autonomy would be exercised through an enhanced decision-making role within European bodies, guaranteeing the application of the principle of subsidiarity. Thus, this would make regions active partners in balanced development, ensuring that citizens' rights and opportunities no longer depend on where they live."
+      },
+      {
+        "candidate_id": "Giorgia Melonie",
+        "value": "The idea would be to apply the principle of subsidiarity within the nation itself, by delegating clear competences to strengthen the effectiveness of public action without weakening national cohesion. The proper approach is to entrust regional levels with the management of local-level policies and local economic development, where their knowledge of the ground is an asset. However, their autonomy must be exercised within a rigorously defined national strategic framework, notably for infrastructure of national interest and the allocation of structural funds. Financial autonomy must be synonymous with responsibility, with targeted support mechanisms to correct territorial imbalances rather than a generalized fiscal decentralization. Thus, this would make it possible to reconcile local administrative agility with the strategic vision and solidarity of the nation-state."
+      },
+      {
+        "candidate_id": "Giuseppe Conte",
+        "value": "The idea would be to redefine autonomy not as political independence, but as an enhanced capacity for action within integrated governance. The central axis is to make cities and metropolitan areas full-fledged actors in the European political cycle, surpassing a hierarchical vision of subsidiarity. The right approach is to involve them actively in the design, implementation and evaluation of the Union's strategies, notably through systematic territorial impact assessments. Financial autonomy should be conceived as a functional lever to steer sustainable development projects, in direct connection with European funds. Thus, this would make public policies more effective and adapted to local realities, strengthening territorial cohesion and the relevance of joint action."
+      },
+      {
+        "candidate_id": "Silvio Berlusconi",
+        "value": "The idea would be to complete the decentralization process by granting the regions the full exercise of the powers provided for by the Constitution. The right approach is to fully activate fiscal federalism, allowing territories to directly manage a significant share of their resources and powers. This transfer of responsibilities must imperatively be accompanied by the effective implementation of a national equalization fund, guaranteeing an equivalent level of services for all citizens, regardless of their region. Thus, this would make local actors accountable and adapt public policies to the realities on the ground, while preserving the unity and solidarity essential to national cohesion."
+      },
+      {
+        "candidate_id": "Matteo Salvini",
+        "value": "The idea would be to replace the centralized and uniform model with an autonomy à la carte, in order to align competences with territorial realities and to reward good governance. The right approach is to activate a constitutional mechanism allowing regions that request it to negotiate the transfer of specific functions, within a wide scope of competences. The granting of this autonomy would be conditional on demonstrating their capacity to manage these services more efficiently and economically than the central State, establishing a direct link between power and responsibility. Thus, this would make it possible to establish a federalism of responsibility, where competences are allocated at the most relevant level, stimulating emulation among territories and modernizing the architecture of the State through decentralization based on merit."
+      },
+      {
+        "candidate_id": "Angelo Bonelli",
+        "value": "The idea would be to preserve the unity of the nation and the universality of fundamental rights by strictly regulating territorial autonomy. The right approach is to explicitly reject any 'à la carte' autonomy project that would create unacceptable disparities between territories. Strategic competences, notably in health, education and the ecological transition, must imperatively remain under the aegis of a unified national framework. The objective is to establish public service standards and identical administrative norms for all citizens, regardless of their place of residence. Thus, this would make it possible to combat territorial fragmentation, to guarantee effective equality of access to essential services, and to strengthen the role of the State as guarantor of social cohesion across the entire territory."
+      },
+      {
+        "candidate_id": "Carlo Calenda",
+        "value": "The idea would be to put an end to the current fragmentation, a source of inefficiency and paralysis, in order to restore the primacy of the national interest. The most coherent approach is to thoroughly revise the allocation of powers by introducing a supremacy clause. This mechanism would give the State the power to intervene to preserve the legal and economic unity of the Republic, notably in strategic sectors and in times of crisis. Regional autonomy would not be eliminated, but refocused on administrative management and the delivery of services, while major orientations and standards would return to the central level. Thus, this would make it possible to guarantee a more coherent public action and to put an end to territorial inequalities, ensuring that all citizens benefit from the same level of rights and services."
+      }
+    ]
+  },
+  {
+    "question": "What role should Italy play within the European Union and in the euro area?",
+    "propositions": [
+      {
+        "candidate_id": "Elly Schlein",
+        "value": "The idea would be that Italy abandon any posture of withdrawal in order to fully assume a leading role at the heart of the European project, as a driving force of integration. The right approach is to position the country not on the margins but at the center of strategic decisions, in particular regarding the reform of economic governance to promote investment and solidarity, and regarding the definition of a common foreign and defense policy, with a particular initiative in the Mediterranean region. This leadership role implies forging alliances to deepen the political union and weighing in with all its weight in favor of federalist reforms. Thus, this would make it possible to maximize national influence and to ensure that the country's interests are defended within a stronger and more solidaristic Union, capable of meeting global challenges."
+      },
+      {
+        "candidate_id": "Giorgia Melonie",
+        "value": "The idea would be to position oneself as a central actor in the refounding of the Union, by driving a transition from a bureaucratic model to a confederation of sovereign nations. Italy's role is to actively defend its strategic interests and to promote a Europe that focuses on the major issues — foreign policy, defense, borders, energy — while respecting national competences. Within the euro area, the priority is to wage the fight to overcome austerity, demanding greater flexibility in fiscal rules and steering monetary policy toward growth. Thus, this would restore the country's influence and build a more political and more effective Europe, serving the peoples that compose it."
+      },
+      {
+        "candidate_id": "Giuseppe Conte",
+        "value": "The idea would be that Italy cease to be a passive actor and become a protagonist at the heart of a refounded Europe, actively opposing an economic governance dictated by austerity and the Franco-German axis. The right approach is to federate the Member States weakened by asymmetric rules, notably regarding state aid, to restore a true level playing field. Externally, the country must assume its geostrategic role as a bridge in the Mediterranean, champion a major cooperation plan with Africa, and position itself as the pivot of the continent's renewable energy transition. Thus, this would rebalance power relations within the Union, guarantee shared prosperity and make the country an influential leader in the construction of a fairer, more autonomous Europe."
+      },
+      {
+        "candidate_id": "Silvio Berlusconi",
+        "value": "The idea would be to adopt the posture of an influential founding member, fully engaged in the Alliance atlantique and the European project, while making the defense of the national interest the compass of its action. The central axis of this strategy is the revision of the Pacte de stabilité and of European economic governance to promote growth and employment. The objective is to promote a Union européenne that is more political and less bureaucratic, capable of responding to current challenges without hampering national development policies. Thus, this would make it possible to regain essential budgetary leeway for the country's prosperity and to strengthen its diplomatic weight on the international stage."
+      },
+      {
+        "candidate_id": "Matteo Salvini",
+        "value": "The idea would be to redefine Italy's posture within the European Union, moving from passive alignment to an active defense of its sovereignty and strategic interests. To achieve this, the central axis is to firmly oppose the abandonment of the right of veto in the EU Council, maintaining it as a non-negotiable guarantee of national interests. It is about refocusing the European project on the principle of subsidiarity, leaving to the States full competence over sovereign domains and refusing supranational decisions that substitute for them. This implies a pragmatic renegotiation of regulatory frameworks, notably the strands of the \"Pacte Vert\" deemed penalizing for the national productive fabric, as well as the conclusion of trade agreements that protect internal production standards. Thus, this would transform the Union into an alliance of sovereign States cooperating on common objectives, rather than into a federal structure imposing its directives, ensuring that strategic decisions remain consistent with the national interest."
+      },
+      {
+        "candidate_id": "Angelo Bonelli",
+        "value": "The idea would be to position the country as a driver of the refounding of the European Union, with a view to making it a space of solidarity, social justice and ecological leadership. The central axis is to campaign for a profound reform of economic governance, by making debt mutualization permanent and by excluding ecological investments from deficit calculations in order to exit austerity. It is about promoting a much more ambitious European \"Green Deal\", by supporting an active climate diplomacy and by raising renewable energy targets. At the same time, determined action must be taken to establish genuine European solidarity in the reception of migrants and to work towards a common foreign policy. Thus, this would allow the Union to be transformed into a fairer and more sovereign actor, capable of responding to global crises with Italy playing a leading role."
+      },
+      {
+        "candidate_id": "Carlo Calenda",
+        "value": "The idea would be to break with a passive stance to become the driving force behind a federal refoundation of the European Union, in order to transform it into a true sovereign power. The absolute priority is the abandonment of the unanimity rule in the Council, which paralyzes any strategic decision. To achieve this, the economic and monetary union should be completed by creating a common budgetary capacity and a European risk-free asset. In parallel, a common foreign and defense policy must be initiated, starting with a core of willing countries if an agreement among the 27 proves impossible. Thus, this would allow Europe to be equipped with the tools necessary for its sovereignty, to durably stabilize the euro area and to speak with a single voice on the international stage."
+      }
+    ]
+  },
+  {
+    "question": "How to strengthen internal security while respecting civil liberties?",
+    "propositions": [
+      {
+        "candidate_id": "Elly Schlein",
+        "value": "The idea would be to conceive internal security not as an end in itself, but as a pillar of the rule of law, by tackling criminal threats through coordinated action at the European level. The right approach is to strengthen cross-border cooperation between police forces and the judiciary, relying on European agencies equipped with increased means such as Europol and Eurojust. It is a matter of establishing a common definition of organized crime and systematizing the confiscation and social reallocation of criminal assets. A dedicated parliamentary committee would guarantee democratic oversight of this strategy. Thus, it would make it possible to neutralize criminal networks that undermine democratic foundations, ensuring that the strengthening of security takes place within a shared legal and institutional framework that protects public liberties."
+      },
+      {
+        "candidate_id": "Giorgia Melonie",
+        "value": "The idea would be to present a united and coordinated front against transnational criminal threats, ensuring the certainty of punishment across the entire territory. The right approach is to strengthen judicial cooperation through a systematic exchange of information between national prosecutors' offices, relying on a unified data system. The objective is to move toward greater harmonization of penal standards to prevent criminals from exploiting legal loopholes, by exporting the most proven models of combating major organized crime. Special attention is paid to dismantling Islamist terrorist networks. Thus, this would make it possible to establish a more robust space of security and justice, where public liberties are in fact guaranteed by the effectiveness of the State in neutralizing threats."
+      },
+      {
+        "candidate_id": "Giuseppe Conte",
+        "value": "The idea would be to go beyond mere cooperation between States to build a genuine European security architecture, considering that serious organized crime and terrorism are transnational threats that undermine the foundations of the rule of law. The central axis of this strategy is to equip the Union with powerful operational tools, by extending the competence of the European Public Prosecutor's Office to the fight against terrorism and the mafias. To achieve this, it is necessary to harmonize the definitions of criminal offences, such as mafia-type association, and to generalize proven instruments, such as a European anti-mafia code for the protection of public funds and effective mechanisms for the seizure of illicit assets. Thus, this would make it possible to ensure more effective security without sacrificing freedoms, as the strengthening of transparency and the rule of law constitutes in itself the best protection for citizens."
+      },
+      {
+        "candidate_id": "Silvio Berlusconi",
+        "value": "The idea would be to restore the authority of the State as the primary condition for the exercise of freedoms, by undertaking resolute action against all forms of crime and insecurity. To achieve this, a comprehensive approach is necessary: strengthening the personnel and equipment of law enforcement, increased deployment of video surveillance and security operations in cities, and the adoption of stricter standards against delinquency and attacks on decorum. The fight against terrorism, major crime and cybercrime must also be intensified through increased means. Thus, this would make it possible to guarantee effective control of the territory and to restore a safe environment for citizens, where public order is firmly ensured."
+      },
+      {
+        "candidate_id": "Matteo Salvini",
+        "value": "The idea would be to rebuild internal security on the principle of the authority of the State and the certainty of punishment, viewing public order as the primary condition for the exercise of freedoms. The proper approach is to launch an exceptional recruitment plan within the law enforcement forces to ensure a visible presence across the entire territory, by sanctuarizing local police stations and community brigades. It involves modernizing their equipment, notably by generalizing the use of electrical impulse pistols, and strengthening their legal protection against assaults. At the same time, the penal response will be hardened, with a zero-tolerance policy toward drug trafficking and specific legal tools to counter the new forms of urban delinquency. Thus, this would make it possible to guarantee a firm and deterrent response to any form of crime, restoring public tranquility and citizens' confidence in institutions."
+      },
+      {
+        "candidate_id": "Angelo Bonelli",
+        "value": "The idea would be to reorient the security strategy by concentrating it on dismantling the structures of organized crime, while promoting a culture of legality. The right approach is to target illicit financial flows and to facilitate the confiscation of criminal assets in order to reallocate them to social use. Legislation on environmental crime must be toughened and the resources of specialized investigative units reinforced. In parallel, a reform of the criminal justice system must be undertaken to decriminalize minor non-violent offenses, in order to relieve prison overcrowding and to ensure that punishment remains proportionate. This would thereby sustainably weaken the grip of mafia networks on the economy and society, while preserving public freedoms from an excessive security-driven logic."
+      },
+      {
+        "candidate_id": "Carlo Calenda",
+        "value": "The idea would be to move beyond the sterile opposition between force and the rule of law, by articulating a strengthening of the authority of the State with a scrupulous respect for fundamental freedoms. The right approach rejects mass surveillance, ineffective and intrusive, to focus on targeted measures aimed at high-risk individuals. This implies modernizing the material and digital means of law enforcement, toughening weapons legislation and strengthening European cooperation against terrorism and serious crime. The presumption of innocence must remain an intangible guarantee to ensure balance. Thus, this would make it possible to increase the effectiveness of public action while consolidating citizens' trust, proving that firmness and respect for rights are inseparable."
+      }
+    ]
+  },
+  {
+    "question": "What place should be given to the rights of same-sex couples and to the diversity of family models?",
+    "propositions": [
+      {
+        "candidate_id": "Elly Schlein",
+        "value": "The idea would be to guarantee full and complete recognition of all family models, by establishing effective equality of rights across the entire European territory. The right approach is to establish a principle of systematic mutual recognition of family statuses between Member States. This mechanism of portability of rights must ensure that parentage and unions recognized in one country are recognized throughout the territory of the Union, putting an end to geographical discrimination. Thus, this would make it possible to ensure a genuine freedom of movement and residence for all families, who would retain their legal protections and their dignity regardless of where they choose to live."
+      },
+      {
+        "candidate_id": "Giorgia Melonie",
+        "value": "The idea would be to reaffirm the natural family, founded on the union of a man and a woman, as the fundamental bedrock of society. The right approach is to firmly oppose ideologies that deny sexed identities, and to actively combat practices such as surrogacy, which commodify the woman's body and the child. Rights and public support must be exclusively directed toward the consolidation of this family model, considered the sole guarantor of filiation and transmission. Thus, this would make it possible to protect essential anthropological reference points and to concentrate the nation's efforts on the challenge of demographic renaissance."
+      },
+      {
+        "candidate_id": "Giuseppe Conte",
+        "value": "The idea would be to legally enshrine the diversity of family models so that equality of rights is no longer a declaration of intent but a tangible reality throughout the Union. The central axis of this vision is the establishment of a principle of automatic mutual recognition of parentage: parentage legally established in one Member State, including for same-sex couples, must be recognized in all others, without a special procedure. The right approach is to turn strategies in favor of equality into binding legislative acts, to guarantee universal access to medically assisted reproduction without discrimination, and to bring to fruition the European directive on equal treatment, which has been blocked for years. Thus, this would make it possible to guarantee legal certainty and the well-being of children, to end discrimination based on sexual orientation and to build a genuine European area of family rights."
+      },
+      {
+        "candidate_id": "Silvio Berlusconi",
+        "value": "The idea would be to refocus public action on the family founded on the union of a man and a woman, considering it as the bedrock of social cohesion and the indispensable engine for the renewal of generations. The right approach is therefore to concentrate public resources on policies supporting natality, such as the introduction of the family quotient, the increase of the single allowance and targeted aid to facilitate young couples' access to property. Work-family reconciliation measures are designed specifically for mothers and fathers, with the aim of supporting parenthood. Thus, this would help stimulate a sustainable demographic recovery while reaffirming a stable model of society, founded on the family unit as the primary locus of solidarity."
+      },
+      {
+        "candidate_id": "Matteo Salvini",
+        "value": "The idea would be to reaffirm the central role of the natural family, founded on the union of a man and a woman, as the only fundamental unit of society and to actively protect it from ideological challenges. The proper approach is to sanctuarize this model by firmly opposing any legislation that would introduce concepts such as gender identity or neutral parental terms, in favor of the exclusive recognition of the roles of father and mother. It also involves criminalizing surrogacy at the international level and combating the spread of what is considered gender ideology in the public sphere, notably in schools. Thus, this would make it possible to guarantee the preeminence of the traditional family model and to preserve the cultural and social reference points that result from it."
+      },
+      {
+        "candidate_id": "Angelo Bonelli",
+        "value": "The idea would be to put an end to a restrictive and hierarchical conception of the family in order to establish the full legal equality of all family configurations. The right approach is to institute marriage for all, by extending to same-sex couples the full set of existing rights and duties, including access to adoption and medically assisted reproduction. The recognition of parentage for children raised by same-sex parents must be guaranteed without any distinction. It is also imperative to adopt a specific law to combat and sanction discrimination based on sexual orientation and gender identity. Thus, this would make it possible to guarantee the legal security and dignity of all families, making equality a non-negotiable principle of social life."
+      },
+      {
+        "candidate_id": "Carlo Calenda",
+        "value": "The idea would be to bring the law into conformity with the evolution of society, by guaranteeing full and complete legal protection against any form of discrimination. The absolute priority is the adoption without delay of a law against homophobia and transphobia, complemented by concrete initiatives to prevent hate speech. In family matters, the guiding principle must be equality of parental rights and duties. In the event of separation, this translates into equal involvement and a balanced sharing of responsibilities, ensuring effective co-parenting. Thus, this would make it possible to establish a fair legal framework that protects the dignity of every individual and guarantees the best interests of the child."
+      }
+    ]
+  },
+  {
+    "question": "How can discrimination be prevented and equal treatment guaranteed for all citizens?",
+    "propositions": [
+      {
+        "candidate_id": "Elly Schlein",
+        "value": "The idea would be to transform the principle of equality into a tangible reality, moving from a repressive approach to discrimination to an active promotion of equal opportunity for all. The right approach is to establish a common legal foundation by making discrimination an offense recognized in all countries, while guaranteeing equitable and universal access to education, employment, health care and housing. This also involves establishing portability of family rights, ensuring mutual recognition of parental statuses to guarantee the free movement of all families. Thus, it would make it possible to build a Union where fundamental rights are no longer conditioned by people's identities or by national borders, but are universally guaranteed."
+      },
+      {
+        "candidate_id": "Giorgia Melonie",
+        "value": "The idea would be to base equal treatment on valuing the objective differences between people, notably between men and women, rather than on ideological constructions. The right approach is to guarantee strict equality of opportunity in the economic and professional spheres, by tackling pay gaps and promoting female entrepreneurship. The fight against discrimination should focus on gender-based violence, explicitly recognizing its manifestations and combating the cultural factors that may justify it. Public action must firmly oppose theories that deny sexed identities. Thus, this would help promote a genuine equality of rights and duties, rooted in reality and merit, which protects everyone's dignity without yielding to social fragmentation."
+      },
+      {
+        "candidate_id": "Giuseppe Conte",
+        "value": "The idea would be to make equality and non-discrimination the foundation of a genuine European citizenship, going beyond declarations of principle to enshrine these rights in binding legal mechanisms. The effective approach is to activate all legislative levers to fill existing gaps. Priority will be given to unblocking the horizontal anti-discrimination directive in order to guarantee uniform protection, while instituting concrete measures such as pay transparency for gender equality and proactive policies for the inclusion of persons with disabilities. Respect for these fundamental rights must also become a non-negotiable condition for access to Union funding. Thus, this would allow the construction of a Union of real rights, where equal treatment is no longer an option but a norm applied and verifiable across the entire territory, strengthening social cohesion."
+      },
+      {
+        "candidate_id": "Silvio Berlusconi",
+        "value": "The idea would be to guarantee equal treatment through targeted and pragmatic actions rather than through general proclamations. The most effective approach consists in deploying economic levers to correct inequalities in access to employment, by establishing tax incentives and reductions in charges to encourage the hiring of women, young people and people with disabilities. This approach is complemented by strengthened support for people with disabilities, by policies promoting the social and professional integration of immigrants in a regular situation, and by a determined fight against specific forms of hatred such as antisemitism. Thus, this would make it possible to build real equality, based on the elimination of concrete obstacles to everyone's full economic and social participation."
+      },
+      {
+        "candidate_id": "Matteo Salvini",
+        "value": "The idea would be to guarantee equal treatment by focusing on the concrete obstacles that hinder women's participation in economic and social life, considering that motherhood should not be a factor of penalization. The right approach is to neutralize hiring barriers by establishing parental leave of identical duration for both parents, thus making the choice gender-neutral. This measure will be complemented by reductions in employer contributions for companies that hire women and public co-financing of scientific university programs for female students. The granting of one year of early retirement per child for mothers will reinforce this support. Thus, this would make it possible to remove the de facto incompatibility between a professional career and motherhood, promoting both women's economic autonomy and the revival of birth rates."
+      },
+      {
+        "candidate_id": "Angelo Bonelli",
+        "value": "The idea would be to go beyond the mere proclamation of formal equality to actively address the systemic roots of discrimination. The right approach is to build a comprehensive and coherent legislative arsenal, starting with a framework law against discrimination based on sexual orientation, gender identity and disability. It also involves deeply reforming citizenship law by instituting jus soli, in order to recognize as full citizens the children born and educated in the country. Action must also focus on the educational sphere, by integrating from the earliest age awareness-raising programs on respect for differences and gender equality, while guaranteeing recognition of all family models. In this way, it would be possible to build a truly inclusive society, where the dignity of each person is not only recognized but also actively protected, ensuring the full participation of everyone in collective life."
+      },
+      {
+        "candidate_id": "Carlo Calenda",
+        "value": "The idea would be to translate the principle of equality into a set of concrete rights and enforceable oversight mechanisms. The central axis is the establishment of a solid legislative framework, unambiguously penalizing discrimination related to sexual orientation and gender identity, and the creation of an independent authority for the protection of human rights. In terms of professional equality, transparency becomes the norm, with an obligation for companies to publish sex-disaggregated data on wages and promotions. This requirement of accountability is complemented by a national action plan for universal accessibility, which addresses physical and cultural barriers. Thus, this would make equality no longer a mere declaration of intent, but a measurable reality guaranteed by law for every citizen."
+      }
+    ]
+  },
+  {
+    "question": "What priorities should be set for the ecological transition and energy policy?",
+    "propositions": [
+      {
+        "candidate_id": "Elly Schlein",
+        "value": "The idea would be to link the climate emergency and the imperative of social justice by making the ecological transition an industrial and solidarity-based project. The right approach is to accelerate the decarbonization of the energy system to guarantee strategic autonomy, relying on renewable energies and efficiency. This policy must be coupled with an ambitious European industrial strategy that directs innovation and conditions public aid on compliance with strict social and environmental criteria. Massive investments, notably through a strengthened just transition fund, must accompany workers, households and businesses. Thus, this would make it possible to build a new development model that reconciles climate leadership, competitiveness and social cohesion, transforming the constraint into an opportunity for shared progress."
+      },
+      {
+        "candidate_id": "Giorgia Melonie",
+        "value": "The idea would be to steer the ecological transition by subordinating it to the imperative of energy sovereignty and industrial competitiveness. The right approach is to reject any punitive measures by relying on the principle of technological neutrality, which includes the development of renewable energies, biofuels, hydrogen and next-generation nuclear. The priority is to guarantee the autonomy of States in the choice of their energy mix and to revise binding standards that penalize industry and citizens. The diversification of sources and suppliers, including through the exploitation of national resources and strategic partnerships, constitutes a central pillar. Thus, this would allow reconciling environmental protection with economic growth, while ensuring sustainable strategic independence and safe, affordable energy for all."
+      },
+      {
+        "candidate_id": "Giuseppe Conte",
+        "value": "The idea would be to orchestrate a true energy revolution to achieve continental sovereignty and ensure a socially just transition. The central axis of this strategy is the creation of a structural climate fund, modeled on the recovery plan but made permanent, capable of mobilizing at least 1% of European GDP each year through the issuance of joint debt. To achieve this, the priority is a radical phase-out of fossil fuels, abolishing all their subsidies and excluding gas and nuclear from the green taxonomy, while reforming the market so that electricity prices reflect the low cost of renewables. The creation of a dedicated European Bank will finance strategic green industrial sectors. Thus, this would make it possible to build true energy autonomy, sustainably reduce the bill for households and businesses, and make the ecological transition a driver of social justice rather than a burden."
+      },
+      {
+        "candidate_id": "Silvio Berlusconi",
+        "value": "The idea would be to reconcile the ecological transition with the imperative of national energy self-sufficiency, by adopting a pragmatic and technologically neutral approach. The right approach is to diversify the energy mix by accelerating the production of renewable energies, while fully exploiting national resources such as natural gas and assessing without taboo the use of next-generation nuclear energy. At the same time, environmental protection must be translated into concrete actions: implementation of a national circular economy plan, conversion of waste into energy and promotion of sustainable urban mobility. Thus, this would make it possible to guarantee the security of supplies, reduce external dependence and make progress towards climate goals through realistic and economically viable solutions."
+      },
+      {
+        "candidate_id": "Matteo Salvini",
+        "value": "The idea would be to approach the ecological transition not as an ideological constraint but as a strategic imperative, aiming for energy autonomy that guarantees economic competitiveness. The right approach is to ensure security of supply by diversifying the energy mix on the basis of the principle of technological neutrality. This implies relaunching a next-generation nuclear program, maximizing national natural gas production as a transition fuel, and developing waste-to-energy sectors. In terms of mobility, it means rejecting the 2035 deadline for internal combustion engines, instead supporting the development of biofuels and synthetic fuels. Thus, this would make it possible to ensure a gradual and realistic transition, reducing external energy dependence without sacrificing the industrial fabric, while guaranteeing secure energy at affordable costs for households and businesses."
+      },
+      {
+        "candidate_id": "Angelo Bonelli",
+        "value": "The idea would be to undertake a rapid and total phase-out of fossil fuels and nuclear power to achieve climate neutrality and energy sovereignty. The central axis is a massive acceleration of the deployment of renewable energies, with a target of installing 15 GW per year, while committing to a definitive halt to new gas infrastructure and drilling projects. This strategy, which explicitly excludes recourse to nuclear power, must be complemented by a plan for the electrification of end-uses and for the energy renovation of buildings. To achieve this, binding targets must be set: a reduction of 70 % of emissions by 2030 and an electricity sector fully decarbonized by 2035. Thus, this would make it possible to build a fully decarbonized energy model, resilient to climatic and geopolitical shocks, and founded on an energy democracy where citizens and territories are actors in the transition."
+      },
+      {
+        "candidate_id": "Carlo Calenda",
+        "value": "The idea would be to reconcile supply security and deep decarbonization by rejecting any technological dogmatism. The priority is to massively accelerate the deployment of renewable energy, while initiating a strategic return to nuclear energy to guarantee a stable, decarbonized baseload production. In the short term, national gas production will be increased to ensure energy independence. An essential lever will be reform of the electricity market in order to decouple the prices of renewables from those of fossil fuels. In parallel, ambitious energy efficiency plans will target the building and transport sectors. Thus, this would make it possible to achieve carbon neutrality by 2050 while guaranteeing energy sovereignty and competitive prices."
+      }
+    ]
+  },
+  {
+    "question": "How to improve the education system and vocational training?",
+    "propositions": [
+      {
+        "candidate_id": "Elly Schlein",
+        "value": "The idea would be to conceive education and knowledge as a European public good, a strategic investment essential to social cohesion and future competitiveness. The proper approach is to create a true European education area by 2025 through the mutual and automatic recognition of all diplomas. At the same time, it is crucial to deploy a continental plan for continuing education, in order to support workers in the ecological and digital transitions. Access to studies and mobility programs must be universalized through strengthened funding, so that it no longer depends on social origin. Thus, this would make it possible to guarantee a real equality of opportunity while building an active citizenship and a more resilient knowledge economy."
+      },
+      {
+        "candidate_id": "Giorgia Melonie",
+        "value": "The idea would be to closely align the education system and vocational training with the concrete needs of the economy, in order to guarantee the employability of young people and the competitiveness of businesses. The right approach is to systematize work-study pathways to create a direct bridge between school and the world of work. The priority is to modernize curricula by integrating digital literacy from the earliest age and actively steering students toward scientific and technological disciplines, particularly for girls, while encouraging entrepreneurship. Thus, this would help reduce the gap between the academic world and the productive sector, significantly decrease youth unemployment, and provide the economy with a skilled workforce ready to meet the challenges of innovation."
+      },
+      {
+        "candidate_id": "Giuseppe Conte",
+        "value": "The idea would be to treat education and training no longer as adjustable expenditures, but as fundamental strategic investments, excluded from European budgetary constraints. The central axis is the construction of a genuine common space of knowledge, which involves the establishment of a system of mutual and automatic recognition of diplomas and professional qualifications to guarantee effective mobility. To achieve this, the priority is to launch a vast plan to modernize school infrastructure financed by Europe and to converge towards high quality standards, notably by setting a maximum number of pupils per class. Thus, this would make it possible to ensure real equality of opportunity, to strengthen the continent's human capital and to make training the main lever of active citizenship and sustainable competitiveness."
+      },
+      {
+        "candidate_id": "Silvio Berlusconi",
+        "value": "The idea would be to rebuild the education system to make it a genuine lever for skills and professional integration, by reconnecting it to the needs of the labor market. The central axis is to revalue the vocational and technical pathway, to encourage scientific and technological curricula (STEM), and to institute a principle of merit at all levels. To achieve this, the freedom of educational choice for families must be guaranteed through a school voucher system, while offering increased support to deserving students from modest backgrounds. An investment plan must also stabilize the teaching staff by eliminating precarity and ensuring its continuous training. Thus, this would make it possible to train a youth better prepared for the challenges of the economy, to combat youth unemployment, and to attract back the talents who have gone abroad."
+      },
+      {
+        "candidate_id": "Matteo Salvini",
+        "value": "The idea would be to bridge the gap between theoretical training and the real needs of the labor market, by transforming the education system into a true springboard to employment. The right approach is to institutionalize a permanent dialogue between the business world, schools and universities to co-construct the programs, while revalorizing the vocational track as a specialized pathway of excellence, directly connected to local employment pools. Apprenticeship and work-study should be generalized and placed at the heart of this model. Thus, this would ensure that each young graduate possesses not only theoretical knowledge, but above all practical skills that are immediately operational, thereby drastically reducing the gap between the supply and demand of skills."
+      },
+      {
+        "candidate_id": "Angelo Bonelli",
+        "value": "The idea would be to rebuild the educational system on the principle of a universal and free right, removing it from market logics to make it a powerful lever of individual and collective emancipation. The right approach is to guarantee total free access to the educational pathway, from the earliest age up to university, by funding it through progressive taxation. To achieve this, it is necessary to drastically reduce class sizes, stabilize the teaching staff through a massive tenure plan, and reform vocational training by refocusing it on the educational pathway rather than on the immediate needs of businesses. The fight against precariousness must also be extended to university researchers. In this way, it would be possible to actively combat social inequalities and educational poverty, restoring the vocation of the school as the main vehicle of social mobility and of forming critical and aware citizens."
+      },
+      {
+        "candidate_id": "Carlo Calenda",
+        "value": "The idea would be to carry out a structural overhaul of the education system to combat school failure and align it with the needs of the economy. The central focus is to reform vocational training on a dual model, where programs are co-constructed with companies and delivered by industry practitioners to ensure the acquisition of directly operational skills. At the same time, compulsory schooling will be extended to age 18 and full-time schooling will be generalized in primary education. A targeted strategy to combat territorial inequalities, with smaller class sizes and incentives for teachers in disadvantaged areas, will complete the framework. Thus, this would drastically reduce school dropout, ensure a better match between training and employment, and offer real prospects for social mobility."
+      }
+    ]
+  },
+  {
+    "question": "How can reducing public debt be reconciled with the need to invest in public services?",
+    "propositions": [
+      {
+        "candidate_id": "Elly Schlein",
+        "value": "The idea would be to break with the paradigm of fiscal austerity by dissociating debt management from the capacity for strategic investment. The right approach is to make common investment instruments permanent, financing them through a dedicated European budgetary capacity, fed by new resources such as taxation on financial transactions and the digital sector. This shared fiscal capacity should be earmarked for public goods and major transitions, thereby freeing national budgets from these burdens. In this way, it would make it possible to embark on a sustainable debt-reduction trajectory, not through spending contraction, but through investment-driven growth, while modernizing essential services."
+      },
+      {
+        "candidate_id": "Giorgia Melonie",
+        "value": "The idea would be to get out of the dilemma between budgetary discipline and public investment by making economic growth the only true lever for debt sustainability. The right approach is to separate current expenditures from investments in the future, ring-fencing the most strategic ones such as those dedicated to the green and digital transitions or to defense. The main lever is to obtain their exclusion from the calculation of public deficits, which requires a revision of European budgetary rules for greater flexibility. Thus, this would make it possible to trigger a virtuous circle in which targeted investment stimulates activity, which mechanically reduces the burden of debt and ensures the financing of public services without resorting to austerity."
+      },
+      {
+        "candidate_id": "Giuseppe Conte",
+        "value": "The idea would be to break with the binary and counterproductive logic that pits budgetary discipline against public investment. Sound management of public finances must not be carried out at the expense of essential services and future growth. The central pillar of this approach is the establishment of a golden budget rule: certain strategic investments, precisely defined, must be excluded from the calculation of the deficit and debt subject to European constraints. This protection should concern expenditures that promote the ecological transition, the strengthening of health and education systems, as well as the development of human capital. Thus, it would make it possible to pursue simultaneously an ambitious investment policy, essential for competitiveness and well-being, while continuing a targeted cleanup of public finances, clearly distinguishing debt that prepares for the future from that which finances current expenditures."
+      },
+      {
+        "candidate_id": "Silvio Berlusconi",
+        "value": "The idea would be to move beyond the sterile opposition between austerity and spending by betting on robust economic growth as the only true lever of budgetary sustainability. The right approach is to provoke a supply shock through a drastic reduction in the tax burden on businesses and labor, in order to free up private investment. At the same time, public investment spending must be optimized through the full use of European funds and a radical simplification of procurement procedures, ensuring a better return on every euro spent. Thus, this would create a virtuous circle: the growth generated would increase tax revenues and mechanically reduce the weight of debt relative to GDP, freeing up the room for maneuver necessary to sustainably finance effective public services without resorting to additional borrowing."
+      },
+      {
+        "candidate_id": "Matteo Salvini",
+        "value": "The idea would be to break with the logic of austerity by making economic growth the main lever of fiscal sustainability. The right approach is to trigger a competitiveness shock through a radical tax reform, establishing a single-rate tax (\"flat tax\"). This measure aims to unleash private investment and purchasing power, to encourage the formalization of the underground economy and, consequently, to broaden the tax base. Debt control therefore does not come from raising levies but from stimulating the activity that generates them. Thus, this would create a virtuous circle where GDP growth mechanically reduces the burden of debt and ensures sufficient tax revenues to finance essential public services, without resorting to new budget cuts."
+      },
+      {
+        "candidate_id": "Angelo Bonelli",
+        "value": "The idea would be to break with the dogma of austerity and the purely accounting view of debt, in order to make public investment the engine of ecological and social transformation. The right approach is to ring-fence future-oriented spending, particularly that related to the ecological transition, by excluding it from European budgetary rules. To achieve this, it is essential to carry out a deep reform of the Pacte de stabilité and to make the mechanisms for pooling debt permanent. The financing of these strategic investments must rely on fairer taxation, targeting superprofits and great fortunes, and not on cuts to essential services. In this way, it would be possible to finance the transition without sacrificing collective well-being, laying the foundations for sustainable prosperity that makes debt sustainable in the long term."
+      },
+      {
+        "candidate_id": "Carlo Calenda",
+        "value": "The idea would be to break with the sterile dilemma between austerity and stimulus, by creating room for maneuver through rigorous management rather than through borrowing. The central axis consists in conducting a systematic hunt for unproductive spending and waste, notably through the centralization and standardization of public procurement. In parallel, revenues resulting from an intensified fight against tax evasion will be fully reinvested. These resources thus freed will finance both strategic investments in public services and a reduction of the tax burden on households and businesses. Thus, this would make it possible to trigger a virtuous circle where the consolidation of public finances is the result of growth and efficiency, and not an objective achieved at the expense of investment."
+      }
+    ]
+  },
+  {
+    "question": "What actions should be taken to prevent corruption and strengthen institutional transparency?",
+    "propositions": [
+      {
+        "candidate_id": "Elly Schlein",
+        "value": "The idea would be to elevate the integrity of institutions to an absolute principle, shifting from a logic of ex post control to a requirement of preventive and systematic transparency. The right approach is to impose a binding ethical framework on all institutions and to systematically condition the granting of European funds on respect for the rule of law. At the same time, it is imperative to strictly regulate lobbying activities by making all meetings public and to establish a mandatory cooling-off period after holding public office to prevent conflicts of interest and revolving-door practices. Thus, this would ensure irreproachable management of public funds and protect the democratic process from illegitimate influences, thereby restoring citizens' trust."
+      },
+      {
+        "candidate_id": "Giorgia Melonie",
+        "value": "The idea would be to guarantee the integrity of institutions by tackling the roots of corruption and serious crime through coordinated and uncompromising action. The right approach is to systematize the exchange of information between judicial authorities and to harmonize standards to neutralize transnational criminal networks. The priority action aims to dismantle tax havens and combat fraud, drawing on the national legislations most effective in combating organized crime. It is also about guaranteeing the enforcement of judicial obligations across the entire territory. Thus, this would make it possible to restore the rule of law and ensure fair competition, strengthening the confidence of citizens and businesses in a transparent judicial space."
+      },
+      {
+        "candidate_id": "Giuseppe Conte",
+        "value": "The idea would be to establish a genuine institutional ethics by replacing voluntary codes of conduct with a robust legal framework based on binding rules, independent oversight and deterrent sanctions. The central element is the creation of a truly independent ethics body, composed of external members and endowed with investigative powers, in order to oversee all institutions. The right approach is to make the transparency register fully mandatory and to equip it with verification powers, while prohibiting ancillary paid activities for elected officials and imposing a strict cooling-off period after their term. Thus, this would help safeguard the democratic process against interference and conflicts of interest, restoring citizens' trust through an effective obligation to be accountable rather than merely declaratory."
+      },
+      {
+        "candidate_id": "Silvio Berlusconi",
+        "value": "The idea would be to prevent corruption through a structural overhaul of the State apparatus, relying on simplicity and efficiency to ensure transparency. The central axis of this approach is a drastic simplification of administrative procedures, notably through a revision of the public procurement code, in order to reduce areas of opacity. This simplification must be accompanied by a complete digitization of the administration to ensure the traceability of decisions and by a reform of the justice system aimed at making sanctions, particularly with regard to economic crime, faster and more effective. Thus, this would make it possible to rationalize the functioning of institutions, reduce the scope for arbitrariness and restore a relationship of trust between citizens and the State, creating an environment structurally hostile to corruption."
+      },
+      {
+        "candidate_id": "Matteo Salvini",
+        "value": "The idea would be to dismantle the systemic mechanisms that encourage corruption and opacity, by targeting conflicts of interest within the judiciary and the inefficiency of the administration. The right approach is to impose a strict separation of careers between bench judges and prosecutors, and to break cooptation dynamics within their governing body by selection by lot. At the same time, a radical simplification of administrative procedures will limit discretionary power, while sanctions against criminal infiltration will target the individuals responsible without paralyzing the entirety of local institutions. This would thus help guarantee the impartiality of justice, speed up public action, and make institutions more resistant to illicit influences, restoring citizens' trust."
+      },
+      {
+        "candidate_id": "Angelo Bonelli",
+        "value": "The idea would be to carry out a comprehensive offensive against opacity and illegality, treating transparency as the primary bulwark of institutional integrity. The right approach is to ensure systematic public access to information, notably regarding environmental matters and public procurement, and to empower citizens by facilitating reporting. To achieve this, it is essential to strengthen the resources of oversight authorities and to implement strict preventive mechanisms, such as rotating staff in high-risk administrations and the requirement of \"integrity pacts\" in public tenders. Action should also target the economic roots of corruption through the traceability of financial flows and the social reallocation of confiscated assets. In this way, it would be possible to create an environment hostile to collusion and organized crime, restoring citizens' trust and ensuring that public resources serve exclusively the public interest."
+      },
+      {
+        "candidate_id": "Carlo Calenda",
+        "value": "The idea would be to replace a purely repressive approach with a systemic reform that tackles the roots of opacity and inefficiency. The central axis is an overhaul of the judicial system to guarantee its independence, notably through the separation of the careers of judges and prosecutors and a reform of their governing body. At the same time, the transparency of public administration will be ensured by complete digitization of procedures and the centralization of public procurement, eliminating the grey areas conducive to arrangements. The processes of democratic participation will likewise be digitized to guarantee full traceability. Thus, this would make it possible to restore citizens' trust by creating an environment where integrity and merit are the only criteria for decision-making."
+      }
+    ]
+  },
+  {
+    "question": "What policies should be implemented to support birth rates and families?",
+    "propositions": [
+      {
+        "candidate_id": "Elly Schlein",
+        "value": "The idea would be to build an environment supportive of parenting by addressing the structural obstacles that weigh on families and hinder equality. The right approach is to establish a five-month parental leave, fully paid, equal and non-transferable for both parents, complemented by a massive investment in public early childhood services, notably nurseries, to guarantee universal access. This policy must explicitly recognize and support the diversity of family models and rely on a guarantee for childhood aimed at eradicating child poverty from the earliest age. In this way, it would equitably redistribute the burden of care, promote women's employment, and offer each child a fair start in life."
+      },
+      {
+        "candidate_id": "Giorgia Melonie",
+        "value": "The idea would be to elevate family policy to the status of a strategic investment, considering spending on natality as a driver of future growth. The right approach is to dedicate a significant share of the budget to it, in order to finance direct support measures for families and parenthood. It is also essential to actively promote a child-friendly culture, by creating targeted programs to accompany mothers in vulnerable situations in their maternity plans. Thus, this would help stem demographic decline and ensure the sustainability of the social and economic model."
+      },
+      {
+        "candidate_id": "Giuseppe Conte",
+        "value": "The idea would be to stop treating fertility as an abstract demographic issue and to consider it as the result of concrete living conditions. The right approach is to establish parental leave of equal duration and under the same conditions for both parents, while guaranteeing universal and public access to quality childcare services from the earliest age. Access to medically assisted reproduction must be established as a fundamental right, supported by policies that ensure the economic stability of households and the financial independence of women. Thus, this would make it possible to remove the material and social obstacles to parenthood, to promote an equitable distribution of family responsibilities, and to allow everyone to start a family by choice, and not based on their economic situation or gender."
+      },
+      {
+        "candidate_id": "Silvio Berlusconi",
+        "value": "The idea would be to make demographic recovery a national priority, by creating an economic and social environment that encourages starting a family. The right approach is to combine a structural tax reform, via the introduction of the family quotient, with direct support for household purchasing power. Concretely, this translates into increasing the universal single allowance, free childcare, a reduction of VAT on children's products, and facilitated access to housing for young couples. Thus, this would remove the main economic barriers to parenthood, tangibly encourage births, and reaffirm the centrality of the family in society."
+      },
+      {
+        "candidate_id": "Matteo Salvini",
+        "value": "The idea would be to make the family the pillar of demographic and economic recovery, replacing one-off aid with a structural overhaul of taxation and maternity support. The right approach is to establish a family quotient, making the household the reference fiscal unit to adjust taxes according to the number of children. This reform would be complemented by direct parenting supports, such as a contribution for each birth, reduced-rate loans for young families, and the granting of one year of pension contribution per child for mothers. Taxation on essential products for children would also be eased. Thus, this would create a fiscal and social environment favorable to birth rates, recognizing parenthood as an investment for the community and making the decision to start a family economically more sustainable."
+      },
+      {
+        "candidate_id": "Angelo Bonelli",
+        "value": "The idea would be to build a universal family policy that treats support for parenting not as targeted aid, but as a fundamental investment in equality and collective well-being. The central axis is the establishment of a public early childhood service, universal and entirely free. This measure must be accompanied by a reform of parental leave, lengthening it and making it strictly parity-based and mandatory for both parents, complemented by a policy of reducing working time without loss of salary. The objective is to remove the economic barriers that weigh on families by also guaranteeing free access to culture and leisure for children. Thus, this would ensure that the choice to have children no longer results in economic precariousness or in a setback for equality between women and men, while ensuring the full flourishing of children."
+      },
+      {
+        "candidate_id": "Carlo Calenda",
+        "value": "The idea would be to move from a mosaic of occasional aids to an integrated and universal family policy, aiming both to reverse the demographic trend and to unlock the potential of women's labor. The pillar of this scheme is a single universal allowance, strengthened and modulated to encourage the activity of both parents. The main effort will focus on removing the economic barriers to parenthood, by making nurseries free for modest incomes and by introducing a reimbursement system for a wide range of educational, cultural and childcare expenses. In parallel, a reform of parental leave will promote a more balanced sharing of responsibilities, in order to neutralize the impact of motherhood on women's careers. Thus, this would make it possible to create an economic and social environment where starting a family is no longer an obstacle to professional and financial fulfillment, but a life project supported by a structural commitment of the community."
+      }
+    ]
+  },
+  {
+    "question": "How can equitable and effective access to the healthcare system be ensured for the entire population?",
+    "propositions": [
+      {
+        "candidate_id": "Elly Schlein",
+        "value": "The idea would be to conceive health no longer as an isolated national competence, but as a European public good, by building a genuine Health Union to guarantee equal access to care. The right approach is to pool strategic capacities by creating a large European public institute for the research, production and distribution of medicines and vaccines. This autonomy would rely on joint purchasing mechanisms to control costs and on the promotion of open patents to stimulate shared innovation. Thus, this would make it possible to reduce inequalities, to prepare the Union for future health crises and to guarantee every citizen effective and equitable access to treatments."
+      },
+      {
+        "candidate_id": "Giorgia Melonie",
+        "value": "The idea would be to guarantee an effective and citizen-centered healthcare system, strengthening it through structural investments and pragmatic cooperation. The right approach is to significantly increase investments in public health and to reinforce cross-border collaboration, notably in the prevention of epidemics. The priority is to fund screening campaigns and the fight against addictions, while promoting well-being through sport. Any action must imperatively respect the fundamental rights of persons and preserve the sovereignty of States in the management of their healthcare system. Thus, this would make it possible to build a more resilient healthcare system capable of facing future health crises, while guaranteeing access to quality care without ideological conditioning or infringement of individual freedoms."
+      },
+      {
+        "candidate_id": "Giuseppe Conte",
+        "value": "The idea would be to move beyond national logics by founding a genuine European Health Union, where access to care is no longer an economic variable but a fundamental right guaranteed to all. The right approach is to make health a shared competence, to ring-fence health investments by excluding them from budgetary constraints, and above all to create a European public infrastructure for research and production of essential medicines in order to control prices and address market failures. This would make it possible to ensure strategic health security for the continent, to put an end to the geographic lottery in access to treatments, and to build resilient and truly universal public health systems."
+      },
+      {
+        "candidate_id": "Silvio Berlusconi",
+        "value": "The idea would be to refocus the health system on the concrete needs of citizens by guaranteeing rapid, local access to care. The absolute priority is to reduce waiting lists by restoring the full range of routine services and screenings. To achieve this, territorial medicine must be strengthened and the numbers of doctors and caregivers significantly increased. At the same time, access to care will be facilitated by expanding medical services exempt from the co-payment, thereby reducing costs for patients. This approach will be based on a comprehensive revision of the national health plan to make it more effective and responsive. Thus, this would make it possible to offer an equitable response across the entire territory and to ensure that every citizen receives the necessary care in a timely manner."
+      },
+      {
+        "candidate_id": "Matteo Salvini",
+        "value": "The idea would be to guarantee effective access to care by relieving pressure on the hospital system and redirecting it toward local and preventive care. The proper approach is to remove the barrier to entry to medical studies by abolishing the numerus clausus, replacing it with a selection process at the end of a first semester open to all. At the same time, the reduction of waiting lists will be ensured by increasing the capacity of the public health service and by better integrating the contracted private sector. Emphasis will be placed on strengthening primary care and home care, while guaranteeing patients' freedom of therapeutic choice. Thus, this would make the health system more responsive and accessible, ensuring the renewal of generations of caregivers and bringing the provision of care closer to the real needs of citizens in their territory."
+      },
+      {
+        "candidate_id": "Angelo Bonelli",
+        "value": "The idea would be to break with the logic of weakening and commodification of the health system in order to reaffirm its character as a universal public service, entirely financed by the community. The central axis is a massive reinvestment plan in infrastructure and personnel, financed by national solidarity. The correct approach is to end the two-tier system by removing all tax advantages for private insurers and by integrating private practice doctors into the public service. Priority must be given to strengthening local primary care and to an ambitious prevention policy, in order to address the causes of diseases upstream. Thus, this would make it possible to guarantee the effectiveness of the right to health for all, to reduce territorial and social inequalities in access to care, and to build a resilient system centered on the well-being of the population rather than on profitability."
+      },
+      {
+        "candidate_id": "Carlo Calenda",
+        "value": "The idea would be to rebuild the health system to overcome the weaknesses revealed by the crisis, moving from a care-based approach to a global health strategy. The central axis is a recentralization of strategic governance to guarantee a homogeneous set of services and put an end to territorial disparities. Priority will be given to strengthening a local network, integrating primary care and social support, while an emergency plan will reduce waiting lists with guaranteed maximum waiting times. A new national prevention agency will steer crisis preparedness. Thus, this would ensure effective and equitable access to care, with sustainable financing aligned with European standards."
+      }
+    ]
+  }
+]

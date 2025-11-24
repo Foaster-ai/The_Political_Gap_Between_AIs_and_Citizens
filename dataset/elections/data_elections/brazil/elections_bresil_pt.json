@@ -1,0 +1,437 @@
+[
+  {
+    "question": "Como o Brasil deve gerir o equilíbrio entre crescimento econômico, estabilidade orçamentária e combate à inflação?",
+    "propositions": [
+      {
+        "candidate_id": "Luiz Inácio Lula da Silva",
+        "value": "A ideia seria romper com um quadro orçamental rígido para restaurar o crescimento como pilar da estabilidade. A abordagem correta consiste em substituir o limite de despesas por um novo regime fiscal credível e previsível, mas suficientemente flexível para permitir o investimento público contracíclico. O combate à inflação deve visar as suas causas estruturais, nomeadamente através de uma política de preços dos combustíveis que tenha em conta os custos de produção nacionais, em vez de se basear apenas em taxas de juro elevadas. Esta estratégia será sustentada por uma reforma fiscal de grande envergadura destinada a aumentar a progressividade do imposto e a financiar a modernização do aparelho produtivo. Assim, isso permitiria relançar a economia de forma sustentável, controlar a inflação agindo sobre a oferta e garantir a sustentabilidade das finanças públicas graças aos frutos do regresso do crescimento."
+      },
+      {
+        "candidate_id": "Jair Bolsonaro",
+        "value": "A ideia seria assentar a estabilidade orçamental como o fundamento indispensável para um crescimento sustentável e uma inflação controlada. A abordagem correta consiste em consolidar o ajustamento das contas públicas para reduzir o peso da dívida, ao mesmo tempo que se conduzem reformas estruturais-chave: simplificação fiscal, privatizações e desburocratização para estimular o setor privado. Paralelamente, o controlo da inflação deve ser assegurado pelo respeito a um regime de metas e pela garantia da independência do Banco Central. Assim, isso permitiria restaurar a confiança dos agentes económicos, atrair investimentos e lançar um ciclo virtuoso de criação de empregos e de riqueza."
+      },
+      {
+        "candidate_id": "Simone Tebet",
+        "value": "A ideia seria restaurar os fundamentos da estabilidade macroeconómica para catalisar um crescimento económico sustentável e inclusivo. A prioridade é restabelecer um quadro credível assente em metas de inflação respeitadas, responsabilidade orçamental e um regime cambial flutuante. Para o conseguir, a abordagem consiste em implementar, já nos seis primeiros meses, reformas estruturais, nomeadamente uma reforma fiscal centrada na simplificação através de um imposto sobre o valor acrescentado (IVA) e uma reforma administrativa visando a eficiência dos serviços públicos. Esta condução será reforçada por uma política de controlo das despesas, um apoio à independência do Banco Central e um ambiente estável para atrair o investimento privado. Assim, isso permitiria controlar de forma duradoura a inflação, sanear as contas públicas e relançar um ciclo de crescimento criador de empregos e de oportunidades."
+      },
+      {
+        "candidate_id": "Ciro Gomes",
+        "value": "A ideia seria orquestrar uma retoma do crescimento econômico sustentável, garantindo simultaneamente a estabilidade dos preços e o equilíbrio das contas públicas. O eixo central é uma ampla reforma fiscal e orçamentária, visando tanto um aumento das receitas – pela tributação dos dividendos e das grandes fortunas – quanto uma racionalização das despesas, por meio de uma redução de 20 % dos incentivos fiscais já no primeiro ano e a adoção de um orçamento base zero. Paralelamente, a retoma das obras de infraestrutura, apoiada por um banco público de desenvolvimento, deve estimular a atividade. O banco central conservará sua autonomia operacional com um duplo mandato de domínio da inflação e de busca do pleno emprego. Assim, isso permitiria gerar 5 milhões de empregos em dois anos, ao mesmo tempo em que assegura a sustentabilidade orçamentária a longo prazo."
+      },
+      {
+        "candidate_id": "Soraya Thronicke",
+        "value": "A ideia seria atacar a raiz da ineficiência económica por meio de uma reforma estrutural do sistema fiscal, a fim de conciliar crescimento, estabilidade e controlo dos preços. O eixo central consiste em instaurar um imposto federal único para substituir a complexidade actual, uma abordagem destinada a aliviar o encargo que pesa sobre as empresas e os assalariados, a combater a evasão fiscal e a optimizar a gestão das despesas públicas. Em paralelo, um apoio acrescido deve ser dirigido às micro e pequenas empresas via um acesso facilitado ao crédito e à inovação para estimular o investimento e a produtividade. Assim, isso permitiria restaurar a estabilidade orçamental, ao mesmo tempo que libertaria o potencial de crescimento e reduziria as pressões inflacionistas de forma duradoura."
+      },
+      {
+        "candidate_id": "Luiz Felipe d’Avila",
+        "value": "A ideia seria romper com a gestão de compromissos de curto prazo para edificar um crescimento duradouro sobre fundações saneadas, onde a estabilidade orçamental é a condição primeira da prosperidade. A abordagem correta consiste em empreender uma reforma estrutural do Estado para torná-lo mais eficiente, suprimindo os subsídios improdutivos e os privilégios. Paralelamente, uma abertura unilateral da economia é necessária para estimular a competitividade e a produtividade, o que exerce uma pressão descendente sobre os preços. Essa estratégia apoia-se também numa simplificação do sistema tributário, com a instauração de um imposto sobre o valor acrescentado, e na modernização das leis do trabalho. Assim, isso permitiria atacar as raízes da inflação e da estagnação, criando um ambiente propício ao investimento e a um crescimento sustentável."
+      }
+    ]
+  },
+  {
+    "question": "Qual deve ser a política do país em matéria de fiscalidade e despesas públicas?",
+    "propositions": [
+      {
+        "candidate_id": "Luiz Inácio Lula da Silva",
+        "value": "A ideia seria refundar o pacto fiscal para que se torne um vetor de desenvolvimento e de justiça social. A abordagem assenta em dois pilares: a revogação do teto de despesas, substituído por um novo regime orçamentário credível e flexível que autorize o investimento público, e uma reforma tributária profunda. Esta última terá por objetivo simplificar o sistema, reduzir a tributação sobre o consumo e aumentar significativamente a progressividade, fazendo com que os rendimentos mais elevados contribuam mais. Os recursos assim libertados serão prioritariamente alocados ao financiamento do Estado-providência e à reconstrução dos serviços públicos. Assim, isso permitiria devolver à política orçamental a sua capacidade de ação para reduzir as desigualdades e estimular a economia."
+      },
+      {
+        "candidate_id": "Jair Bolsonaro",
+        "value": "A ideia seria reformar a gestão das finanças públicas para a tornar um motor de crescimento, concentrando-se na eficácia das despesas e na redução da pressão fiscal. A abordagem correta consiste em otimizar cada despesa pública, revisando sistematicamente os programas, desvinculando os orçamentos das indexações automáticas e concentrando-se nos serviços essenciais. No plano fiscal, o objetivo é simplificar o sistema para o tornar mais justo e competitivo, com uma redução direcionada dos impostos, nomeadamente aumentando significativamente o limite de isenção do imposto sobre o rendimento para os assalariados. Assim, isso permitiria libertar recursos para o investimento privado, aumentar o poder de compra das famílias e garantir a sustentabilidade das contas públicas a longo prazo."
+      },
+      {
+        "candidate_id": "Simone Tebet",
+        "value": "A ideia seria refundar o pacto orçamental e fiscal com bases de simplicidade, equidade e eficiência para garantir a justiça social e a sustentabilidade das contas públicas. O eixo central é uma reforma fiscal de grande envergadura, a implementar nos primeiros seis meses, instaurando um imposto sobre o valor acrescentado (IVA) para simplificar a tributação do consumo e tornando o imposto sobre o rendimento mais progressivo. Em matéria de despesas, a prioridade é racionalizar a despesa pública, reduzindo as despesas fiscais ineficazes e conferindo total transparência à execução do orçamento. Uma revisão sistemática dos programas permitirá realocar os recursos para políticas sociais de elevado impacto. Assim, isto permitiria controlar melhor as despesas, reduzir a complexidade do sistema fiscal e assegurar uma repartição mais justa da carga fiscal, ao mesmo tempo que reforça os serviços essenciais à população."
+      },
+      {
+        "candidate_id": "Ciro Gomes",
+        "value": "A ideia seria conduzir uma reforma fiscal de grande envergadura para garantir a sustentabilidade das contas públicas, ao mesmo tempo que financia os investimentos estratégicos. A prioridade é reequilibrar a carga fiscal aliviando os impostos sobre a produção, via a fusão de cinco taxas numa só, para a transferir para o património e os rendimentos. Esta abordagem inclui a instauração de uma taxa de 0,5 % sobre fortunas superiores a 20 milhões, a reintrodução do imposto sobre os dividendos e, do lado das despesas, uma redução de 20 % das subvenções e incentivos fiscais já no primeiro ano. A adoção de um orçamento base zero permitirá, em paralelo, um exame detalhado de todas as despesas correntes. Assim, isso permitiria libertar margens de manobra orçamentais importantes para relançar os serviços públicos e as infraestruturas."
+      },
+      {
+        "candidate_id": "Soraya Thronicke",
+        "value": "A ideia seria romper com décadas de imobilismo por uma reforma estrutural do sistema fiscal, que é a peça-chave para o controlo das despesas públicas. O eixo central é a instauração de um imposto federal único, destinado a simplificar radicalmente a arrecadação, a reduzir a burocracia e a repartir melhor a carga fiscal entre os cidadãos e as empresas. Esta abordagem deve ser acompanhada por uma intensificação da luta contra a evasão e por uma gestão otimizada dos recursos do Estado, garantindo ao mesmo tempo o respeito pela autonomia financeira das entidades federadas. O objetivo é tornar a máquina pública mais eficiente para libertar fundos para os investimentos essenciais. Assim, isso permitiria sanear de forma duradoura as contas públicas, estimular a economia e corrigir os desequilíbrios territoriais."
+      },
+      {
+        "candidate_id": "Luiz Felipe d’Avila",
+        "value": "A ideia seria redefinir o papel do Estado para torná-lo um garant eficiente dos serviços públicos, com a responsabilidade orçamental como princípio não negociável. A prioridade é uma profunda reforma administrativa orientada para os resultados, acompanhada da supressão dos subsídios e dos privilégios que sobrecarregam as contas. No domínio da fiscalidade, a complexidade atual deve ser substituída por um sistema simples e justo, baseado num imposto único sobre o valor acrescentado e em regras unificadas para a tributação dos rendimentos e dos salários. Assim, isso permitiria restaurar o equilíbrio das contas, tornar o sistema fiscal mais equitativo e libertar recursos para as funções essenciais do Estado sem aumentar a carga global."
+      }
+    ]
+  },
+  {
+    "question": "Como garantir a eficácia e a sustentabilidade dos programas sociais de combate à pobreza?",
+    "propositions": [
+      {
+        "candidate_id": "Luiz Inácio Lula da Silva",
+        "value": "A ideia seria refundar os programas sociais sobre uma dupla lógica: garantir uma renda básica para responder à urgência, ao mesmo tempo em que os integra numa estratégia de desenvolvimento humano e de inclusão económica. O eixo central é a implementação de um programa de renda de cidadania, renovado e ampliado, assegurando montantes compatíveis com as necessidades reais da população. Este dispositivo deve apoiar-se no fortalecimento de um sistema nacional unificado de assistência social para garantir uma cobertura ampla e equitativa em todo o território. A sua eficácia será assegurada ao ligá-lo a ações de inclusão produtiva, tanto em meio urbano quanto rural, para criar verdadeiras pontes para o emprego e a autonomia. Assim, isso permitiria passar de uma lógica de assistência para uma verdadeira garantia de direitos, visando uma transição por etapas para um sistema universal que erradique a pobreza de maneira estrutural."
+      },
+      {
+        "candidate_id": "Jair Bolsonaro",
+        "value": "A ideia seria transformar os programas sociais em trampolins para a autonomia económica em vez de simples subsídios. A abordagem eficaz consiste em condicionar a ajuda a uma trajetória de inserção profissional, vinculando as transferências de renda a programas de qualificação, ao acesso ao microcrédito e, sobretudo, a mecanismos de incentivo que tornem a manutenção da ajuda compatível com a retomada de um emprego formal. Essa articulação deve incentivar o empreendedorismo e a formalização do emprego. Assim, isso permitiria garantir que a assistência social seja uma solução temporária e responsabilizadora, que rompe o ciclo da dependência e favorece uma saída duradoura da pobreza por meio do trabalho e da iniciativa individual."
+      },
+      {
+        "candidate_id": "Simone Tebet",
+        "value": "A ideia seria transformar a assistência social numa alavanca de emancipação duradoura, consolidando um sistema de proteção social ao mesmo tempo permanente e orientado para a autonomia dos beneficiários. A abordagem consiste em instituir um programa de transferência de rendimento permanente, resguardado de qualquer instrumentalização política, cuja eficácia repousará num direcionamento preciso através de um registo social único reforçado. A manutenção da ajuda será condicionada a compromissos claros em matéria de escolarização, de acompanhamento médico e de vacinação, a fim de quebrar o ciclo intergeracional da pobreza. O objetivo principal é fazer dessa base uma transição para o emprego, articulando-a com políticas ativas de inserção profissional e de microcrédito produtivo. Assim, isso permitiria garantir uma segurança de rendimento para os mais vulneráveis, ao mesmo tempo em que lhes oferece percursos concretos rumo à autonomia económica e à plena cidadania."
+      },
+      {
+        "candidate_id": "Ciro Gomes",
+        "value": "A ideia seria refundar a luta contra a pobreza articulando um apoio direto e alavancas para a autonomia econômica. A abordagem consiste primeiro em sanear a situação financeira das famílias via um amplo programa de renegociação de dívidas, incentivando a remissão de dívidas em troca de um refinanciamento público por 36 meses. Paralelamente, as prestações sociais existentes seriam consolidadas em um programa de renda mínima universal. A sua eficácia repousaria num registro social único, constantemente atualizado para uma focalização geográfica precisa, e no acompanhamento das famílias rumo ao emprego por centros de referência. Essa abordagem seria complementada por um plano de emergência para a criação de 5 milhões de empregos. Assim, isso permitiria passar de uma lógica de assistência para uma dinâmica de inclusão duradoura, restaurando tanto o poder de compra quanto o acesso ao trabalho."
+      },
+      {
+        "candidate_id": "Soraya Thronicke",
+        "value": "A ideia seria transformar a assistência social de uma simples medida paliativa num verdadeiro alavancador de autonomia duradoura para os beneficiários. A perenidade dos programas assenta numa abordagem de responsabilidade partilhada, em que a ajuda federal está condicionada a compromissos concretos como a frequência escolar das crianças e a integração dos jovens em percursos de formação técnica. A prioridade é ligar o apoio financeiro a percursos de inserção profissional, nomeadamente para as mães, de forma a reforçar a sua capacidade de suprir as suas necessidades, ao mesmo tempo que se desenvolvem infraestruturas de apoio como creches para remover os obstáculos ao emprego. Assim, isso permitiria passar de uma lógica de assistencialismo para uma dinâmica de emancipação, assegurando simultaneamente a eficácia das ajudas e a sua sustentabilidade a longo prazo."
+      },
+      {
+        "candidate_id": "Luiz Felipe d’Avila",
+        "value": "A ideia seria transformar os programas sociais de uma lógica de assistência para uma estratégia de emancipação, atacando as causas estruturais da pobreza. A abordagem correta consiste em fundamentar toda ação numa medição contínua e precisa da pobreza por meio de indicadores nacionais, a fim de concentrar as intervenções nos casos mais críticos, nomeadamente a pobreza infantil. É depois crucial estabelecer metas de redução vinculativas a médio e longo prazo que orientem as despesas públicas. A perenidade do sistema pauta-se numa estrita responsabilidade orçamental e em ações destinadas a estimular o empreendedorismo como via de saída sustentável. Assim, isso permitiria garantir que cada recurso investido contribua não só para um alívio imediato, mas sobretudo para romper definitivamente o ciclo da precariedade."
+      }
+    ]
+  },
+  {
+    "question": "Que estratégia adotar para proteger a Amazônia e reduzir o desmatamento ao mesmo tempo em que se apoiam as atividades econômicas locais?",
+    "propositions": [
+      {
+        "candidate_id": "Luiz Inácio Lula da Silva",
+        "value": "A ideia seria substituir o modelo de exploração predatória por uma estratégia de desenvolvimento sustentável que valorize a floresta. A abordagem correta consiste em conduzir uma política de tolerância zero contra o crime ambiental, combatendo implacavelmente o desmatamento ilegal, a prospecção mineral clandestina e a apropriação de terras. Simultaneamente, trata-se de desbloquear o potencial da bioeconomia estimulando, por meio da pesquisa e da inovação, atividades econômicas de baixo impacto ecológico. Esse esforço virá acompanhado de um objetivo de desmatamento líquido zero, alcançado por meio da restauração das áreas degradadas e do reflorestamento. Assim, isso permitiria transformar a preservação da Amazônia em um motor de crescimento e de soberania, harmonizando a proteção dos ecossistemas e a prosperidade local."
+      },
+      {
+        "candidate_id": "Jair Bolsonaro",
+        "value": "A ideia seria conciliar a proteção da floresta com um desenvolvimento económico soberano, transformando a conservação numa oportunidade de riqueza para as populações locais. A abordagem central consiste em intensificar as operações coordenadas de controlo e repressão das atividades ilegais, apoiando-se na tecnologia para uma vigilância acrescida e uma resposta rápida. Paralelamente, é prioritário estruturar cadeias económicas viáveis, como o ecoturismo e a exploração sustentável dos recursos, apoiadas por mecanismos financeiros incentivadores tais como o pagamento por serviços ambientais e o mercado de carbono. O objetivo é tornar a preservação mais rentável do que a destruição para os habitantes. Assim, isso permitiria reduzir a desflorestação, oferecendo alternativas económicas concretas às comunidades, ao mesmo tempo que reforça a presença do Estado e a soberania nacional sobre este território estratégico."
+      },
+      {
+        "candidate_id": "Simone Tebet",
+        "value": "A ideia seria fazer da proteção do meio ambiente o motor de um novo ciclo de desenvolvimento, posicionando o país como um líder da economia verde. A abordagem consiste em combinar uma política de tolerância zero ao desmatamento ilegal, restaurando a plena capacidade de atuação dos órgãos de controle e combatendo firmemente o crime organizado. Paralelamente, é essencial criar incentivos econômicos positivos estruturando um mercado nacional de créditos de carbono, promovendo o pagamento por serviços ambientais e apoiando a bioeconomia e a agricultura de baixo carbono. Essa estratégia se apoiará na reativação de fundos de preservação e na integração das comunidades locais. Assim, isso permitiria não só deter a destruição dos biomas, mas também gerar riqueza e melhorar as condições de vida em Amazonie a partir da valorização da floresta em pé."
+      },
+      {
+        "candidate_id": "Ciro Gomes",
+        "value": "A ideia seria fazer da preservação da floresta um motor de desenvolvimento econômico, demonstrando que seu valor ecológico é um ativo superior ao das terras desmatadas. A estratégia baseia-se na implementação imediata de um zoneamento econômico e ecológico, em particular na região amazônica, para clarificar os usos da terra e assegurar os direitos fundiários. É imperativo envolver as populações locais em cadeias econômicas rentáveis e sustentáveis que excluam o desmatamento, apoiando-se na pesquisa científica local para desenvolver novos produtos e modos de gestão sustentável dos recursos. Assim, isso permitiria conciliar e integrar de forma duradoura a agricultura, a pecuária e a floresta, transformando a conservação em uma atividade econômica viável para as comunidades."
+      },
+      {
+        "candidate_id": "Soraya Thronicke",
+        "value": "A ideia seria ultrapassar a oposição estéril entre preservação e exploração, fazendo da floresta um motor de desenvolvimento económico sustentável, ao serviço da soberania nacional. A estratégia assenta num duplo pilar: o desenvolvimento de uma bioeconomia de elevado valor acrescentado — indústria farmacêutica, cosmética, turismo ecológico — e um reforço intransigente do Estado contra as actividades ilegais. É, portanto, imperativo oferecer segurança jurídica aos investimentos de baixo carbono e promover a inovação, ao mesmo tempo que se trava uma luta acérrima contra o desflorestamento criminoso, a exploração mineira ilegal e o tráfico, através de um planeamento territorial rigoroso. Assim, isso permitiria transformar a proteção do ecossistema num poderoso fator de criação de riqueza e de empregos, tornando a \"forêt debout\" mais rentável do que a sua destruição."
+      },
+      {
+        "candidate_id": "Luiz Felipe d’Avila",
+        "value": "A ideia seria superar a oposição entre preservação e desenvolvimento, fazendo da transição ecológica a principal alavanca da prosperidade nacional. A abordagem adequada consiste em transformar a conservação em uma atividade geradora de receitas, monetizando a floresta em pé por meio de um mercado robusto de créditos de carbono e do financiamento do reflorestamento de terras degradadas. O eixo central é fazer da Amazonie um polo mundial de bioeconomia e de captura de carbono, ao mesmo tempo integrando a pecuária à preservação dos ecossistemas. O objetivo é alcançar desmatamento líquido zero até 2030, combatendo firmemente as atividades ilegais. Assim, isso permitiria desencadear um novo ciclo de investimentos verdes, criar empregos sustentáveis para as populações locais e reposicionar o país como uma potência da nova economia de baixo carbono."
+      }
+    ]
+  },
+  {
+    "question": "Qual política energética o Brasil deve privilegiar entre energias fósseis, energia hidrelétrica e renováveis ?",
+    "propositions": [
+      {
+        "candidate_id": "Luiz Inácio Lula da Silva",
+        "value": "A ideia seria orientar a transição energética apoiando‑se na gestão das recursos nacionais existentes para financiar e acelerar o desdobramento das energias limpas. A abordagem correta consiste em reafirmar o papel do Estado como coordenador estratégico, retomando o controlo dos grandes intervenientes da produção e da distribuição de energia. Trata‑se de estabelecer uma política de preços dos combustíveis que reflita os custos nacionais, protegendo assim a economia da volatilidade externa. As riquezas provenientes da exploração dos hidrocarbonetos, geridas de forma soberana, devem ser reinvestidas massivamente para diversificar a matriz energética, privilegiando a expansão dos setores renováveis. Assim, isso permitiria conciliar a autossuficiência em petróleo e derivados com a liderança na transição ecológica, garantindo uma energia acessível para a população e a indústria, ao mesmo tempo que respeita os compromissos climáticos."
+      },
+      {
+        "candidate_id": "Jair Bolsonaro",
+        "value": "A ideia seria assegurar a segurança energética nacional através de uma diversificação pragmática das fontes, ao mesmo tempo que se capitaliza o potencial das energias limpas para afirmar uma liderança mundial. A prioridade não é opor as diferentes vertentes, mas articulá-las de forma estratégica. O eixo central é consolidar a exploração dos recursos existentes, nomeadamente o gás natural para garantir a estabilidade industrial e dos preços, ao mesmo tempo que se lança um programa ambicioso de desenvolvimento das energias renováveis como a solar, a eólica offshore e o hidrogénio verde. Assim, isso permitiria reduzir progressivamente a dependência das energias carbonadas e dos mercados internacionais, oferecer uma energia competitiva aos cidadãos e às empresas, e transformar o país num grande exportador de energia verde."
+      },
+      {
+        "candidate_id": "Simone Tebet",
+        "value": "A ideia seria acelerar a transição para uma matriz energética com baixo teor de carbono, que seja ao mesmo tempo mais limpa, segura, acessível e eficiente, apoiando-se nas vantagens competitivas do país. A abordagem correta consiste em estimular a competição entre as diferentes fontes de energia limpa em vez de privilegiar apenas uma. O desenvolvimento dos setores eólico, solar, de biocombustíveis, da biomassa e do hidrogénio verde será ativamente promovido, em complemento ao potencial hidroeléctrico existente e integrando o gás natural como energia de transição. Essa diversificação será acompanhada de uma governação sectorial melhorada e da supressão dos subsídios injustificados. Assim, isso permitiria garantir a segurança do abastecimento, cumprir os compromissos climáticos reduzindo as emissões e fornecer uma energia competitiva para a economia e as famílias."
+      },
+      {
+        "candidate_id": "Ciro Gomes",
+        "value": "A ideia seria engajar uma transição energética rápida para uma matriz de produção 100 % limpa, mobilizando os recursos naturais do país para garantir uma energia abundante e acessível. A estratégia consiste em reformar a política de preços da companhia petrolífera nacional para dissociá-la dos mercados internacionais, ao mesmo tempo em que a transforma em um polo de inovação para as novas energias como a eólica, a solar e o hidrogênio verde. Paralelamente, a hidroeletricidade seria otimizada como fonte de reserva para os picos de consumo, o que permitiria programar a eliminação completa das centrais termelétricas poluentes até 2030. Assim, isso permitiria proteger a economia contra a inflação importada via os preços da energia e assegurar uma autossuficiência durável e descarbonizada."
+      },
+      {
+        "candidate_id": "Soraya Thronicke",
+        "value": "A ideia seria capitalizar os pontos fortes naturais do país para operar uma transição para uma economia de baixo carbono, afirmando assim sua liderança no cenário internacional. A prioridade é inscrever a transição para uma matriz energética limpa e diversificada como uma política de Estado. Isso implica estimular ativamente a produção de energias renováveis — eólica, solar, biomassa — para reduzir a dependência excessiva da hidroeletricidade. A estratégia passa por uma liberalização do mercado para favorecer a competitividade e uma redução dos custos para os consumidores, bem como uma reorganização do quadro regulatório para atrair investimentos. Assim, isso permitiria garantir a segurança energética, reduzir o custo da energia para os cidadãos e as empresas, e posicionar o país como uma referência mundial no cumprimento dos compromissos climáticos."
+      },
+      {
+        "candidate_id": "Luiz Felipe d’Avila",
+        "value": "A ideia seria abandonar a dependência dos combustíveis fósseis para acelerar a transição para uma economia de baixo carbono, fazendo das energias limpas o motor principal da modernização e da competitividade. A estratégia consiste em implantar massivamente as fontes renováveis como o solar, o eólico e o etanol. Será dada uma prioridade particular à biomassa, reconhecida como um trunfo nacional superior aos combustíveis fósseis. Essa transição deve ocorrer em todos os setores, começando pela agroindústria, que deve visar a autonomia energética por meio de fontes limpas. Assim, isso permitiria reduzir drasticamente as emissões de gases de efeito estufa, ao mesmo tempo em que criaria empregos e posicionaria o país como uma potência da economia verde."
+      }
+    ]
+  },
+  {
+    "question": "Quais prioridades devem orientar a política de segurança pública e o combate ao crime organizado?",
+    "propositions": [
+      {
+        "candidate_id": "Luiz Inácio Lula da Silva",
+        "value": "A ideia seria refundar a política de segurança na valorização da vida e na prevenção, rompendo com o modelo puramente guerreiro. A abordagem adequada consiste em substituir a lógica de confrontação por estratégias baseadas em inteligência e informação para desmantelar as organizações criminosas, incluindo as milícias. O eixo central será o reforço de um sistema nacional de segurança unificado, favorecendo a coordenação entre as forças policiais e uma ação direcionada à redução dos homicídios. Será dada prioridade à valorização dos profissionais de segurança, através da modernização das carreiras, da formação contínua e da implementação de um apoio psicossocial. Assim, isso permitiria atacar as raízes da criminalidade organizada, promovendo simultaneamente uma cultura de paz e de respeito pelos direitos fundamentais."
+      },
+      {
+        "candidate_id": "Jair Bolsonaro",
+        "value": "A ideia seria restabelecer a ordem pública por meio de uma ação resoluta do Estado, ao mesmo tempo em que se reforçam as capacidades de defesa dos cidadãos face à criminalidade. O eixo prioritário consiste em reforçar significativamente os meios humanos, materiais e jurídicos das forças de segurança, garantindo-lhes uma proteção acrescida no exercício de suas funções. A abordagem apoia-se numa coordenação reforçada entre as instituições federais, estaduais e municipais, e no uso de tecnologias avançadas como a inteligência artificial e a polícia científica para desmantelar as redes organizadas. Paralelamente, a estratégia assenta na garantia do direito fundamental dos cidadãos à legítima defesa. Assim, isso permitiria obter uma redução tangível nos índices de violência e restabelecer um ambiente onde a lei protege eficazmente toda a população."
+      },
+      {
+        "candidate_id": "Simone Tebet",
+        "value": "A ideia seria retomar a iniciativa perante a criminalidade organizada, restaurando a coordenação central do Estado e adotando uma postura de tolerância zero. A prioridade é recriar um ministério da Segurança Pública para pilotar uma estratégia nacional unificada, colocando a União no centro da articulação das ações. Para isso, a abordagem consiste em integrar todas as forças de segurança em torno de um sistema de informação único e de um uso intensivo da inteligência. O controle das fronteiras será reforçado para conter o tráfico de armas e de drogas, enquanto os decretos que flexibilizam a posse de armas serão revogados em favor de uma política de controle e de rastreabilidade estrita. Assim, isso permitiria desmantelar mais eficazmente as redes criminosas, reduzir os homicídios e restaurar a autoridade do Estado em todo o território."
+      },
+      {
+        "candidate_id": "Ciro Gomes",
+        "value": "A ideia seria adotar uma abordagem integrada de segurança, articulando a repressão ao crime organizado com políticas de prevenção direcionadas. O eixo central é a implementação de um sistema nacional unificado de segurança pública, garantindo uma coordenação efetiva e uma partilha de informações entre as diferentes forças em todos os níveis de governo. O combate ao crime organizado deve priorizar o ataque aos seus fluxos financeiros e à lavagem de dinheiro, apoiando-se em tecnologias avançadas de rastreamento. Paralelamente, a política sobre as drogas deve ser reorientada para uma abordagem de redução de danos, e uma atenção particular será dada à proteção das mulheres e dos jovens mais expostos à violência. Assim, isso permitiria reduzir a criminalidade de forma estrutural, atacando simultaneamente suas manifestações e suas raízes sociais."
+      },
+      {
+        "candidate_id": "Soraya Thronicke",
+        "value": "A ideia seria conduzir uma ofensiva estrutural contra a criminalidade, restaurando a autoridade do Estado onde ela foi suplantada. A abordagem consiste em agir em duas frentes: por um lado, reforçar as capacidades de antecipação pela integração sistemática da inteligência e pela modernização tecnológica da investigação penal, nomeadamente para o controlo das fronteiras. Por outro lado, é imperativo desmantelar a base operacional das facções, retomando o controlo total do sistema penitenciário e melhorando a eficácia da polícia. Assim, isso permitiria romper a estrutura de comando do crime organizado, passando de uma lógica de mera reação a uma estratégia de desmantelamento das suas fundações."
+      },
+      {
+        "candidate_id": "Luiz Felipe d’Avila",
+        "value": "A ideia seria romper com uma abordagem puramente repressiva para desmantelar as estruturas sistêmicas que alimentam a criminalidade organizada e a corrupção. O eixo central é reforçar a integração dos sistemas de inteligência entre as diferentes forças de segurança e a justiça. Isso passa pela santuarização das instituições-chave, garantindo a autonomia da polícia federal por meio de mandatos fixos e deslocados do ciclo político. Paralelamente, a prioridade é reduzir drasticamente a impunidade mediante um endurecimento da execução das penas, o fim das jurisdições especiais e a aplicação da detenção a partir da condenação em segunda instância. A eficiência das forças policiais será estimulada pela instauração de metas de desempenho mensuráveis para a elucidação dos crimes. Assim, isso permitiria restaurar a credibilidade do Estado de direito e enfraquecer duradouramente as redes criminosas ao atacar suas ramificações políticas e econômicas."
+      }
+    ]
+  },
+  {
+    "question": "Como melhorar a qualidade da educação pública em todos os níveis ?",
+    "propositions": [
+      {
+        "candidate_id": "Luiz Inácio Lula da Silva",
+        "value": "A ideia seria reposicionar a educação como um investimento estratégico essencial para o desenvolvimento soberano e para a igualdade, rompendo com a lógica de desmantelamento dos serviços públicos. A abordagem correta consiste em reativar o Plan National d'Éducation como folha de rota, garantindo uma coordenação sistêmica entre l'Union, os Estados e os municípios. O esforço deve cobrir todo o percurso, da creche ao ensino superior, com atenção particular à valorização dos profissionais da educação. Uma prioridade será dada a um programa nacional de recuperação escolar para suprir os déficits de aprendizagem acumulados. Assim, isso permitiria reconstruir um sistema público universal, gratuito e de qualidade, capaz de formar cidadãos para a sociedade do conhecimento e de garantir um futuro mais justo para o país."
+      },
+      {
+        "candidate_id": "Jair Bolsonaro",
+        "value": "A ideia seria reformar o sistema educativo para o alinhar com os imperativos económicos e tecnológicos contemporâneos, a fim de garantir uma elevada empregabilidade e de reforçar a competitividade nacional. A abordagem consiste em reforçar a sinergia entre as instituições, nomeadamente através do ensino técnico e profissional, e as necessidades reais do mercado de trabalho. Isso passa por uma atualização dos programas, privilegiando um ensino dos fundamentos desprovido de qualquer prisma ideológico e integrando massivamente as competências digitais essenciais. Esta transformação apoia-se igualmente na revalorização da carreira dos professores. Assim, isso permitiria formar uma massa crítica de jovens qualificados, reduzir o desajuste entre a oferta de formação e a procura de emprego, e melhorar duradouramente a posição do país nas classificações internacionais."
+      },
+      {
+        "candidate_id": "Simone Tebet",
+        "value": "A ideia seria colocar a educação no topo das prioridades nacionais, devolvendo-lhe o seu papel de principal alavanca de desenvolvimento e de igualdade de oportunidades. O eixo central consiste em restaurar a capacidade de pilotagem do ministério da Educação para coordenar uma ação coerente em todo o território. A prioridade será dada à primeira infância e à garantia de uma alfabetização completa de todos os alunos ao final do segundo ano do ensino primário. Paralelamente, tratar-se-á de generalizar o ensino em tempo integral, de reformar o ensino secundário para integrar uma formação técnica e profissional conectada ao mercado de trabalho e de revalorizar a carreira dos professores. Assim, isso permitiria suprir os atrasos de aprendizagem, reduzir o abandono escolar e preparar melhor os jovens para o seu futuro profissional e cidadão."
+      },
+      {
+        "candidate_id": "Ciro Gomes",
+        "value": "A ideia seria iniciar uma transformação estrutural da educação pública para a posicionar entre as melhores do mundo no espaço de 15 anos, tornando-a uma missão nacional coordenada pelo Estado federal. A estratégia baseia-se na valorização da carreira docente, com programas massivos de formação contínua, salários atrativos e incentivos financeiros para as escolas e os professores que atinjam seus objetivos de desempenho. Paralelamente, é essencial generalizar progressivamente a escola em tempo integral desde o ensino primário e desenvolver um ensino secundário profissionalizante, incluindo estágios remunerados para os alunos. Um acompanhamento rigoroso dos resultados orientará um apoio direcionado aos estabelecimentos em dificuldade. Assim, isso permitiria garantir uma verdadeira igualdade de oportunidades e construir uma base sólida de competências para o futuro do país."
+      },
+      {
+        "candidate_id": "Soraya Thronicke",
+        "value": "A ideia seria refundar o pacto educativo nacional para garantir um ensino de qualidade, desde a primeira infância até à universidade, de forma a formar cidadãos autónomos e preparar o país para os desafios da economia do conhecimento. O eixo central é uma revalorização profunda da carreira docente, condicionada a um sistema nacional de avaliação das competências e do desempenho. Em paralelo, uma intervenção de gestão forte deve garantir uma administração mais rigorosa dos recursos e a implementação de metodologias de ensino modernas, centradas nas competências fundamentais e técnicas exigidas pelos polos de emprego locais. Assim, isso permitiria reduzir drasticamente o analfabetismo funcional e elevar o nível geral dos alunos, ao mesmo tempo que assegura uma melhor adequação entre a formação e as oportunidades reais do país."
+      },
+      {
+        "candidate_id": "Luiz Felipe d’Avila",
+        "value": "A ideia seria refundar o sistema educativo para torná-lo um verdadeiro motor de igualdade de oportunidades e de competitividade, visando um desempenho de nível mundial. A abordagem adequada consiste em instaurar uma governança orientada para resultados, sistematizando a avaliação dos professores e das instituições e condicionando parte dos financiamentos ao desempenho. O percurso do aluno será reforçado pela universalização da pré-escolarização, pela extensão do tempo escolar e pela integração da formação técnica no ensino secundário. Em paralelo, uma reforma do ensino superior visará despolitizar a seleção dos seus dirigentes e incentivar o seu autofinanciamento. Assim, isso permitiria elevar o sistema educativo aos padrões internacionais em sete anos, garantindo uma melhor eficiência dos recursos públicos e formando o capital humano indispensável a uma economia produtiva."
+      }
+    ]
+  },
+  {
+    "question": "Que orientation dar ao sistema de saúde pública (SUS) para reforçar o acesso e a eficácia dos cuidados?",
+    "propositions": [
+      {
+        "candidate_id": "Luiz Inácio Lula da Silva",
+        "value": "A ideia seria tratar a saúde não mais como uma despesa, mas como um direito fundamental e um pilar da soberania nacional. A abordagem adequada consiste em reforçar o caráter público e universal do SUS por meio de um reinvestimento maciço em suas infraestruturas, seus equipamentos e na valorização de seus profissionais. O esforço se concentrará na melhoria da gestão, no relançamento de políticas estruturantes que garantam a medicina de proximidade e o acesso a medicamentos essenciais, assim como na reconstrução do complexo industrial da saúde para reduzir a dependência externa. Uma prioridade será reduzir as demandas de cuidados não satisfeitas, herdadas da crise sanitária. Assim, isso permitiria garantir a cada cidadão um acesso efetivo a um sistema de saúde integral e de qualidade, ao mesmo tempo em que prepara o país para futuros desafios sanitários."
+      },
+      {
+        "candidate_id": "Jair Bolsonaro",
+        "value": "A ideia seria transformar a gestão do sistema de saúde público para garantir a sua eficiência e universalidade, apoiando-se na tecnologia como alavanca de desempenho. O eixo central desta modernização é a implementação de uma infraestrutura de saúde digital, incluindo um prontuário médico unificado para cada cidadão, a fim de melhorar a coordenação dos cuidados e racionalizar os percursos. Esta transformação deve ser acompanhada de um reforço da atenção primária e preventiva, que constitui a base do sistema, ao mesmo tempo que otimiza a gestão dos recursos por uma melhor articulação entre os atores públicos e privados. Assim, isso permitiria oferecer um acesso aos cuidados mais equitativo e rápido em todo o território, melhorar a qualidade do acompanhamento médico e assegurar a sustentabilidade do sistema a longo prazo."
+      },
+      {
+        "candidate_id": "Simone Tebet",
+        "value": "A ideia seria recentrar o sistema de saúde público nas suas missões fundamentais de prevenção e de cuidados de proximidade, passando de uma lógica de tratamento da doença para uma verdadeira política de promoção da saúde. O eixo central consiste em reforçar massivamente os cuidados de saúde primários, considerados como a porta de entrada do sistema, e em investir na prevenção, nomeadamente pela retoma das campanhas de vacinação. A eficácia será aumentada pelo uso da tecnologia, como a telemedicina e o dossiê médico eletrónico, para reduzir as filas de espera. Esse reforço apoiar-se-á num aumento progressivo do financiamento federal e numa melhor coordenação nacional. Assim, isso permitiria garantir um acesso mais rápido e equitativo aos cuidados, reforçar a resiliência do sistema e concretizar a promessa de uma saúde pública universal e eficaz."
+      },
+      {
+        "candidate_id": "Ciro Gomes",
+        "value": "A ideia seria reconstruir o sistema de saúde pública para garantir um acesso universal e eficaz aos cuidados, atacando prioritariamente as fragilidades estruturais agravadas pela crise sanitária. A abordagem apoiaria-se na criação de uma central de regulação permanente que, em parceria com o setor privado, visaria eliminar em um ano as listas de espera para consultas, diagnósticos e cirurgias. Em paralelo, uma reforma do percurso de cuidados reforçaria a atenção primária e sua articulação com centros de referência especializados, tudo integrado por um prontuário médico eletrônico. Para garantir a soberania sanitária, a produção nacional de medicamentos e insumos farmacêuticos seria retomada. Assim, isso permitiria restaurar a capacidade de resposta do sistema, reduzir as desigualdades no acesso aos cuidados e melhorar de forma duradoura a qualidade de vida da população."
+      },
+      {
+        "candidate_id": "Soraya Thronicke",
+        "value": "A ideia seria transformar o sistema de saúde público de uma estrutura burocrática em um serviço ágil e centrado no cidadão, fazendo da sua melhoria uma prioridade de Estado. A abordagem correta consiste em implantar ferramentas de governança digital, como um sistema de gestão online e um prontuário médico nacional unificado, para garantir a rastreabilidade dos cuidados e a otimização dos recursos. É essencial investir na universalização dos serviços, mirando áreas críticas como a saúde mental e o cuidado às pessoas idosas, e reforçar a formação dos profissionais de saúde para responder às necessidades reais da população. Assim, isso permitiria garantir um acesso equitativo e em tempo real aos cuidados, melhorar a qualidade dos serviços prestados e restaurar a confiança dos cidadãos no seu sistema de saúde público."
+      },
+      {
+        "candidate_id": "Luiz Felipe d’Avila",
+        "value": "A ideia seria transformar o sistema de saúde pública de uma lógica de meios para uma cultura de resultados, fazendo da integração e da tecnologia os pilares de um acesso aos cuidados mais eficiente para todos. A abordagem adequada consiste em implementar a digitalização completa do percurso de cuidados, com um registo médico único e unificado, a fim de otimizar a coordenação. Centrais de regulação inteligentes terão a missão de mobilizar o conjunto dos recursos disponíveis, incluindo a capacidade não utilizada do setor privado, para reduzir as listas de espera. O financiamento será progressivamente reorientado para recompensar a qualidade e os resultados clínicos efetivos em vez do simples volume de atos. Assim, isso permitiria garantir cuidados de melhor qualidade, reduzir as ineficiências e assegurar a sustentabilidade financeira do sistema a longo prazo."
+      }
+    ]
+  },
+  {
+    "question": "Que lugar deve ser dado às empresas públicas e ao setor privado na economia nacional?",
+    "propositions": [
+      {
+        "candidate_id": "Luiz Inácio Lula da Silva",
+        "value": "A ideia seria restaurar a primazia do Estado como ator estratégico e planejador do desenvolvimento, posicionando o setor privado como um parceiro essencial para a realização dos objetivos nacionais. A abordagem adequada consiste em interromper os processos de privatização dos ativos estratégicos e reafirmar o papel motor das empresas públicas em setores-chave como energia, logística e crédito. As instituições financeiras públicas serão consolidadas para financiar a longo prazo as infraestruturas e a inovação. O investimento privado, por sua vez, será ativamente incentivado por meio de parcerias e concessões, desde que se insira em missões de interesse geral, notadamente nos planos social e ambiental. Assim, isso permitiria articular a capacidade de investimento do Estado e o dinamismo privado para reconstruir o aparelho produtivo, garantir a soberania nacional e orientar a economia para um modelo de crescimento mais justo e sustentável."
+      },
+      {
+        "candidate_id": "Jair Bolsonaro",
+        "value": "A ideia seria redefinir o perímetro de intervenção do Estado para libertar o potencial da economia e estimular o empreendedorismo. O eixo central consiste em acelerar a transferência para o setor privado das atividades que este pode gerir de maneira mais eficiente, por meio de um programa sustentado de privatizações, de concessões e de parcerias público-privadas. Essa abordagem visa um recentramento estratégico: o Estado deve concentrar os seus recursos nas suas missões soberanas fundamentais – segurança, saúde, educação – onde a sua ação é insubstituível. Assim, isso permitiria atrair investimentos, melhorar a competitividade e a qualidade dos serviços, ao mesmo tempo que assegura uma gestão mais rigorosa e eficaz das finanças públicas."
+      },
+      {
+        "candidate_id": "Simone Tebet",
+        "value": "A ideia seria redefinir o papel do Estado, posicionando-o como um parceiro estratégico da iniciativa privada, reconhecida como o principal motor do crescimento, do investimento e do emprego. O eixo central dessa estratégia é a implementação de um ambicioso programa de concessões, privatizações e parcerias público-privadas, visando atrair capitais e a expertise do setor privado. Para isso, o Estado se concentrará na criação de um ambiente de negócios estável e previsível, dotado de segurança jurídica e regulatória sem falhas. Os recursos gerados por essas operações serão prioritariamente direcionados às políticas sociais de redução da pobreza e de educação infantil. Assim, isso permitiria liberar o potencial de investimento privado, aumentar a produtividade da economia e recentrar a ação do Estado em suas missões sociais essenciais."
+      },
+      {
+        "candidate_id": "Ciro Gomes",
+        "value": "A ideia seria redefinir o pacto entre o Estado e o mercado para articular um desenvolvimento nacional planificado com a vitalidade da iniciativa privada. O Estado assumiria um papel de estratega e de investidor-catalisador, relançando os projetos de infraestrutura e mobilizando um banco público de desenvolvimento para orientar o financiamento para setores-chave. O setor privado seria o motor do investimento e da inovação, num ambiente concorrencial saneado por uma política antitruste rigorosa. As empresas públicas seriam, por sua vez, instrumentos ao serviço desta estratégia nacional, nomeadamente para pilotar a transição energética e controlar os custos para a economia. Assim, isso permitiria conciliar uma visão de longo prazo e uma soberania económica reforçada com um ambiente de negócios dinâmico e gerador de empregos."
+      },
+      {
+        "candidate_id": "Soraya Thronicke",
+        "value": "A ideia seria redefinir o papel do Estado para torná-lo um parceiro estratégico da iniciativa privada, em vez de um operador económico direto, de modo a mobilizar a eficiência e os capitais privados para modernizar o país. A abordagem correta consiste em sistematizar o recurso às parcerias público-privadas (PPP) para a gestão dos serviços essenciais, como a saúde e o saneamento, ao mesmo tempo que se apoia ativamente as pequenas e médias empresas por meio de um acesso facilitado ao crédito e à inovação. O Estado concentrar-se-ia então no seu papel de regulador eficaz, impondo garantias de desempenho estritas nos contratos. Assim, isso permitiria criar uma sinergia em que a agilidade do setor privado acelera a concretização dos objetivos públicos, ao mesmo tempo que reforça a competitividade da economia nacional."
+      },
+      {
+        "candidate_id": "Luiz Felipe d’Avila",
+        "value": "A ideia seria fazer do setor privado o motor central da economia, reposicionando o Estado como um árbitro e um facilitador em vez de um operador. A abordagem correta consiste em retirar o Estado das atividades produtivas através de um programa de privatização, ao mesmo tempo suprimindo os subsídios e as reservas de mercado que travam a concorrência. A ação pública deve concentrar-se nas suas missões fundamentais: assegurar uma regulação clara, investir nas infraestruturas estratégicas e desmontar os monopólios. O setor privado, inclusive através de parcerias, deve assumir o papel principal na produção de bens e serviços. Assim, isso permitiria libertar as forças produtivas, atrair investimentos e gerar um crescimento económico mais forte e mais sustentável."
+      }
+    ]
+  },
+  {
+    "question": "Que política o país deve adotar em relação aos direitos dos povos indígenas e à demarcação das terras?",
+    "propositions": [
+      {
+        "candidate_id": "Luiz Inácio Lula da Silva",
+        "value": "A ideia seria garantir os direitos territoriais e culturais dos povos indígenas não mais como uma concessão, mas como um dever constitucional do Estado. A abordagem correta consiste em assegurar a posse efetiva de suas terras, finalizando os processos de demarcação e impedindo qualquer atividade predatória que ameace seus direitos e seus modos de vida. Trata-se de reforçar as instituições federais dedicadas a essa missão e de construir políticas públicas que valorizem sua cultura, suas tradições e seus saberes. Essa proteção deve garantir uma vida digna e a plena cidadania, reconhecendo esses povos como atores essenciais da nação. Assim, isso permitiria assegurar sua existência física e cultural, pacificar os conflitos fundiários e reconhecer sua contribuição inestimável para a proteção do meio ambiente."
+      },
+      {
+        "candidate_id": "Jair Bolsonaro",
+        "value": "A ideia seria ir além de uma abordagem puramente conservadora para garantir a autonomia dos povos indígenas através da sua plena integração no desenvolvimento económico, em respeito à soberania nacional. A abordagem correcta consiste em dar-lhes os meios para valorizar de forma sustentável as suas terras e os seus recursos, favorecendo o surgimento de actividades económicas como o etnoturismo, a agricultura ou a extração de recursos regulamentada. Isso implica garantir-lhes o acesso às infraestruturas essenciais – transporte, energia, conectividade – para que se tornem actores de pleno direito na economia regional. Assim, isso permitiria conciliar a protecção do seu modo de vida com uma melhoria concreta das suas condições materiais, ao mesmo tempo que afirma que o desenvolvimento desses territórios se insere num projecto nacional unificado."
+      },
+      {
+        "candidate_id": "Simone Tebet",
+        "value": "A ideia seria garantir a plena efetividade dos direitos constitucionais dos povos indígenas restaurando a primazia da lei e a capacidade de ação do Estado para a proteção de seus territórios. O eixo central dessa política é restaurar e reforçar a instituição pública responsável pelas questões indígenas, a fim de aplicar rigorosamente a legislação. Isso implica acelerar os processos de regularização fundiária, ao mesmo tempo em que se assegura um acesso efetivo a políticas públicas específicas nas áreas de saúde, educação e assistência social. Assim, isso permitiria garantir a segurança jurídica e física das comunidades, preservar seu patrimônio cultural e reconhecer seu papel essencial na proteção do meio ambiente."
+      },
+      {
+        "candidate_id": "Ciro Gomes",
+        "value": "A ideia seria garantir de maneira efetiva os direitos fundamentais dos povos indígenas, considerando a proteção de suas terras e de sua cultura como uma urgência. O eixo central da ação consiste em assegurar o respeito, a preservação e a inviolabilidade das reservas territoriais, impedindo qualquer forma de exploração ilegal por terceiros. Essa proteção deve se estender à sua cultura e às suas atividades produtivas tradicionais, que são vitais para sua subsistência. Paralelamente, uma política de saúde direcionada, com médicos especificamente formados, deve ser implementada. Assim, isso permitiria assegurar sua integridade física e cultural ao mesmo tempo em que preserva sua autonomia e seu modo de vida."
+      },
+      {
+        "candidate_id": "Soraya Thronicke",
+        "value": "A ideia seria ultrapassar a cisão estéril entre a sanctuarização das terras e a sua exploração descontrolada, tornando os territórios protegidos vetores de desenvolvimento económico soberano. A abordagem adequada consiste em definir, no quadro de um plano territorial estratégico nacional, modelos de gestão que conciliem a preservação das culturas e o desenvolvimento económico sustentável dessas zonas. É imperativo deixar de as considerar unicamente como reservas para as transformar em polos de produção de riqueza, ao mesmo tempo que se afirma uma soberania nacional sem falha contra qualquer ingerência externa e se reforça a vigilância das fronteiras para combater a criminalidade. Assim, isso permitiria alinhar a proteção dos direitos e do ambiente com os imperativos de crescimento e de segurança nacional, garantindo que a valorização dessas terras beneficie toda a nação."
+      },
+      {
+        "candidate_id": "Luiz Felipe d’Avila",
+        "value": "A ideia seria ultrapassar a visão puramente proteccionista dos direitos dos povos indígenas para a integrar numa dinâmica de desenvolvimento e de autonomia. A abordagem correcta consiste em garantir o direito de propriedade sobre as suas terras, ao mesmo tempo que se procede a uma revisão da legislação para conciliar o respeito pelas especificidades culturais com a inclusão económica. O Estado deve assegurar uma protecção efectiva contra a violência e as actividades ilegais, reforçando os meios de vigilância e de controlo sobre esses territórios. Assim, isso permitiria transformar os povos indígenas em actores do seu próprio desenvolvimento, dando-lhes os meios para prosperar economicamente enquanto preservam a sua identidade."
+      }
+    ]
+  },
+  {
+    "question": "Como o Brasil deve definir sua posição internacional em relação às grandes potências (Estados Unidos, China, Europa) e aos parceiros regionais?",
+    "propositions": [
+      {
+        "candidate_id": "Luiz Inácio Lula da Silva",
+        "value": "A ideia seria reposicionar o país como um protagonista mundial, fundamentando sua política externa em uma soberania inabalável e em uma autonomia decisional completa. A abordagem adequada consiste em reforçar prioritariamente a integração regional na América Latina, ao mesmo tempo em que revitaliza a cooperação Sul-Sul, notadamente com a África e no âmbito dos Brics. As relações com as grandes potências mundiais devem ser pragmáticas e diversificadas, estabelecidas com base nos interesses nacionais, sem qualquer forma de submissão ou de alinhamento automático. A ação diplomática deve ser desenvolvida em favor de uma ordem mundial multipolar e do fortalecimento do multilateralismo. Assim, isso permitiria ao país defender seus interesses de maneira flexível e recuperar sua influência na construção de uma ordem internacional mais equilibrada e respeitadora da soberania das nações."
+      },
+      {
+        "candidate_id": "Jair Bolsonaro",
+        "value": "A ideia seria conduzir uma política externa pragmática e soberana, fundada numa dupla prioridade: o alinhamento com as democracias que partilham os mesmos valores e a diversificação das parcerias económicas ao serviço do interesse nacional. A prioridade é acelerar a adesão às organizações que consagram os princípios da economia de mercado e do Estado de direito, como a OCDE, de modo a reforçar a credibilidade internacional do país. Paralelamente, a estratégia consiste em procurar ativamente alianças económicas e investimentos tecnológicos à escala global, sem exclusão ideológica, concentrando-se nos benefícios concretos para o emprego e para a produção nacional. Assim, isso permitiria aumentar a atratividade do país para os capitais, securizar as relações comerciais e projetar uma influência fundada tanto no poder económico quanto na defesa de uma identidade soberana."
+      },
+      {
+        "candidate_id": "Simone Tebet",
+        "value": "A ideia seria restaurar o prestígio e o protagonismo do país na cena internacional, rompendo com o isolamento em favor de uma diplomacia pragmática e ativa. A abordagem consiste em reafirmar a liderança regional, consolidando e liberalizando o Mercosur, ao mesmo tempo em que promove uma abertura comercial ambiciosa por meio da conclusão de novos acordos e da adesão à OCDE. Essa estratégia baseia-se num reengajamento ativo nas instâncias multilaterais, utilizando a participação em fóruns como o G20 e os Brics para reforçar uma ordem internacional fundada em regras. Assim, isso permitiria diversificar os parcerias estratégicas sem alinhamento automático, multiplicar as oportunidades comerciais e reposicionar o país como um ator credível e influente na governança mundial."
+      },
+      {
+        "candidate_id": "Ciro Gomes",
+        "value": "A ideia seria refundar a postura internacional do país no princípio de uma soberania ativa e de uma defesa intransigente dos seus interesses nacionais. A abordagem correta consiste em recusar qualquer forma de alinhamento automático com as grandes potências e em avaliar cada parceria, seja comercial ou diplomática, à luz estrita dos seus benefícios para o desenvolvimento económico e a autonomia do país. As relações com os parceiros regionais e os blocos mundiais serão, portanto, conduzidas com base pragmática, sem preconceitos ideológicos. Assim, isso permitiria ao país conservar plena liberdade de manobra na cena mundial e maximizar as oportunidades de desenvolvimento, tratando de igual para igual com todos os atores internacionais."
+      },
+      {
+        "candidate_id": "Soraya Thronicke",
+        "value": "A ideia seria substituir os alinhamentos ideológicos por uma diplomacia pragmática, firmemente ancorada na defesa dos interesses nacionais e na valorização das suas vantagens estratégicas. A abordagem adequada consiste em afirmar uma soberania intransigente, em particular sobre as questões ambientais, ao mesmo tempo em que se utiliza o potencial do país em matéria de energia limpa e segurança alimentar como uma alavanca de influência na cena mundial. As parcerias, sejam com as grandes potências ou com os vizinhos regionais, devem ser redefinidas com base em vantagens mútuas concretas, priorizando a abertura de novos mercados e a cooperação na área da segurança nas fronteiras. Assim, isso permitiria reposicionar o país como um ator incontornável e respeitado, capaz de navegar num ordem mundial complexa capitalizando as suas forças únicas para garantir a sua prosperidade e segurança."
+      },
+      {
+        "candidate_id": "Luiz Felipe d’Avila",
+        "value": "A ideia seria romper com o isolamento ideológico para reancorar a política externa em bases pragmáticas, fazendo da abertura económica e da liderança ambiental os dois pilares da sua credibilidade internacional. A boa abordagem consiste em conduzir uma abertura unilateral da economia, ao mesmo tempo que se faz da transição para uma economia neutra em carbono o principal instrumento diplomático. A prioridade será dada à finalização do acordo comercial com a União Europeia e à adesão à OCDE, restaurando um diálogo construtivo com os parceiros tradicionais no seio das instâncias multilaterais. Assim, isso permitiria restaurar a reputação do país, atrair investimentos e dinamizar o comércio externo, reposicionando a nação como um actor fiável e um líder incontornável da nova economia de baixo carbono."
+      }
+    ]
+  },
+  {
+    "question": "Que política deve ser adotada em matéria de igualdade entre mulheres e homens e de direitos das minorias?",
+    "propositions": [
+      {
+        "candidate_id": "Luiz Inácio Lula da Silva",
+        "value": "A ideia seria tornar a igualdade efetiva um pilar inegociável da democracia e do desenvolvimento, atacando as raízes estruturais das discriminações. A abordagem correta consiste em implementar um conjunto de políticas públicas transversais para garantir a igualdade salarial, dar continuidade e ampliar as políticas de cotas sociais e raciais no ensino superior e na função pública, e implementar programas de saúde integral adaptados às necessidades das mulheres e da população LGBTQIA+. Uma prioridade absoluta será dada à luta contra todas as formas de violência, assegurando a proteção das vítimas e o fim da impunidade. Assim, isso permitiria garantir a plena cidadania para todas e todos, construindo um país onde a dignidade humana é protegida e onde a igualdade de direitos e de oportunidades se torna uma realidade tangível em todos os domínios da vida."
+      },
+      {
+        "candidate_id": "Jair Bolsonaro",
+        "value": "A ideia seria assegurar uma igualdade concreta, concentrando-se na proteção dos mais frágeis e na autonomia econômica das mulheres, reconhecendo a família como o pilar da sociedade. A prioridade é implementar programas direcionados que visem a inclusão econômica das mulheres, por meio do empreendedorismo e da formação profissional, ao mesmo tempo em que se reforçam os mecanismos de proteção contra a violência. Para os outros públicos vulneráveis, como as pessoas idosas ou com deficiência, o foco recai na garantia dos seus direitos sociais fundamentais e na sua integração ativa. Assim, isso permitiria reforçar a coesão social apoiando-se em famílias fortes, onde cada membro dispõe dos meios para a sua própria autonomia e é protegido por políticas públicas eficazes."
+      },
+      {
+        "candidate_id": "Simone Tebet",
+        "value": "A ideia seria fazer da promoção ativa da igualdade e da valorização da diversidade o fundamento de um novo contrato social, traduzindo os princípios em ações concretas. O eixo central consistirá em garantir uma representação equitativa ao mais alto nível do Estado, instaurando um ministério com paridade de gênero e ampliando o lugar das minorias raciais em cargos de responsabilidade. A abordagem se apoiará no reforço das políticas de cotas e de ações afirmativas, ao mesmo tempo que promove a igualdade salarial e garante a igualdade de oportunidades para todas as minorias, incluindo a população LGBTQIA+ e as pessoas em situação de deficiência. Assim, isso permitiria combater ativamente o racismo e as discriminações estruturais e construir uma sociedade onde a inclusão não é apenas um princípio, mas uma realidade tangível em todos os níveis de decisão."
+      },
+      {
+        "candidate_id": "Ciro Gomes",
+        "value": "A ideia seria conduzir uma política voluntarista para desmontar as discriminações estruturais e garantir uma plena emancipação social às mulheres, assim como às minorias raciais, sexuais e às pessoas em situação de deficiência. A abordagem apoia-se em ações direcionadas e vinculantes : a instauração de uma paridade quantitativa estrita entre mulheres e homens nos cargos de direção da administração federal, a consolidação das cotas para a população negra nas universidades e nos concursos públicos, e a implementação de políticas de compras públicas favorecendo as empresas provenientes dessas minorias. Instituições dedicadas, como um Secrétariat national pour les droits LGBTQIA+, também seriam criadas para coordenar essas políticas. Assim, isso permitiria transformar o princípio de igualdade em uma realidade tangível, garantindo a todos os grupos sociais os mesmos direitos e as mesmas oportunidades."
+      },
+      {
+        "candidate_id": "Soraya Thronicke",
+        "value": "A ideia seria ancorar a igualdade e a proteção das minorias numa abordagem pragmática, centrada na segurança e na autonomia económica em vez do simples reconhecimento de direitos formais. A abordagem adequada consiste em implementar uma dupla estratégia: por um lado, garantir a integridade física das mulheres através do reforço das estruturas de proteção contra a violência; por outro lado, eliminar os obstáculos à sua emancipação económica facilitando o seu acesso à formação e desenvolvendo serviços de cuidados infantis. No que diz respeito às minorias, a prioridade é integrá-las num plano de desenvolvimento territorial que valorize as suas terras de forma sustentável. Assim, isso permitiria construir uma sociedade em que a igualdade de oportunidades é uma realidade tangível, medida pela segurança e pela prosperidade de cada um, e não apenas um simples princípio jurídico."
+      },
+      {
+        "candidate_id": "Luiz Felipe d’Avila",
+        "value": "A ideia seria garantir a igualdade não como um princípio abstrato, mas como uma realidade tangível e juridicamente vinculativa, tornando o Estado intransigente face a qualquer forma de discriminação. A proteção das mulheres deve ser uma prioridade, com a implementação de standards nacionais para o acolhimento e a investigação nos comissariados, e a formação especializada dos agentes públicos. Paralelamente, a dignidade das minorias será assegurada por medidas concretas, como a simplificação dos procedimentos de alteração do nome de uso e a garantia de isonomia total dos direitos, nomeadamente em matéria de proteção social para casais do mesmo sexo. Assim, isso permitiria reforçar o Estado de direito ao assegurar uma aplicação efetiva das leis para todos, e construir uma sociedade onde a segurança e a dignidade não dependem nem do género, nem da orientação sexual."
+      }
+    ]
+  },
+  {
+    "question": "Qual abordagem adotar com relação à regulamentação do porte e da posse de armas?",
+    "propositions": [
+      {
+        "candidate_id": "Luiz Inácio Lula da Silva",
+        "value": "A ideia seria romper com a lógica do armamento individual como solução para a insegurança, reafirmando que a valorização da vida é a prioridade absoluta. A abordagem correta consiste em integrar um controle estrito da circulação de armas de fogo numa política nacional coordenada de redução dos homicídios e de desmantelamento das organizações criminosas. Em vez de delegar a segurança aos cidadãos, o esforço se concentrará no reforço das instituições do Estado e no uso da inteligência para desestruturar as redes ilegais. Assim, isso permitiria atacar as causas estruturais da violência letal e restabelecer o monopólio do Estado sobre o uso da força, criando um ambiente mais seguro para toda a população."
+      },
+      {
+        "candidate_id": "Jair Bolsonaro",
+        "value": "A ideia seria garantir o direito fundamental dos cidadãos de assegurar a sua própria proteção, considerando que a capacidade de se defender constitui um pilar da segurança coletiva e da liberdade individual. A abordagem adequada consiste, portanto, não em restringir, mas em preservar e ampliar o acesso legal às armas para os cidadãos que preencham as condições exigidas. O eixo central é consolidar o quadro jurídico que garante esse direito, tratando-o como um instrumento de dissuasão essencial à segurança pública e à pacificação social. Esta política também reconhece o uso de armas num contexto desportivo e cultural. Assim, isso permitiria reforçar a capacidade da sociedade de enfrentar a violência, ao mesmo tempo em que consagra a responsabilidade individual como um complemento indispensável à ação do Estado."
+      },
+      {
+        "candidate_id": "Simone Tebet",
+        "value": "A ideia seria inverter a política de liberalização do acesso às armas, reafirmando o papel exclusivo do Estado no monopólio da força e na garantia da segurança. A abordagem prioritária consiste em revogar a totalidade dos decretos que enfraqueceram o controlo sobre o porte e a posse de armas. Esta medida será complementada por um reforço significativo da supervisão e da rastreabilidade das armas e munições em circulação. Assim, isso permitiria reduzir a disseminação das armas no seio da população e recentrar a estratégia de segurança no reforço das instituições públicas, em vez do armamento dos cidadãos."
+      },
+      {
+        "candidate_id": "Ciro Gomes",
+        "value": "A ideia seria tratar a proliferação de armas de fogo como um problema de segurança nacional, considerando que a sua expansão e o seu uso estão hoje fora de controlo. A prioridade absoluta é, portanto, inverter essa tendência pela implementação de uma política rigorosa de gestão e de rastreabilidade das armas e das munições, apoiando-se em tecnologias avançadas. Esta abordagem visa desmantelar os circuitos de abastecimento que alimentam a criminalidade, em particular o crime organizado. Assim, isso permitiria reduzir a violência ao atacar diretamente os instrumentos que a tornam possível, em vez de favorecer uma disseminação que agrava a insegurança."
+      },
+      {
+        "candidate_id": "Soraya Thronicke",
+        "value": "A ideia seria recentrar a política de segurança no monopólio exclusivo da força pelo Estado, considerando que a resposta à criminalidade reside em instituições fortes em vez no armamento dos cidadãos. A abordagem correta consiste, portanto, em investir maciçamente na modernização das forças da ordem, na integração da inteligência e no desdobramento de tecnologias avançadas para a investigação criminal. A prioridade deve ser o desmantelamento das facções organizadas e o reforço do controle das fronteiras, tratando a regulação das armas como uma ferramenta estratégica para secar os canais de abastecimento do crime. Assim, isso permitiria reduzir a violência ao atacar as suas raízes organizadas, restaurando a segurança pública como uma prerrogativa régia eficaz em vez de uma responsabilidade individual."
+      },
+      {
+        "candidate_id": "Luiz Felipe d’Avila",
+        "value": "A ideia seria romper com qualquer política de disseminação de armas para reafirmar um controle estrito do Estado, considerando a circulação de armas de fogo como uma questão maior de segurança pública. A boa abordagem consiste em reconstruir a capacidade de regulação do Estado, instaurando um programa nacional de rastreabilidade efetiva para todas as armas e munições, desde sua produção ou importação até sua comercialização. Esse sistema será pilotado por uma autoridade civil reforçada e integrada com as demais bases de dados existentes, com um esforço direcionado ao desmantelamento do mercado ilegal. Assim, isso permitiria reduzir a disponibilidade de armas na criminalidade e restaurar a capacidade do Estado de regular uma área vital para a segurança dos cidadãos."
+      }
+    ]
+  },
+  {
+    "question": "Que estratégia deve ser implementada para combater a corrupção e reforçar a confiança nas instituições públicas?",
+    "propositions": [
+      {
+        "candidate_id": "Luiz Inácio Lula da Silva",
+        "value": "A ideia seria redefinir a luta contra a corrupção como uma ferramenta de boa governança, despolitizando-a radicalmente. A abordagem correta consiste em restaurar os instrumentos de controlo e de prevenção no estrito respeito do Estado de direito e das garantias fundamentais, assegurando que nunca sejam desviados para fins políticos. O esforço concentrar-se-á no reforço das instituições de controlo, como a Police Fédérale e a Inspection Générale, e na garantia de uma transparência absoluta pela reabertura do governo e pela aplicação da Loi sur l'Accès à l'Information. Assim, isso permitiria assegurar que os recursos públicos cheguem efetivamente ao destino, restaurando assim a confiança dos cidadãos em instituições cuja integridade está ao serviço da eficiência."
+      },
+      {
+        "candidate_id": "Jair Bolsonaro",
+        "value": "A ideia seria instaurar uma cultura de tolerância zero à corrupção, com base em mecanismos sistémicos de prevenção, detecção e sanção. A abordagem consiste em combinar um reforço radical da transparência, tornando todas as despesas e agendas públicas, com a implementação de programas de integridade rigorosos no seio de cada entidade pública. Esta abordagem preventiva é complementada por uma política de sanção sistemática dos responsáveis e por mecanismos eficazes para a recuperação dos ativos desviados. Assim, isso permitiria reduzir significativamente a margem de manobra para atos ilícitos, ao mesmo tempo que restabeleceria a confiança dos cidadãos nas instituições pela prova de uma gestão rigorosa e responsável dos fundos públicos."
+      },
+      {
+        "candidate_id": "Simone Tebet",
+        "value": "A ideia seria substituir uma lógica repressiva por uma estratégia de prevenção sistêmica da corrupção, instaurando uma transparência radical como principal instrumento de controle cidadão. O eixo central é promover uma abertura total dos dados públicos, em particular daqueles relativos a contratos, compras públicas e empresas parceiras do Estado, apoiando-se na digitalização completa dos serviços públicos até 2026 para garantir a rastreabilidade. Paralelamente, uma política de tolerância zero se materializará pelo reforço dos órgãos de controle interno e pela exigência de programas de conformidade (compliance) em toda a administração. Assim, isso permitiria restaurar a confiança dos cidadãos em suas instituições, garantir a integridade da gestão pública e assegurar que cada recurso seja utilizado de maneira eficaz e transparente."
+      },
+      {
+        "candidate_id": "Ciro Gomes",
+        "value": "A ideia seria romper com as práticas de corrupção sistémica instaurando uma transparência radical e restaurando a confiança nas instituições públicas. Para o conseguir, é imperativo suprimir as jurisdições especiais para os responsáveis políticos, com exceção dos chefes do poder, criminalizar o enriquecimento ilícito e levantar o segredo bancário e fiscal dos altos funcionários. Paralelamente, a confiança seria reforçada pela instauração de processos de seleção por mérito para os cargos de direção na administração e por uma transparência total das contas dos partidos políticos e dos contratos públicos, nomeadamente através de tecnologias de rastreio digital. Assim, isso permitiria romper com a impunidade, garantir um ambiente jurídico estável e previsível para os investimentos, e restabelecer a integridade da gestão pública."
+      },
+      {
+        "candidate_id": "Soraya Thronicke",
+        "value": "A ideia seria romper o vínculo entre o poder político e as instituições judiciais, a fim de garantir uma luta imparcial e eficaz contra a corrupção. A abordagem correta consiste em sanctuarizar as instituições-chave garantindo a autonomia da polícia e do ministério público por meio da instauração de mandatos por prazo determinado para os seus dirigentes, que só poderiam ser destituídos de suas funções por motivos objetivos e validados por comissões independentes. Essa independência estrutural deve ser complementada por duas reformas maiores: a supressão do foro privilegiado para todas as autoridades e a criação de uma Cour Nationale Anti-corruption especializada. Assim, isso permitiria despolitizar integralmente a luta contra a corrupção, transformando-a em uma função de Estado puramente técnica e imparcial, condição essencial para restaurar a confiança dos cidadãos nas instituições públicas."
+      },
+      {
+        "candidate_id": "Luiz Felipe d’Avila",
+        "value": "A ideia seria atacar as causas profundas da corrupção e da desconfiança, despolitizando as instituições de controlo e instaurando uma cultura de responsabilidade. A abordagem correta consiste em pôr fim à impunidade, tornando a sanção penal mais eficaz, nomeadamente pela aplicação da pena logo após a condenação em segunda instância e pela supressão das jurisdições de exceção. É essencial garantir a autonomia dos órgãos de investigação, como a polícia federal, por mandatos fixos e independentes do poder político, e profissionalizar as instâncias de controlo nomeando nelas servidores de carreira. Essa abordagem deve ser complementada por uma transparência radical da ação pública e por um endurecimento das penas para os crimes contra o Estado. Assim, isso permitiria restaurar a credibilidade do Estado de direito e reconstruir um vínculo de confiança duradouro entre os cidadãos e suas instituições."
+      }
+    ]
+  },
+  {
+    "question": "Como o país deve conciliar a liberdade de expressão e a responsabilidade no uso dos meios de comunicação e das redes sociais?",
+    "propositions": [
+      {
+        "candidate_id": "Luiz Inácio Lula da Silva",
+        "value": "A ideia seria refundar o pacto democrático em torno da informação, tratando a liberdade de expressão não como um absoluto, mas como um direito cujo exercício implica uma responsabilidade coletiva. A abordagem adequada consiste em promover um amplo debate legislativo para finalmente regulamentar o setor. O objetivo é dotar o sistema judiciário de ferramentas eficazes para agir contra as plataformas que difundem mentiras e mensagens antidemocráticas, ao mesmo tempo em que se garante a neutralidade da rede e a pluralidade da informação. Essa abordagem será acompanhada de uma proteção reforçada dos jornalistas e da liberdade de imprensa. Assim, isso permitiria conciliar a mais ampla liberdade de imprensa com a coesão democrática, garantindo que o espaço digital favoreça o debate pluralista em vez do ódio e da desinformação."
+      },
+      {
+        "candidate_id": "Jair Bolsonaro",
+        "value": "A ideia seria consagrar a liberdade de expressão como um pilar fundamental e inegociável da democracia, considerando-a como o motor do debate contraditório e do aperfeiçoamento das instituições. O eixo central é posicionar o Estado como o garante ativo dessa liberdade, e não como um árbitro dos conteúdos. Em vez de instaurar mecanismos de controlo ou de regulação, a prioridade é estimular e proteger a expressão das ideias, incluindo aquelas que são minoritárias ou controversas, em todos os suportes, incluindo a imprensa e as redes sociais. Assim, isso permitiria nutrir uma dinâmica intelectual saudável, reforçar o pensamento crítico e favorecer um diálogo constante, considerados indispensáveis à vitalidade da sociedade."
+      },
+      {
+        "candidate_id": "Simone Tebet",
+        "value": "A ideia seria garantir a liberdade de expressão como um pilar da democracia, ao mesmo tempo em que se assegura que ela não se torne um vetor de destruição do debate público e das instituições. A abordagem correta consiste em apoiar-se na solidez do Estado de direito e no respeito às leis existentes, em vez de criar uma legislação de exceção. O tratamento dos abusos deve caber à aplicação rigorosa do quadro legal por instituições judiciais independentes, protegendo os cidadãos contra a calúnia, o ódio e a desinformação criminosa. A ação pública deve concentrar-se na promoção de um diálogo cívico sereno e na defesa da pluralidade. Assim, isso permitiria preservar um espaço público saudável, onde a liberdade é solidamente garantida e onde a responsabilidade é assegurada pelo direito comum, reforçando a confiança no debate democrático."
+      },
+      {
+        "candidate_id": "Ciro Gomes",
+        "value": "A ideia seria conciliar a liberdade de expressão com a promoção da soberania cultural na era digital, concentrando-se na regulação económica das plataformas em vez do controlo dos conteúdos individuais. A abordagem adequada consiste em regular os serviços de streaming, segundo o modelo europeu, para garantir um investimento obrigatório na produção local independente e assegurar uma melhor visibilidade dessas obras. Em vez de restringir as trocas, a estratégia aposta no apoio aos criadores de conteúdos digitais nacionais e na democratização do acesso à internet e às ferramentas de comunicação. Assim, isso permitiria reforçar a identidade cultural e a diversidade dos conteúdos disponíveis, moldando um ecossistema mediático mais equilibrado sem prejudicar as liberdades fundamentais."
+      },
+      {
+        "candidate_id": "Soraya Thronicke",
+        "value": "A ideia seria garantir um debate público saudável aplicando rigorosamente o quadro legal existente aos abusos cometidos online, em vez de criar mecanismos de controlo de conteúdos que ameaçassem as liberdades. A abordagem correta consiste em reforçar as capacidades de investigação da polícia e da justiça para identificar e sancionar os autores de infrações, em conformidade com o direito comum. Paralelamente, a prioridade é investir massivamente na educação cívica e no desenvolvimento do espírito crítico no âmbito do sistema escolar, a fim de tornar os cidadãos menos vulneráveis à manipulação e à desinformação. Assim, isso permitiria conciliar a proteção da liberdade de expressão com a necessária sanção dos delitos, fazendo da lei o único árbitro e da educação o principal baluarte contra os desvios."
+      },
+      {
+        "candidate_id": "Luiz Felipe d’Avila",
+        "value": "A ideia seria reafirmar a liberdade de expressão como um princípio inegociável, onde a responsabilidade emerge da transparência e do debate público em vez da regulação estatal. A abordagem correta consiste em impor uma transparência radical à ação governamental, ampliando a lei de acesso à informação para armar os cidadãos e uma imprensa livre contra a desinformação. O Estado deve se posicionar como garant dessa liberdade, abstendo-se de qualquer intervenção no conteúdo e deixando ao poder judiciário o cuidado de sancionar os abusos comprovados no respeito às leis fundamentais. Assim, isso permitiria favorecer um ecossistema mediático robusto, onde a confiança se constrói pela livre confrontação de ideias e pela prestação de contas do poder, e não pela censura."
+      }
+    ]
+  }
+]

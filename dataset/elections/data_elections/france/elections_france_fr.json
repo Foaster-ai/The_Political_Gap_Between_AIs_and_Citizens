@@ -1,0 +1,797 @@
+[
+  {
+    "question": "Faut-il instaurer une limitation stricte du nombre d’arrivées migratoires chaque année ?",
+    "propositions": [
+      {
+        "candidate_id": "Philippe Poutou",
+        "value": "L'idée serait de fonder la politique migratoire sur le principe universel de liberté de circulation et d'installation, en rupture avec toute logique de gestion quantitative des flux. La priorité est de garantir un accueil digne et inconditionnel à toute personne arrivant sur le territoire, en abolissant les distinctions entre les motifs de migration. Cette approche implique d'ouvrir les frontières, d'engager un processus de régularisation de tous les résidents sans-papiers et de leur garantir l'accès à l'intégralité des droits sociaux et politiques, dont le droit de vote à toutes les élections. Ainsi, cela permettrait de mettre fin aux situations de précarité et d'inégalité de traitement, en assurant que les droits fondamentaux s'appliquent à chaque individu, sans condition de nationalité."
+      },
+      {
+        "candidate_id": "Marine Le Pen",
+        "value": "L'idée serait de substituer à une logique de quotas, souvent inopérante, une reprise en main souveraine des conditions d'entrée et de séjour sur le territoire. L'objectif est de passer d'une immigration subie à une politique strictement définie par les intérêts de la nation. La bonne approche consiste à modifier par référendum le cadre constitutionnel afin de sanctuariser les règles migratoires. Cette réforme visera à faire du regroupement familial une exception, à conditionner le séjour au travail et à systématiser l'expulsion des étrangers en situation irrégulière, délinquants ou criminels. Le principe de priorité nationale pour l'accès au logement social et à certaines prestations achèvera de réduire les facteurs d'attractivité. Ainsi, cela permettrait une réduction drastique et structurelle des flux, obtenue par un changement de paradigme juridique plutôt que par la simple fixation d'un plafond annuel."
+      },
+      {
+        "candidate_id": "Jean-Luc Mélenchon",
+        "value": "L'idée serait d'agir sur les causes profondes des départs plutôt que d’instaurer des plafonds chiffrés, qui ignorent les crises humanitaires, climatiques et économiques. L'approche la plus cohérente consiste à s’opposer aux accords commerciaux inégaux et à œuvrer pour la paix et la souveraineté des peuples, afin de garantir à chacun la possibilité de vivre dignement dans son pays. Sur le territoire national, la priorité est de conditionner l'accueil à des structures d'hébergement en nombre suffisant et de garantir un examen individuel et approfondi de chaque situation, en abrogeant les dispositifs législatifs qui y font obstacle. Ainsi, cela permettrait de bâtir une politique humaniste et réaliste, réduisant les migrations subies à la source tout en assurant un accueil digne et respectueux du droit international."
+      },
+      {
+        "candidate_id": "Valérie Pécresse",
+        "value": "L'idée serait de substituer à une immigration subie une politique maîtrisée, fondée sur les besoins du pays et sa capacité d'accueil. L'approche centrale consiste à instaurer des quotas annuels, débattus au Parlement, qui fixeraient des plafonds chiffrés par catégories professionnelles et par pays d'origine. Ce pilotage par les besoins serait rendu effectif par la suppression des mécanismes automatiques, notamment pour le regroupement familial et l'acquisition de la nationalité par le droit du sol, qui deviendrait conditionnelle. En complément, aucune régularisation de personnes entrées illégalement sur le territoire ne serait effectuée. Ainsi, cela permettrait d'aligner les flux migratoires sur les intérêts stratégiques et les capacités d'intégration de la nation."
+      },
+      {
+        "candidate_id": "Fabien Roussel",
+        "value": "L'idée serait de substituer à une logique de quotas chiffrés une approche fondée sur le respect du droit international et de la dignité humaine. La priorité est d'établir des voies d'accès légales et sécurisées pour les personnes contraintes à l'exil par les guerres, les dictatures ou les crises climatiques. L'accueil serait géré par des services publics renforcés, garantissant un traitement juste des demandes d'asile et une politique active de régularisation des travailleurs déjà intégrés sur le territoire. Cette démarche implique une renégociation des accords européens en la matière pour assurer une application cohérente des conventions internationales. Ainsi, cela permettrait une gestion maîtrisée et humaine des migrations, en favorisant l'intégration et en luttant efficacement contre l'exploitation et la clandestinité."
+      },
+      {
+        "candidate_id": "Eric Zemmour",
+        "value": "L'idée serait de viser une immigration nette proche de zéro plutôt que de se borner à un quota annuel. L'approche centrale consiste à tarir les flux à la source en supprimant les droits automatiques comme le regroupement familial et en réduisant le droit d'asile à une centaine de cas par an, instruits depuis l'étranger. Pour les autres catégories, une sélection stricte au mérite serait appliquée, notamment pour les étudiants, et l'obtention d'un visa conditionnée à une caution financière pour les ressortissants des pays d'origine de l'immigration clandestine. Parallèlement, il est essentiel de supprimer les facteurs d'attraction, comme les aides sociales non-contributives pour les étrangers extra-européens, et d'abolir le droit du sol. Ainsi, cela permettrait d'opérer une rupture systémique avec l'immigration de peuplement, en la remplaçant par une immigration choisie et drastiquement limitée."
+      },
+      {
+        "candidate_id": "Jean Lassalle",
+        "value": "L'idée serait de substituer à une logique de quotas, souvent inapplicable, une maîtrise effective des flux migratoires. La priorité est de renforcer significativement les moyens humains et matériels des douanes et des forces aux frontières, là où se concentrent les entrées irrégulières. Cette approche s'accompagne d'un strict respect du droit d'asile, qui demeure un principe fondamental. En parallèle, une action déterminée doit être menée sur les causes profondes des départs, en soutenant le développement et en instaurant des partenariats équitables avec les pays d'origine. Ainsi, cela permettrait une régulation durable et maîtrisée des arrivées, fondée sur la capacité réelle de l'État à faire appliquer la loi et non sur un seuil numérique arbitraire."
+      },
+      {
+        "candidate_id": "Anne Hidalgo",
+        "value": "L'idée serait de substituer à une logique de plafonds chiffrés une politique migratoire humaine, solidaire et efficace, axée sur la maîtrise des procédures plutôt que sur une limitation quantitative. L'approche centrale consiste à refonder le système d'asile européen sur un principe de solidarité entre États, proportionné à leurs capacités d'accueil réelles. Au niveau national, la priorité est de garantir une répartition équilibrée des demandeurs sur le territoire, de maîtriser les délais de traitement des dossiers et de relancer une politique d'intégration active dès l'arrivée. Celle-ci s'appuiera notamment sur l'accès au travail et sur des parcours linguistiques renforcés. Ainsi, cela permettrait de gérer les flux de manière apaisée et réfléchie, en luttant plus efficacement contre les voies clandestines grâce à des procédures maîtrisées."
+      },
+      {
+        "candidate_id": "Yannick Jadot",
+        "value": "L'idée serait de substituer à une logique de quotas une politique d'accueil organisée et digne. L'enjeu n'est pas de fixer un seuil arbitraire, mais de construire des voies d'intégration apaisées et conformes aux droits fondamentaux. La bonne approche consiste à ouvrir des voies légales et sûres, notamment par des visas de travail, pour éviter les parcours d'exil dangereux. Une priorité sera accordée à la régularisation large des travailleurs sans-papiers afin de reconnaître leur contribution et de mettre fin à leur précarité. Parallèlement, le traitement des demandes d'asile sera accéléré et humanisé, en autorisant le travail durant la procédure et en garantissant un accès aux soins sans délai de carence. Ainsi, cela permettrait de faire de la migration un enjeu d'intégration et de droits, et non une affaire de police, en construisant une société plus juste et solidaire."
+      },
+      {
+        "candidate_id": "Nicolas Dupont-Aignan",
+        "value": "L'idée serait de réguler les entrées par des leviers de contrôle stricts plutôt que par l'affichage d'un quota annuel. Pour y parvenir, la priorité est de rétablir la pleine souveraineté aux frontières en sortant des accords de Schengen. Le traitement des demandes d'asile serait limité aux postes-frontières, avec une exécution immédiate des décisions de refus. Simultanément, les facteurs d'attraction seraient réduits par l'instauration d'un délai de carence de cinq ans pour l'accès aux prestations sociales et la fin de l'automaticité du droit du sol pour l'obtention de la nationalité. Ainsi, cela permettrait de maîtriser durablement les flux migratoires en agissant sur les causes et les conditions d'entrée, garantissant une baisse effective et maîtrisée des arrivées."
+      },
+      {
+        "candidate_id": "Emmanuel Macron",
+        "value": "L'idée serait de privilégier une maîtrise des flux fondés sur des règles claires plutôt que d’instaurer un plafond quantitatif annuel. La bonne approche consiste à renforcer le contrôle aux frontières, européennes comme nationales, et à accélérer drastiquement l'instruction des demandes d'asile et de séjour pour distinguer rapidement les personnes éligibles. L'octroi d'un titre de long séjour doit être strictement conditionné à des critères objectifs, notamment la réussite d'un examen de français et une insertion professionnelle effective. Les décisions de refus et d'expulsion des étrangers troublant l'ordre public seront appliquées avec fermeté. Ainsi, cela permettrait d'assurer une immigration régulée, en se concentrant sur la qualité de l'intégration et l'effectivité du droit plutôt que sur une logique de quotas."
+      },
+      {
+        "candidate_id": "Nathalie Arthaud",
+        "value": "L'idée serait de refuser toute logique de quotas ou de limitation, qui dresse les travailleurs les uns contre les autres au profit d'une minorité. La priorité est de garantir une totale liberté de circulation et d’installation pour toutes et tous, en reconnaissant que la présence de travailleurs immigrés est indispensable au fonctionnement de nombreux secteurs économiques essentiels. L'approche juste consiste à renforcer les droits de tous les résidents, notamment par l'octroi du droit de vote, afin de ne pas créer de divisions artificielles. La véritable solution réside dans l'unité des travailleurs, quelle que soit leur nationalité. Ainsi, cela permettrait de concentrer les forces sur la défense des intérêts communs plutôt que de céder à des logiques de division."
+      }
+    ]
+  },
+  {
+    "question": "Faut-il autoriser le recours à l’euthanasie et/ou au suicide assisté dans certaines conditions médicales encadrées ?",
+    "propositions": [
+      {
+        "candidate_id": "Philippe Poutou",
+        "value": "L'idée serait de garantir à chaque individu la pleine maîtrise de son corps et de sa destinée, y compris dans le choix des conditions de sa propre fin de vie. La bonne approche consiste à reconnaître un droit universel et inconditionnel à l'euthanasie et au suicide assisté, en l'intégrant comme une liberté fondamentale garantie par le service public de santé. Pour y parvenir, la priorité est de le rendre accessible gratuitement pour toute personne majeure et capable de discernement qui en formule la demande, sans que cette décision ne soit soumise à des conditions médicales restrictives. Ce droit doit s'accompagner d'un renforcement parallèle des soins palliatifs, afin que le choix soit toujours libre et jamais dicté par l'absence d'alternatives face à la souffrance. Ainsi, cela permettrait d'assurer une fin de vie digne et choisie, en plaçant la volonté souveraine de l'individu au-dessus de toute autre considération."
+      },
+      {
+        "candidate_id": "Marine Le Pen",
+        "value": "L'idée serait de décréter une pause sur les débats sociétaux majeurs afin de préserver l'unité du pays, aujourd'hui fracturé sur les questions éthiques. La bonne approche consiste à instaurer un moratoire législatif d'au moins trois ans sur toute évolution du cadre de la fin de vie. Cette suspension vise à éviter de nouvelles divisions et à concentrer l'action publique sur les urgences économiques, sociales et sécuritaires. Le cadre légal en vigueur serait scrupuleusement respecté, et toute évolution future sur ces sujets de conscience pourrait, à l'issue de cette période, faire l'objet d'une consultation directe des citoyens. Ainsi, cela permettrait de garantir la stabilité civile tout en redonnant la parole au peuple pour trancher les questions les plus fondamentales."
+      },
+      {
+        "candidate_id": "Jean-Luc Mélenchon",
+        "value": "L'idée serait de garantir à chaque personne le droit de choisir sa fin de vie dans la dignité, en application du principe de liberté individuelle. La bonne approche consiste à autoriser l’aide active à mourir pour les personnes atteintes de maladies incurables qui en expriment une volonté libre, consciente et réitérée. Ce droit fondamental doit être strictement encadré par la loi et sa mise en œuvre assurée par le service public de santé, en garantissant parallèlement un accès universel et renforcé aux soins palliatifs pour apaiser la souffrance. Ainsi, cela permettrait de mettre fin à des situations de détresse inhumaines et d’assurer le respect de la volonté souveraine de l’individu jusqu’à son terme."
+      },
+      {
+        "candidate_id": "Valérie Pécresse",
+        "value": "L'idée serait de répondre à la souffrance des personnes en fin de vie par un sursaut de solidarité et d'accompagnement, plutôt que par une rupture éthique. La priorité absolue est de garantir un accès universel à des soins palliatifs de qualité, en développant massivement les unités dédiées, les équipes mobiles et l'hospitalisation à domicile pour soulager efficacement la douleur. L'enjeu est de renforcer les moyens humains et financiers pour permettre à chacun de vivre ses derniers instants dans la dignité, entouré et apaisé. Le chemin proposé est celui du soin et du soutien inconditionnel, et non celui qui ferait de la mort assistée une option. Ainsi, cela permettrait de réaffirmer le respect de la vie jusqu'à son terme comme un principe fondamental de la société."
+      },
+      {
+        "candidate_id": "Fabien Roussel",
+        "value": "L'idée serait de garantir une fin de vie digne par un accompagnement humain et médical renforcé plutôt que de légiférer sur les conditions de la mort. La priorité est de construire un véritable service public de la fin de vie, en développant massivement l'accès aux soins palliatifs à l'hôpital comme à domicile. Il s'agit d'investir dans les structures d'accueil pour personnes âgées et de garantir une prise en charge complète de la dépendance, afin que le choix ne soit jamais dicté par la solitude, la douleur mal gérée ou des considérations matérielles. L'enjeu est de donner à chacun les moyens de vivre ses derniers instants dans la sérénité. Ainsi, cela permettrait de répondre à l'angoisse de la déchéance par un sursaut de solidarité collective et un droit effectif à des soins de haute qualité."
+      },
+      {
+        "candidate_id": "Eric Zemmour",
+        "value": "L'idée serait de répondre à la souffrance de la fin de vie non par une autorisation de la mort assistée, mais par un engagement inconditionnel en faveur de l'accompagnement. La priorité est de garantir un accès universel et effectif aux soins palliatifs, en créant des unités dédiées sur l'ensemble du territoire pour que personne ne soit abandonné face à la douleur. Cette approche vise à renforcer la solidarité envers les plus fragiles plutôt qu'à légiférer sur des solutions irréversibles. Il s'agit de rendre la dignité effective par le soin et le soutien humain jusqu'au terme naturel de la vie, en traitant la détresse sans y répondre par un abandon. Ainsi, cela permettrait de réaffirmer le principe de protection des plus vulnérables et d'offrir une réponse humaine et concrète à la grande angoisse de la fin de vie."
+      },
+      {
+        "candidate_id": "Jean Lassalle",
+        "value": "L'idée serait de privilégier un accompagnement humain et digne de la vie jusqu'à son terme naturel, plutôt que de légiférer sur des pratiques d'euthanasie ou de suicide assisté. L'axe central consiste à renforcer massivement l'offre de soins palliatifs sur l'ensemble du territoire, en garantissant un accès universel et de proximité à ces services. Cela implique de former et de recruter davantage de professionnels spécialisés, de soutenir les aidants, et d'assurer une prise en charge complète de la douleur et de la souffrance physique et psychique. L'État doit garantir que personne n'est laissé seul face à la maladie ou à la dépendance, en consolidant le lien social et la solidarité intergénérationnelle. Ainsi, cela permettrait d'offrir à chacun une fin de vie apaisée et respectueuse de la dignité humaine, sans avoir à envisager des solutions létales."
+      },
+      {
+        "candidate_id": "Anne Hidalgo",
+        "value": "L'idée serait de garantir à chacun la liberté de choisir une fin de vie digne, en mettant un terme à la situation actuelle qui contraint des concitoyens à s'exiler pour mourir selon leur volonté. Pour y parvenir, une nouvelle loi sera proposée dès les premiers mois du quinquennat. Elle reposera sur trois piliers indissociables : le respect absolu de la volonté du patient, rendue effective par des directives anticipées contraignantes ; la garantie d'un accès universel à des soins palliatifs de qualité sur tout le territoire ; et l'instauration d'un droit d'accéder à une aide active à mourir pour les personnes qui en auront fait le choix en pleine conscience et en toute liberté. Ainsi, cela permettrait d'offrir un cadre légal sécurisé et humain qui articule le droit à l'autonomie du patient avec un devoir de solidarité et d'accompagnement pour tous jusqu'aux derniers instants."
+      },
+      {
+        "candidate_id": "Yannick Jadot",
+        "value": "L'idée serait de consacrer le droit de mourir dans la dignité comme une liberté fondamentale. L’enjeu est de ne plus laisser le corps médical seul face à la souffrance humaine. La bonne approche consiste à mettre en place un cadre légal qui permette à chaque personne d’exprimer son souhait de finir sa vie volontairement et sans jugement, notamment en refusant des traitements qu’elle ne désire plus. Cette démarche doit être fondée sur la seule volonté de l'individu. Ainsi, cela permettrait de garantir l'autonomie de chacun face à la souffrance et d'assurer que la décision personnelle prime."
+      },
+      {
+        "candidate_id": "Nicolas Dupont-Aignan",
+        "value": "L'idée serait de garantir une fin de vie digne par l'accompagnement et le soin, en renforçant la solidarité envers les personnes les plus vulnérables plutôt qu'en légalisant l'euthanasie ou le suicide assisté. La priorité est d'investir massivement dans les structures de prise en charge, en adaptant les logements pour favoriser le maintien à domicile et en augmentant significativement les effectifs dans les EHPAD pour assurer des soins de qualité et une présence humaine. L'axe central est de soutenir les aidants et de garantir la dignité des pensionnaires. Ainsi, cela permettrait d'offrir une réponse humaine à la souffrance, en améliorant la qualité de la vie jusqu'à son terme naturel plutôt qu'en organisant sa fin."
+      },
+      {
+        "candidate_id": "Emmanuel Macron",
+        "value": "L'idée serait d'aborder la question de la fin de vie par une démarche de concertation plutôt que par une décision hâtive. La bonne approche consiste à lancer une convention citoyenne qui réunira des citoyens, des spécialistes de l'éthique et des professionnels afin de mener une réflexion approfondie sur ce sujet complexe. L'objectif est de construire une solution équilibrée et partagée, qui garantisse une fin de vie plus humaine et digne pour tous. Ce processus permettra de définir un cadre clair et accepté par la collectivité. Ainsi, cela permettrait de faire émerger un consensus national sur les modalités d'accompagnement, en s'assurant que toute évolution législative future soit le fruit d'un débat démocratique et apaisé."
+      },
+      {
+        "candidate_id": "Nathalie Arthaud",
+        "value": "L'idée serait de garantir à chacun les moyens matériels de vivre dignement jusqu'au bout, plutôt que de se focaliser sur les conditions légales de la mort. L'axe central est un réinvestissement massif dans le système de santé public, en particulier dans les soins palliatifs et l'accompagnement des personnes âgées ou malades. Cela implique la création de postes, la revalorisation des salaires des soignants et l'ouverture de lits dans les hôpitaux et les EHPAD, pour que la fin de vie ne soit jamais synonyme d'abandon ou de souffrance faute de moyens. La priorité est de s'attaquer à la dégradation du système de santé, qui est la conséquence de choix budgétaires. Ainsi, cela permettrait de poser la question de la fin de vie sur des bases humaines et de dignité réelle, en assurant que chacun ait accès aux meilleurs traitements disponibles et à un accompagnement de qualité."
+      }
+    ]
+  },
+  {
+    "question": "Faut-il réformer le mode de scrutin pour les élections législatives afin d’introduire une part de proportionnelle ?",
+    "propositions": [
+      {
+        "candidate_id": "Philippe Poutou",
+        "value": "L'idée serait de garantir une représentation parlementaire qui soit le reflet exact et fidèle du corps électoral, en abandonnant les mécanismes de scrutin majoritaire qui déforment la volonté populaire. La bonne approche ne consiste pas à corriger le système actuel par une simple dose de proportionnelle, mais à instaurer la proportionnelle intégrale comme mode de scrutin unique pour la totalité des élections. L'objectif est d'assurer une stricte équivalence entre le pourcentage de voix obtenues par chaque force politique et le nombre de sièges qui lui sont alloués, sans seuil électoral qui viendrait exclure les courants minoritaires. Ainsi, cela permettrait de garantir la juste représentation de toutes les sensibilités politiques et de restaurer la légitimité démocratique des assemblées élues."
+      },
+      {
+        "candidate_id": "Marine Le Pen",
+        "value": "L'idée serait de privilégier la stabilité et l'efficacité gouvernementales plutôt que de modifier le mode de scrutin. L'enjeu n'est pas la représentativité arithmétique des partis, mais la capacité de l'État à mettre en œuvre un projet de redressement national. L'introduction d'une dose de proportionnelle risquerait de conduire à une instabilité chronique, à des gouvernements de coalition et à des compromis paralysants, à l'opposé de la nécessité d'une direction claire. La volonté populaire sur les grands sujets de société doit plutôt s'exprimer par le biais d'outils de démocratie directe, comme le référendum. Ainsi, cela permettrait de conserver un mode de scrutin qui dégage des majorités claires et stables, condition indispensable pour mener les réformes de rupture nécessaires."
+      },
+      {
+        "candidate_id": "Jean-Luc Mélenchon",
+        "value": "L'idée serait de garantir une représentation fidèle du corps électoral à l'assemblée, afin que la composition de celle-ci reflète réellement la diversité des opinions du pays et mette fin aux distorsions du scrutin majoritaire. La bonne approche consiste à instaurer la proportionnelle intégrale pour l'élection des députés. Ce changement de mode de scrutin est le pilier d'un régime parlementaire stable où la souveraineté appartient réellement au peuple, en rupture avec une logique qui concentre le pouvoir et écarte les citoyens des décisions. Ainsi, cela permettrait de restaurer la souveraineté populaire et de garantir que chaque suffrage pèse de manière égale dans la formation de la représentation nationale, condition essentielle à la vitalité démocratique."
+      },
+      {
+        "candidate_id": "Valérie Pécresse",
+        "value": "L'idée serait de privilégier la stabilité des institutions et la capacité à gouverner de manière décisive, plutôt que de rechercher une représentation fragmentée des courants d'opinion. La priorité est de conserver un mode de scrutin qui dégage des majorités claires et cohérentes, condition indispensable à la conduite de réformes d'envergure sur la durée d'un mandat. Le scrutin majoritaire garantit un lien direct et responsable entre l'élu et son territoire, un ancrage jugé essentiel à la vitalité démocratique. L'introduction d'une dose de proportionnelle risquerait d'affaiblir l'exécutif en favorisant des coalitions instables et des compromis permanents. Ainsi, cela permettrait de garantir l'efficacité de l'action publique et d'éviter la paralysie institutionnelle."
+      },
+      {
+        "candidate_id": "Fabien Roussel",
+        "value": "L'idée serait de rompre avec le présidentialisme en redonnant sa pleine souveraineté au Parlement, ce qui passe par une réforme de la représentation nationale. La bonne approche consiste à introduire la proportionnelle intégrale afin de garantir une juste traduction des différents courants politiques et de leurs influences électorales. Cette réforme s'accompagnerait de la suppression de l'élection du président au suffrage universel et d'une primauté donnée à l'Assemblée Nationale pour investir le gouvernement. Un statut de l'élu et un renouvellement strict des mandats seraient également mis en place pour favoriser l'implication des catégories populaires et la diversité. Ainsi, cela permettrait de rétablir la confiance en la politique en assurant une représentation fidèle et égalitaire du peuple dans les institutions."
+      },
+      {
+        "candidate_id": "Eric Zemmour",
+        "value": "L'idée serait de traiter la défiance démocratique à sa racine, en redonnant le pouvoir de décision au peuple, plutôt que de s'en remettre à une simple modification du mode de scrutin. La priorité est de rétablir la souveraineté populaire par le recours régulier au référendum sur les questions fondamentales, permettant ainsi de trancher directement les grands enjeux nationaux. Parallèlement, l'ancrage territorial des élus doit être renforcé en restaurant la possibilité pour les maires d'exercer un mandat parlementaire. Cette double approche vise à garantir que la volonté des citoyens soit directement entendue et que leurs représentants restent connectés aux réalités du terrain. Ainsi, cela permettrait de refonder le pacte démocratique sur la base d'une responsabilité claire, où la voix du peuple prime sur les logiques d'appareil."
+      },
+      {
+        "candidate_id": "Jean Lassalle",
+        "value": "L'idée serait de restaurer un lien de confiance direct et authentique entre les élus et les citoyens, plutôt que de diluer la responsabilité dans une modification du mode de scrutin. La bonne approche consiste à revitaliser la démocratie par des outils de contrôle et d'intervention directe, en instaurant le référendum d'initiative citoyenne et la pleine reconnaissance du vote blanc. Ces mécanismes redonnent le pouvoir au peuple. Parallèlement, le rétablissement du cumul de mandats pour les parlementaires ancrera leur action dans les réalités locales, renforçant leur responsabilité devant les électeurs d'une circonscription. Ainsi, cela permettrait de consolider une démocratie incarnée et responsable, rendant superflue une réforme favorisant l'arithmétique des partis."
+      },
+      {
+        "candidate_id": "Anne Hidalgo",
+        "value": "L'idée serait de garantir une plus juste représentation de la diversité des opinions politiques au sein du Parlement, afin de le rendre plus légitime et de rééquilibrer les pouvoirs. L'axe central de cette réforme est l'instauration d'un mode de scrutin mixte pour les élections législatives, proche du système allemand, assurant qu'une partie des députés soit élue à la proportionnelle. Pour redonner tout son poids à cette élection, elle se déroulerait avant le scrutin présidentiel. Ainsi, cela permettrait de doter la France d'une Assemblée nationale qui reflète plus fidèlement le pluralisme du pays et de revitaliser le débat démocratique."
+      },
+      {
+        "candidate_id": "Yannick Jadot",
+        "value": "L'idée serait de faire de la représentation proportionnelle la norme pour toutes les élections afin de garantir une meilleure adéquation entre le vote des citoyens et la composition des assemblées. La bonne approche consiste à engager un débat sur les modalités précises pour les élections législatives, en s’orientant vers un mode de scrutin mixte qui s’inspire du modèle allemand, combinant des circonscriptions locales et une liste nationale. Ce principe serait généralisé à l'ensemble des scrutins pour instaurer un cadre électoral plus juste et lisible. Ainsi, cela permettrait de renforcer la légitimité démocratique des élus tout en assurant la mise en place d'un système à la fois simple et stable."
+      },
+      {
+        "candidate_id": "Nicolas Dupont-Aignan",
+        "value": "L'idée serait de corriger les imperfections du scrutin majoritaire afin de garantir une représentation plus juste de l'ensemble des courants d'opinion. La bonne approche consiste à introduire un système mixte, en attribuant une part significative des sièges par la proportionnelle. L'objectif est de dédier 100 sièges de députés sur 500 à ce mode de scrutin, ce qui permettrait à des forces politiques aujourd'hui sous-représentées d'accéder au Parlement. Cette réforme vise à combiner la stabilité apportée par le scrutin majoritaire avec une meilleure représentativité. Ainsi, cela permettrait de renforcer la légitimité de l'Assemblée nationale et de revitaliser le débat démocratique."
+      },
+      {
+        "candidate_id": "Emmanuel Macron",
+        "value": "L'idée serait de surmonter les blocages politiques qui ont jusqu'ici freiné la modernisation de nos institutions. La bonne approche consiste à changer de méthode en engageant une convention transpartisane chargée de proposer une réforme institutionnelle globale.[1] L'objectif est de garantir que le Parlement reflète plus fidèlement la diversité des sensibilités de la société, tout en renforçant son rôle de contrôle et la vitalité démocratique.[1] Ce dialogue permettra de définir les contours d'un nouveau système électoral équilibré. Ainsi, cela permettrait de construire un large consensus pour une réforme qui assure à la fois une plus juste représentation et une meilleure efficacité de l'action publique."
+      },
+      {
+        "candidate_id": "Nathalie Arthaud",
+        "value": "L'idée serait de rompre avec un système électoral conçu pour étouffer la diversité des opinions politiques et pour garantir artificiellement le pouvoir aux grands partis. La bonne approche consiste à instaurer une représentation authentiquement démocratique par l'adoption de la proportionnelle intégrale à l'échelle nationale. Ce mode de scrutin garantirait que chaque voix ait un poids égal dans la composition de l'assemblée, assurant ainsi une représentation fidèle de tous les courants politiques, notamment ceux qui défendent les intérêts du monde du travail. L'objectif est que la représentation politique soit le reflet réel de la société. Ainsi, cela permettrait de briser le monopole des partis établis et de donner une voix à des millions de citoyens qui n'en ont pas aujourd'hui."
+      }
+    ]
+  },
+  {
+    "question": "Faut-il abaisser, maintenir ou relever l’âge légal de départ à la retraite ?",
+    "propositions": [
+      {
+        "candidate_id": "Philippe Poutou",
+        "value": "L'idée serait de rompre avec une logique purement comptable pour garantir le droit à une retraite en bonne santé, en reconnaissant la disparité des carrières et l'usure professionnelle. L'axe central consiste à abaisser l'âge légal de départ à 60 ans pour tous, avec un droit au départ anticipé fixé à 55 ans pour l'ensemble des métiers reconnus comme pénibles. Cette avancée doit être financée par une réorientation des richesses produites, en augmentant la part des profits allouée au financement de la protection sociale. Ainsi, cela permettrait de libérer du temps de vie en bonne santé, de réduire les inégalités face à la fin de carrière et de créer des emplois pour les plus jeunes."
+      },
+      {
+        "candidate_id": "Marine Le Pen",
+        "value": "L'idée serait de substituer à un âge légal uniforme un système plus juste, fondé sur la durée de la carrière et l'âge d'entrée dans la vie active. L'objectif est de reconnaître la diversité des parcours professionnels et la pénibilité associée aux carrières longues. La bonne approche consiste à garantir un droit au départ dès 60 ans pour toutes les personnes ayant commencé à travailler avant l'âge de 20 ans, à condition qu'elles aient cotisé 40 annuités. Pour les autres, l'âge de départ et la durée de cotisation seront déterminés par l'âge d'entrée sur le marché du travail, instaurant une progressivité équitable. Ainsi, cela permettrait de récompenser le travail précoce et d'adapter le système aux réalités vécues plutôt que d'appliquer une règle rigide et aveugle."
+      },
+      {
+        "candidate_id": "Jean-Luc Mélenchon",
+        "value": "L'idée serait de garantir à chacun le droit de partir à la retraite à un âge raisonnable et avec une pension digne, en considérant que le temps du repos n'est pas une variable d'ajustement économique mais un droit social fondamental. La bonne approche consiste donc à restaurer l'âge de départ à 60 ans pour une retraite à taux plein, conditionnée à 40 annuités de cotisation. Pour assurer un niveau de vie correct, aucune pension issue d'une carrière complète ne pourra être inférieure au SMIC revalorisé et le minimum vieillesse sera porté au niveau du seuil de pauvreté. Le montant des retraites sera par ailleurs indexé sur les salaires. Ainsi, cela permettrait de s'assurer que les travailleurs, et notamment ceux qui ont commencé tôt ou exercé des métiers pénibles, puissent profiter d'un repos mérité en bonne santé."
+      },
+      {
+        "candidate_id": "Valérie Pécresse",
+        "value": "L'idée serait de garantir la pérennité du système de retraites et d'assurer une meilleure équité entre les générations en ajustant la durée de la vie active. L'axe central est un relèvement progressif de l'âge légal de départ à 65 ans, un objectif à atteindre à l'horizon 2030. Cette évolution sera juste, car elle prendra en compte les carrières longues et la pénibilité de certains métiers, permettant des départs anticipés pour ceux qui ont le plus cotisé ou exercé des professions usantes. En parallèle, le système sera rendu plus solidaire en garantissant qu'aucune pension ne puisse être inférieure au SMIC net pour une carrière complète. Ainsi, cela permettrait de consolider financièrement le modèle par répartition tout en valorisant le travail et en protégeant les travailleurs les plus modestes."
+      },
+      {
+        "candidate_id": "Fabien Roussel",
+        "value": "L'idée serait de ramener l'âge légal de départ à la retraite à 60 ans, considérant que l'allongement de la durée de vie doit améliorer l'existence globale plutôt que de simplement allonger le temps de travail. L'objectif central est de garantir une pension à taux plein dès 60 ans pour toute personne justifiant d'une carrière complète. Le calcul de cette pension serait assis sur les dix meilleures années de revenu, avec un objectif de 75% du revenu net, tout en prévoyant des dispositifs de départs anticipés pour les métiers pénibles et les carrières longues. Ainsi, cela permettrait de libérer des emplois pour les plus jeunes tout en restaurant un principe de justice sociale qui lie progrès économique et bien-être des travailleurs."
+      },
+      {
+        "candidate_id": "Eric Zemmour",
+        "value": "L'idée serait de garantir la pérennité du système par répartition en ajustant ses paramètres à la réalité démographique et financière. La démarche consiste à relever progressivement l'âge légal de départ à la retraite pour l'établir à 64 ans d'ici 2030, une mesure complétée par l'allongement d'une année de la durée de cotisation requise. Afin de préserver l'équité, les dispositifs de départ anticipé pour les carrières longues et les métiers pénibles seraient maintenus. Cette réforme est présentée comme inéluctable pour éviter une baisse des pensions ou une hausse des cotisations qui pèserait sur la compétitivité. Ainsi, cela permettrait de sécuriser le régime sur le long terme tout en réalisant des économies budgétaires substantielles."
+      },
+      {
+        "candidate_id": "Jean Lassalle",
+        "value": "L'idée serait de substituer à la notion rigide d'âge légal un système fondé sur la durée de cotisation, plus juste et adapté aux carrières de chacun. La bonne approche consiste à définir l'âge de départ en fonction du nombre d'annuités cotisées, en permettant d'acquérir des droits dès le plus jeune âge, y compris durant les périodes de formation ou d'alternance. Un organisme dédié assurera un suivi simple et transparent des points accumulés au fil de la vie professionnelle, garantissant la prévisibilité pour chaque travailleur. Ainsi, cela permettrait de préserver durablement le système par répartition tout en l'adaptant aux réalités démographiques et aux parcours de vie diversifiés, assurant une transition juste du baby-boom au papy-boom."
+      },
+      {
+        "candidate_id": "Anne Hidalgo",
+        "value": "L'idée serait de garantir un droit à une retraite digne sans imposer un allongement de la durée de la vie active, en partant du principe que la pérennité du système n'est pas menacée. L'axe central est donc le maintien de l'âge légal de départ à la retraite, qui sera plafonné à 62 ans. Cette garantie s'accompagne d'une prise en compte renforcée de la pénibilité, avec le rétablissement des quatre critères supprimés (manutention de charges lourdes, postures pénibles, vibrations mécaniques, agents chimiques). En parallèle, les petites retraites seront revalorisées pour assurer un niveau de vie correct aux aînés. Ainsi, cela permettrait de consolider un système de retraite juste, qui protège particulièrement les travailleurs ayant eu les carrières les plus difficiles, sans pénaliser l'ensemble des actifs."
+      },
+      {
+        "candidate_id": "Yannick Jadot",
+        "value": "L'idée serait de garantir un droit à la retraite qui tienne compte de la réalité des carrières plutôt que de repousser un âge légal uniforme. L'enjeu est de cesser de transformer les gains d'espérance de vie en temps de travail supplémentaire. La bonne approche consiste à fixer un âge de départ maximal à 62 ans, tout en renforçant significativement les dispositifs de pénibilité. Ce mécanisme permettra à ceux ayant eu les carrières les plus difficiles de partir plus tôt, en reconnaissant l'usure professionnelle. L'objectif est de garantir une retraite minimum au niveau du SMIC pour vivre dignement. Ainsi, cela permettrait de bâtir un système de retraite solidaire qui protège les travailleurs les plus exposés et assure à chacun une pension digne, en refusant de faire de l'allongement de la vie active l'unique variable d'ajustement."
+      },
+      {
+        "candidate_id": "Nicolas Dupont-Aignan",
+        "value": "L'idée serait de garantir la pérennité du système de retraite et d'assurer un niveau de vie digne aux aînés, en se concentrant sur la revalorisation des pensions plutôt que sur une modification de l'âge légal de départ. La priorité est de protéger le pouvoir d'achat des retraités en indexant systématiquement les pensions sur l'inflation. L'axe central consiste à pérenniser le système par répartition pour garantir à ceux qui ont travaillé toute leur vie la possibilité de vivre dans la dignité, en restant entourés de leurs proches. Ainsi, cela permettrait de sécuriser le pacte entre les générations sans imposer un allongement de la durée de cotisation, en se focalisant sur la juste récompense du travail accompli."
+      },
+      {
+        "candidate_id": "Emmanuel Macron",
+        "value": "L'idée serait d'allonger la durée de la vie active pour assurer la pérennité de notre système de retraite par répartition. La bonne approche consiste à relever progressivement l'âge légal de départ à 65 ans, en veillant à une juste prise en compte des cas d'incapacité, des carrières longues ou pénibles. L'objectif est de garantir l'équité entre les générations et de financer notre modèle social. Cette réforme s'accompagnera de la suppression des principaux régimes spéciaux pour les nouveaux entrants, afin de converger vers un système plus simple et plus juste. Ainsi, cela permettrait de sécuriser le versement des pensions tout en consolidant les finances publiques."
+      },
+      {
+        "candidate_id": "Nathalie Arthaud",
+        "value": "L'idée serait de mettre fin à l'aberration qui consiste à contraindre les travailleurs âgés à s'user à la tâche alors que des millions de jeunes sont au chômage. La bonne approche consiste à abaisser l'âge légal de départ, en le fixant à 60 ans au maximum, dans le cadre d'une politique de répartition du travail disponible entre toutes les générations. Pour y parvenir, il est impératif de garantir des pensions décentes, avec un seuil minimal de 2 000 euros net, afin que la retraite ne soit jamais synonyme de précarité. La priorité est de faire de ce droit un véritable repos mérité et un levier pour atteindre le plein emploi. Ainsi, cela permettrait de garantir à la fois un avenir pour la jeunesse et une fin de carrière digne pour les aînés."
+      }
+    ]
+  },
+  {
+    "question": "Faut-il augmenter la part du nucléaire dans le mix énergétique français ?",
+    "propositions": [
+      {
+        "candidate_id": "Philippe Poutou",
+        "value": "L'idée serait de rompre radicalement avec le modèle énergétique actuel, en considérant le nucléaire comme une technologie dangereuse et une fausse solution face à l'urgence climatique. L'axe central est d'engager une sortie planifiée et totale du nucléaire dans un délai de dix ans, en commençant par la fermeture immédiate de tous les réacteurs de plus de quarante ans. Cette transition doit s'appuyer sur la socialisation complète du secteur de l'énergie afin de piloter un investissement massif dans les énergies renouvelables, avec pour objectif d'atteindre 100% du mix énergétique d'ici 2050, le tout combiné à un plan de sobriété énergétique. Ainsi, cela permettrait de garantir une véritable sécurité énergétique et écologique, en plaçant ce secteur stratégique sous le contrôle démocratique des travailleurs et de la population."
+      },
+      {
+        "candidate_id": "Marine Le Pen",
+        "value": "L'idée serait de faire du nucléaire le pilier central et incontournable de la souveraineté énergétique nationale, afin de garantir une production d'électricité décarbonée, pilotable et à un coût maîtrisé. La priorité est de préserver intégralement le parc existant et de prolonger sa durée de vie, tout en engageant sans tarder le renouvellement des réacteurs. Cet axe stratégique implique également de relancer la recherche sur les technologies d'avenir, notamment les réacteurs à neutrons rapides et les petits réacteurs modulaires. En contrepoint, un moratoire sur toute nouvelle construction éolienne sera instauré. Ainsi, cela permettrait de consolider une filière d'excellence, de sécuriser l'approvisionnement du pays et de réaffirmer l'indépendance de la France."
+      },
+      {
+        "candidate_id": "Jean-Luc Mélenchon",
+        "value": "L'idée serait de rejeter toute augmentation de la part du nucléaire, considéré comme une énergie dangereuse et dépassée, pour s'engager résolument dans une transition énergétique fondée exclusivement sur les énergies renouvelables. La bonne approche consiste à planifier la sortie complète et ordonnée du parc nucléaire, en abandonnant immédiatement tout projet de nouvelle centrale. L'objectif est d'atteindre 100 % d'énergies renouvelables d'ici 2050, en s'appuyant sur un pôle public de l'énergie pour piloter les investissements massifs dans l'efficacité, la sobriété et les filières d'avenir, tout en organisant la reconversion des travailleurs concernés. Ainsi, cela permettrait de bâtir un modèle énergétique durable et souverain, libéré du risque d'accident et du problème des déchets."
+      },
+      {
+        "candidate_id": "Valérie Pécresse",
+        "value": "L'idée serait de faire du nucléaire le pilier de la souveraineté énergétique et de la décarbonation de l'économie. La bonne approche consiste à engager un plan de relance ambitieux, fondé sur deux piliers : d'une part, la construction d'au moins six nouveaux réacteurs EPR pour moderniser notre parc ; d'autre part, un programme d'investissements massifs pour prolonger la durée de vie des centrales existantes. Ce déploiement sera complété par la reprise des projets de réacteurs de nouvelle génération. L'objectif est de garantir une électricité abondante, pilotable et indépendante des marchés étrangers. Ainsi, cela permettrait de sécuriser l'approvisionnement du pays tout en atteignant les objectifs de neutralité carbone."
+      },
+      {
+        "candidate_id": "Fabien Roussel",
+        "value": "L'idée serait de considérer le nucléaire comme un atout majeur pour bâtir un mix énergétique 100 % public et décarboné, capable de répondre aux défis climatiques et industriels. La stratégie centrale est d'engager une forte croissance de la production électrique, en planifiant la construction d'au moins six nouveaux réacteurs EPR tout en investissant massivement dans les énergies renouvelables, notamment l'hydraulique, le solaire et l'éolien. L'ensemble de la filière énergétique serait consolidé au sein d'un grand pôle public, de la production à la distribution, afin de garantir la souveraineté nationale et de soustraire ce bien commun à la spéculation. Ainsi, cela permettrait de sécuriser un approvisionnement énergétique bas-carbone et accessible, tout en relançant une filière industrielle d'avenir."
+      },
+      {
+        "candidate_id": "Eric Zemmour",
+        "value": "L'idée serait de faire du nucléaire le socle indiscutable de la souveraineté énergétique, en rompant avec la politique de réduction de sa part pour garantir une électricité abondante, décarbonée et à coût maîtrisé. La démarche implique d'annuler la fermeture programmée de réacteurs et de prolonger la durée de vie du parc existant à 60 ans au minimum. En parallèle, un vaste programme de renouvellement sera lancé, avec la construction d'au moins 14 nouveaux réacteurs de type EPR2 à horizon 2050 et le soutien au développement des réacteurs de petite taille (SMR). Le financement public sera réorienté en stoppant tout nouveau projet éolien, terrestre comme maritime. Ainsi, cela permettrait de restaurer une indépendance stratégique, de garantir des prix de l'énergie compétitifs et de relancer une filière industrielle d'excellence."
+      },
+      {
+        "candidate_id": "Jean Lassalle",
+        "value": "L'idée serait de réaffirmer le nucléaire comme le socle de la souveraineté et de la transition énergétique de la nation. L'approche consiste en un double mouvement : la rénovation et la prolongation de 25 ans du parc nucléaire actuel, couplées au développement et à la construction de centrales de quatrième génération, plus sûres. Cet effort s'accompagne d'un investissement stratégique dans les technologies de fusion à très long terme, comme l'illustre le projet ITER. Parallèlement, le déploiement de l'éolien sera stoppé pour les projets non validés par les maires après consultation des habitants, tandis que la recherche sur le solaire photovoltaïque et les énergies marines sera intensifiée. Ainsi, cela permettrait de garantir sur le long terme une énergie décarbonée, pilotable et indépendante des aléas géopolitiques, tout en maîtrisant l'aménagement du territoire."
+      },
+      {
+        "candidate_id": "Anne Hidalgo",
+        "value": "L'idée serait de s'engager résolument vers un modèle énergétique 100 % renouvelable pour atteindre la décarbonation complète de notre production d'électricité. La stratégie consiste donc à refuser la construction de nouveaux réacteurs, qu'il s'agisse d'EPR ou de petits réacteurs modulaires, pour consacrer l'essentiel des investissements publics aux filières renouvelables. Le parc nucléaire existant sera géré comme une énergie de transition, sans sortie précipitée afin d'éviter une flambée des prix. La prolongation de la durée de vie des centrales actuelles sera décidée sous le contrôle exclusif de l'Autorité de sûreté nucléaire et du Parlement. Ainsi, cela permettrait de planifier une sortie progressive du nucléaire, en garantissant la sécurité d'approvisionnement tout en accélérant de manière irréversible le déploiement des énergies d'avenir."
+      },
+      {
+        "candidate_id": "Yannick Jadot",
+        "value": "L'idée serait d'engager une sortie planifiée du nucléaire, une technologie jugée sans avenir, coûteuse et dangereuse. L'axe central est une transition énergétique intégrale vers un mix 100 % renouvelable à l'horizon 2050, voire dès 2040, en mobilisant le savoir-faire industriel et technologique national. Pour y parvenir, il s'agira de gérer le parc existant de façon responsable, en procédant au démantèlement progressif des réacteurs de plus de 40 ans et en assurant un plan de gestion transparent pour les déchets. Ainsi, cela permettrait d'atteindre la neutralité carbone en s'appuyant sur des énergies d'avenir, tout en se libérant d'une filière qui représente un risque considérable et un fiasco industriel."
+      },
+      {
+        "candidate_id": "Nicolas Dupont-Aignan",
+        "value": "L'idée serait de faire de l'énergie nucléaire le pilier de la souveraineté stratégique et de la transition écologique. La bonne approche consiste à rompre avec l'objectif de réduction de sa part dans la production électrique, en fixant un plancher minimal de 70%. Pour y parvenir, la filière doit être totalement maîtrisée par la puissance publique, en nationalisant l'opérateur principal et en recréant un pôle de recherche et d'excellence industrielle indépendant. L'effort doit également porter sur l'avenir, à travers un plan sur trente ans pour développer la filière Thorium. Ainsi, cela permettrait de garantir une électricité abondante, abordable et décarbonée, tout en restaurant une indépendance énergétique et technologique complète."
+      },
+      {
+        "candidate_id": "Emmanuel Macron",
+        "value": "L'idée serait de réaffirmer le rôle central de l'énergie nucléaire comme pilier de notre souveraineté énergétique et de la transition écologique. La bonne approche consiste à engager un programme ambitieux de construction de six nouveaux réacteurs nucléaires de nouvelle génération. Cet investissement majeur s'inscrira dans une stratégie énergétique globale, qui inclut également un déploiement massif des énergies renouvelables, avec l'objectif de multiplier par dix la puissance solaire et d'implanter cinquante parcs éoliens en mer d'ici 2050. Ainsi, cela permettrait de garantir notre indépendance, de sortir des énergies fossiles et de positionner le pays en leader de la production d'énergie bas-carbone."
+      },
+      {
+        "candidate_id": "Nathalie Arthaud",
+        "value": "L'idée serait de dépasser le débat technique pour ou contre le nucléaire afin de poser la question fondamentale du contrôle démocratique de l'énergie. La bonne approche consiste à considérer que le principal danger ne vient pas de la technologie elle-même, mais de sa gestion par des intérêts privés dont la priorité est le profit, au détriment de la sécurité et des besoins collectifs. L'axe central est donc de placer l'ensemble du secteur énergétique sous le contrôle des travailleurs et de la collectivité. C'est seulement dans ce cadre d'une économie planifiée en fonction des besoins de tous que des choix rationnels et sûrs concernant le mix énergétique pourront être faits. Ainsi, cela permettrait de garantir une production d'énergie qui serve l'intérêt général et non les dividendes d'actionnaires."
+      }
+    ]
+  },
+  {
+    "question": "Faut-il instaurer une taxe carbone plus élevée pour financer la transition écologique ?",
+    "propositions": [
+      {
+        "candidate_id": "Philippe Poutou",
+        "value": "L'idée serait de rompre avec les logiques de fiscalité indirecte qui font peser le coût de la transition écologique sur la population. La bonne approche consiste à financer cette transition non par une taxe sur la consommation des ménages, mais par une ponction directe sur les profits des entreprises polluantes et sur les grandes fortunes. Pour y parvenir, l'axe central est de mettre fin à toutes les aides publiques aux grands groupes, de socialiser les secteurs clés de l'énergie et des transports afin de piloter la bifurcation, et de mobiliser les ressources nécessaires par un impôt sur la fortune fortement progressif. Ainsi, cela permettrait de garantir une bifurcation écologique rapide et socialement juste, financée par les principaux responsables de la crise climatique sans pénaliser les individus."
+      },
+      {
+        "candidate_id": "Marine Le Pen",
+        "value": "L'idée serait de rejeter le principe d'une fiscalité écologique punitive, en privilégiant au contraire un allègement massif des taxes qui pèsent sur l'énergie pour les ménages et les entreprises. L'axe central est de considérer l'essence, le fioul, le gaz et l'électricité comme des biens de première nécessité, en ramenant leur TVA de 20 % à 5,5 %. Cette baisse directe des dépenses contraintes constitue la priorité, en opposition avec une taxe carbone qui pénalise plus durement les plus modestes et les habitants des territoires ruraux. Le financement de la transition doit reposer sur des choix industriels souverains, et non sur une nouvelle charge fiscale. Ainsi, cela permettrait de rendre immédiatement du pouvoir d'achat aux Français, en traitant l'énergie comme un besoin essentiel plutôt que comme une variable d'ajustement."
+      },
+      {
+        "candidate_id": "Jean-Luc Mélenchon",
+        "value": "L'idée serait de faire peser l'effort de la transition sur les activités les plus polluantes plutôt que sur le budget des ménages. La bonne approche consiste à rejeter une taxe carbone générale, socialement injuste, au profit de mécanismes ciblés et d'investissements massifs. Les leviers d'action prioritaires sont l'instauration d'une taxe kilométrique sur les marchandises importées pour favoriser les circuits courts, la suppression des niches fiscales néfastes pour l'environnement, et une contribution accrue des hauts revenus et des grandes entreprises. Cette fiscalité juste financera un plan d'investissement dans la bifurcation écologique. Ainsi, cela permettrait d'engager une véritable transition sans faire obstacle à la justice sociale et en protégeant le pouvoir d'achat."
+      },
+      {
+        "candidate_id": "Valérie Pécresse",
+        "value": "L'idée serait de financer la transition écologique sans pénaliser le pouvoir d'achat ni la compétitivité nationale, en refusant le principe d'une écologie punitive. L'instrument privilégié n'est donc pas une augmentation de la fiscalité intérieure, mais l'instauration d'une taxe carbone aux frontières de l'Union européenne. Ce mécanisme vise à soumettre les produits importés ne respectant pas nos normes environnementales aux mêmes exigences que nos propres filières agricoles et industrielles. Le financement des investissements verts sera assuré par la mobilisation de l'épargne privée, sans recourir à de nouvelles hausses d'impôts. Ainsi, cela permettrait de protéger nos entreprises d'une concurrence déloyale tout en engageant la décarbonation de l'économie sur un principe de justice."
+      },
+      {
+        "candidate_id": "Fabien Roussel",
+        "value": "L'idée serait de refuser le principe d'une taxe carbone qui pèserait sur les ménages, pour privilégier un financement de la transition écologique reposant sur la contribution des acteurs économiques. L’approche consiste à mettre en place un vaste fonds pour le climat et l'emploi, abondé par l'État, la création monétaire et une fiscalité d'entreprise modulée selon des critères sociaux et écologiques. Cette nouvelle fiscalité ciblera les bénéfices des grands groupes et les activités polluantes. En parallèle, les taxes indirectes sur l'énergie pesant sur les consommateurs seraient au contraire abaissées pour protéger le pouvoir d'achat. Ainsi, cela permettrait de rendre la transformation écologique socialement juste, en faisant contribuer le capital plutôt que de pénaliser la consommation des citoyens."
+      },
+      {
+        "candidate_id": "Eric Zemmour",
+        "value": "L'idée serait de déplacer la charge écologique du producteur et du consommateur nationaux vers les importations qui ne respectent pas nos normes, afin de protéger l'industrie sans pénaliser les ménages. L'approche consiste à refuser toute forme d'écologie punitive par la fiscalité intérieure et à instaurer, en contrepartie, un mécanisme de taxe carbone aux frontières de l'Europe. Ce dispositif viserait à soumettre les produits importés aux mêmes exigences environnementales que notre propre production, mettant ainsi fin à la concurrence déloyale des pays moins-disants sur le plan écologique. Ainsi, cela permettrait de créer des conditions de concurrence équitables, de favoriser la réindustrialisation et de financer la transition en faisant contribuer les acteurs économiques étrangers plutôt que de faire reposer l'effort sur les citoyens."
+      },
+      {
+        "candidate_id": "Jean Lassalle",
+        "value": "L'idée serait de piloter la transition énergétique par l'investissement stratégique et l'innovation technologique, plutôt que par une fiscalité punitive qui pèse sur le pouvoir d'achat et la compétitivité. La priorité est de maîtriser les prix de l'énergie et d'alléger la fiscalité sur les hydrocarbures en ramenant la TVA à 5,5%. Parallèlement, l'effort public doit se concentrer sur le développement de filières d'avenir, notamment le nucléaire de nouvelle génération, l'énergie solaire et l'énergie marine, tout en renforçant la souveraineté sur les actifs énergétiques clés. Ainsi, cela permettrait de financer la transformation de notre modèle énergétique par la croissance et l'innovation, en assurant notre souveraineté et en protégeant les citoyens et les entreprises d'une hausse du coût de la vie."
+      },
+      {
+        "candidate_id": "Anne Hidalgo",
+        "value": "L'idée serait de fonder le financement de la transition sur une fiscalité écologique juste, qui ne pèse pas sur les classes moyennes et populaires. Plutôt qu'une augmentation généralisée de la taxe carbone, l'approche consiste à instaurer un Impôt de Solidarité sur la Fortune (ISF) Climat et Biodiversité pour faire contribuer les patrimoines les plus élevés. Ce mécanisme sera complété par une surtaxe sur les placements financiers liés aux énergies fossiles. De plus, une \"Règle d'Or Climatique\" garantira que 50% des recettes de la fiscalité environnementale financeront des mesures sociales pour les ménages les plus impactés par la transition. Ainsi, cela permettrait de sécuriser le financement de la transition écologique tout en renforçant la justice sociale et en assurant l'acceptabilité des réformes."
+      },
+      {
+        "candidate_id": "Yannick Jadot",
+        "value": "L'idée serait de refondre la fiscalité carbone pour en faire un levier de transition écologique juste et efficace. L'enjeu n'est pas simplement de taxer, mais de garantir que la contribution climatique soit socialement juste. L'approche consiste à augmenter progressivement la trajectoire carbone, en conditionnant cette hausse à une compensation intégrale pour les ménages les plus modestes via un mécanisme de \"chèque vert\". Les recettes de cette taxe réformée seront fléchées de manière transparente : la moitié pour ce dispositif de redistribution, l'autre moitié pour l'investissement dans la transition. Ainsi, cela permettrait d'orienter les comportements et de dégager des financements pour la transition, en faisant de la fiscalité carbone un outil de solidarité et de transformation écologique."
+      },
+      {
+        "candidate_id": "Nicolas Dupont-Aignan",
+        "value": "L'idée serait de financer la transition écologique par une réorientation des dépenses et des incitations, en rejetant catégoriquement toute fiscalité punitive qui pèserait sur le pouvoir d'achat des ménages. La bonne approche consiste à supprimer les subventions aux énergies intermittentes pour financer massivement un grand plan d'isolation thermique des logements, ce qui permettrait de réduire concrètement les factures d'électricité. L'effort doit être concentré sur les sources de pollution majeures, comme les flux maritimes internationaux, et non sur les citoyens. Ainsi, cela permettrait d’engager une transition efficace sans pénaliser les Français, en privilégiant les investissements structurels à la taxation du quotidien."
+      },
+      {
+        "candidate_id": "Emmanuel Macron",
+        "value": "L'idée serait de faire de la fiscalité écologique un levier de compétitivité et d'équité, plutôt qu'un outil de taxation intérieure. La bonne approche consiste à mettre en œuvre une taxe carbone aux frontières de l'Europe. Cette mesure vise à appliquer aux produits importés les mêmes exigences environnementales qu'à nos propres industries, afin de lutter contre la concurrence déloyale. L'objectif est de protéger les emplois et les entreprises qui investissent dans la transition, tout en encourageant une décarbonation à l'échelle mondiale. Ainsi, cela permettrait de financer la transition de manière juste, en faisant porter l'effort sur les importations qui ne respectent pas nos normes climatiques, et non sur les acteurs économiques locaux."
+      },
+      {
+        "candidate_id": "Nathalie Arthaud",
+        "value": "L'idée serait de rejeter catégoriquement toute mesure fiscale qui fait peser le coût de la transition écologique sur la population, car les véritables responsables de la pollution sont les grands groupes capitalistes qui en tirent profit. La bonne approche consiste à leur ôter le pouvoir de nuire en plaçant les secteurs clés de l'économie sous le contrôle de la collectivité. Pour y parvenir, il est nécessaire d'exproprier les grands groupes industriels et financiers, afin de planifier la production en fonction des besoins humains et des limites de la planète, et non de la logique de profit. L'objectif est de mettre fin au saccage des ressources et à la concurrence destructrice. Ainsi, cela permettrait de mener une véritable politique environnementale, financée par ceux qui ont accumulé des fortunes en détruisant la planète."
+      }
+    ]
+  },
+  {
+    "question": "Faut-il conditionner davantage les aides sociales à des critères d’activité ou de résidence en France ?",
+    "propositions": [
+      {
+        "candidate_id": "Philippe Poutou",
+        "value": "L'idée serait de rompre avec toute logique de conditionnalité des aides sociales, en fondant la protection sociale sur un principe de droits universels inaliénables. La bonne approche consiste à déconnecter l'accès aux prestations de toute contrepartie d'activité, en instaurant un revenu minimum garanti pour tous à hauteur du salaire minimum. L'accès à l'ensemble des droits sociaux doit être étendu à toute personne résidant sur le territoire, sans aucune distinction de nationalité ou de statut administratif. Cette universalité des droits vise à garantir une véritable autonomie et à sortir de la logique du contrôle des plus précaires. Ainsi, cela permettrait d'éradiquer la pauvreté et d'assurer une sécurité d'existence inconditionnelle pour chacune et chacun."
+      },
+      {
+        "candidate_id": "Marine Le Pen",
+        "value": "L'idée serait de refonder le système d'aides sociales sur le principe strict de la priorité nationale, afin de garantir que la solidarité bénéficie en premier lieu à la communauté nationale. La bonne approche consiste à conditionner l'accès aux prestations en fonction de la nationalité. Concrètement, les allocations familiales seraient réservées aux foyers dont au moins un parent est français. De la même manière, d'autres aides sociales seraient accessibles aux seuls nationaux, et une priorité leur serait accordée pour l'attribution des logements sociaux. Ainsi, cela permettrait de recentrer le modèle social sur ses contributeurs et de réduire les facteurs d'attraction liés aux dispositifs sociaux."
+      },
+      {
+        "candidate_id": "Jean-Luc Mélenchon",
+        "value": "L'idée serait de rompre avec la logique de suspicion et de conditionnalité pour affirmer un principe d'universalité des droits sociaux, en garantissant à chacun les moyens de vivre dignement. La bonne approche consiste à instaurer une garantie d’autonomie inconditionnelle au niveau du seuil de pauvreté pour toute personne qui en a besoin, en simplifiant radicalement les démarches pour lutter activement contre le non-recours. Ce droit serait le socle d'une politique visant à éradiquer la pauvreté, complété par l'interdiction des coupures d'eau, d'électricité et de gaz. Ainsi, cela permettrait de transformer le système d'aide sociale, passant d'un ensemble de dispositifs complexes à un droit universel et automatique qui garantit la sécurité d'existence pour tous."
+      },
+      {
+        "candidate_id": "Valérie Pécresse",
+        "value": "L'idée serait de refonder le pacte social sur le principe que le travail doit toujours primer sur l'assistanat et que les droits sont la contrepartie de devoirs. L'axe central consiste à conditionner le versement des aides à une participation active, en instaurant une obligation de 15 heures d'activité hebdomadaire pour les allocataires du RSA. Cette exigence de contrepartie s'appliquera également aux résidents étrangers, pour qui l'accès à certaines prestations sociales comme les allocations familiales et au logement sera subordonné à une durée de présence légale de cinq ans sur le territoire. Par ailleurs, aucune voie de régularisation ne sera ouverte pour les personnes en situation irrégulière, quel que soit leur secteur d'activité. Ainsi, cela permettrait de garantir l'équité envers ceux qui contribuent, de stimuler la reprise d'activité et de mettre fin aux filières d'immigration irrégulière."
+      },
+      {
+        "candidate_id": "Fabien Roussel",
+        "value": "L'idée serait de garantir l'universalité des droits sociaux en supprimant les conditions qui créent l'exclusion, plutôt qu'en en ajoutant de nouvelles. La bonne approche consiste à étendre la protection à tous les résidents en s'attaquant aux angles morts du système actuel. Cette démarche s'incarnerait par l'ouverture immédiate du revenu de solidarité active (RSA) aux moins de 25 ans, afin de réparer une injustice et de ne laisser personne sans ressource. Elle serait complétée par une revalorisation de l'ensemble des minima sociaux, financée par la solidarité nationale. Le droit au logement et à l'énergie serait également sécurisé en interdisant les expulsions et les coupures. Ainsi, cela permettrait de traiter la pauvreté à la racine en faisant de la solidarité un droit inconditionnel, plutôt qu'une aide conditionnée à des contreparties."
+      },
+      {
+        "candidate_id": "Eric Zemmour",
+        "value": "L'idée serait de transformer la logique d'attribution des aides sociales en la fondant sur un principe de préférence nationale et de réciprocité. La démarche consiste d'abord à supprimer l'accès aux prestations sociales non-contributives (RSA, aides au logement, allocations familiales) pour les étrangers extra-européens, réservant ainsi la solidarité aux seuls nationaux et ressortissants de l'Union. Pour tous, un second niveau de conditionnalité serait appliqué, avec la suspension systématique des allocations en cas d'absentéisme scolaire, de délinquance ou de fraude. Enfin, le cumul des minima sociaux serait plafonné en dessous du SMIC pour garantir que le travail soit toujours plus rémunérateur. Ainsi, cela permettrait de passer d'un système de droits ouverts à une aide ciblée, conçue comme la contrepartie d'une appartenance à la communauté nationale et du respect de ses règles."
+      },
+      {
+        "candidate_id": "Jean Lassalle",
+        "value": "L'idée serait de renforcer le pacte social en adaptant les conditions d'accès aux aides, en distinguant la solidarité inconditionnelle due aux plus fragiles et l'accompagnement vers l'activité pour les autres. La bonne approche consiste à simplifier l'accès aux droits pour les personnes en situation de handicap, notamment en supprimant la prise en compte des revenus du conjoint. En revanche, pour les jeunes, l'extension d'un revenu minimum doit être liée à des critères de ressources ou à un engagement dans un parcours de formation. Le bénéfice des prestations sociales reste par principe conditionné à une résidence stable et régulière sur le territoire. Ainsi, cela permettrait de bâtir un système plus juste, qui protège sans assister et encourage l'autonomie tout en garantissant une solidarité sans faille envers ceux qui ne peuvent pas travailler."
+      },
+      {
+        "candidate_id": "Anne Hidalgo",
+        "value": "L'idée serait de renforcer l'universalité des protections sociales pour lutter contre la précarité, plutôt que de multiplier les conditions d'accès. La bonne approche consiste à étendre les droits, notamment en créant un \"minimum jeunesse\" ouvert à tous les plus de 18 ans sous simple condition de ressources. Ce droit fondamental serait systématiquement assorti d'un accompagnement personnalisé vers l'emploi ou la qualification. Pour les autres allocations, comme l'assurance-chômage, le principe n'est pas celui d'une contrepartie mais d'un temps d'activité dédié à la construction d'un projet professionnel, avec des droits à la formation renforcés. Ainsi, cela permettrait de bâtir un système fondé sur la confiance et l'émancipation, qui considère les aides comme un investissement pour l'autonomie des personnes et non comme une prestation soumise à des conditions restrictives."
+      },
+      {
+        "candidate_id": "Yannick Jadot",
+        "value": "L'idée serait de rompre avec la logique de la conditionnalité pour bâtir un socle de protection sociale véritablement universel. L'enjeu est de garantir une vie digne à chacune et chacun, en déconnectant les droits fondamentaux du seul statut de l'emploi. La bonne approche consiste à instaurer un revenu d'existence universel, dont la première étape sera la création d'un revenu minimum garanti pour tout adulte, versé sans contrepartie et dès la majorité. Ce filet de sécurité sera renforcé par l'automatisation des aides existantes pour lutter contre le non-recours, et par la suppression des délais de carence dans l'accès aux soins pour les résidents étrangers. Ainsi, cela permettrait de faire des droits sociaux un véritable pilier de notre pacte social, assurant que la protection contre la pauvreté soit un droit inconditionnel et non une aide soumise à des exigences d'activité."
+      },
+      {
+        "candidate_id": "Nicolas Dupont-Aignan",
+        "value": "L'idée serait de refonder le pacte social sur le principe de réciprocité, en s'assurant que la solidarité nationale bénéficie en priorité à ceux qui contribuent à la collectivité ou s'inscrivent durablement sur le territoire. La bonne approche consiste à exiger une contrepartie pour certaines allocations, comme une journée de service hebdomadaire pour la collectivité. Pour les étrangers, l'accès aux aides sociales serait conditionné à un délai de résidence de cinq ans sur le territoire. Le contrôle de cette résidence serait renforcé par l'instauration de cartes vitales biométriques remises en main propre. Ainsi, cela permettrait de mieux cibler les aides, de lutter contre les abus et de réaffirmer que les droits sociaux sont indissociables des devoirs envers la communauté."
+      },
+      {
+        "candidate_id": "Emmanuel Macron",
+        "value": "L'idée serait de refonder le pacte de solidarité sur un équilibre exigeant entre droits et devoirs, afin que la solidarité soit toujours un levier vers l'activité. La bonne approche consiste à conditionner le versement du RSA à une activité effective permettant l'insertion. De même, les règles de l'assurance chômage seront adaptées à la conjoncture économique : plus strictes lorsque de nombreux emplois sont non pourvus, et plus protectrices en période de chômage élevé. Cette logique de réciprocité s'étendra également au droit au séjour, qui sera conditionné à une insertion professionnelle réussie et à la maîtrise de la langue française. Ainsi, cela permettrait de rendre notre modèle social plus juste et plus incitatif, en faisant de la solidarité un tremplin vers l'emploi et l'autonomie."
+      },
+      {
+        "candidate_id": "Nathalie Arthaud",
+        "value": "L'idée serait de rejeter toute logique de conditionnalité qui vise à trier les individus et à dresser les plus précaires les uns contre les autres. La priorité est de garantir des droits sociaux universels et inconditionnels, assurant un revenu digne à toute personne, qu'elle soit travailleuse, chômeuse, retraitée ou handicapée, sans aucune distinction de nationalité ou de durée de résidence. L’objectif est de mettre en place des allocations et des pensions d'un montant suffisant pour vivre, avec un seuil minimal de 2 000 euros nets, car la survie ne doit pas dépendre de critères bureaucratiques ou discriminatoires. Ainsi, cela permettrait de s'attaquer à la pauvreté à sa racine et de renforcer la solidarité entre tous, au lieu d'organiser la concurrence entre les pauvres."
+      }
+    ]
+  },
+  {
+    "question": "Faut-il régulariser certains travailleurs sans papiers occupant des emplois dits “en tension” ?",
+    "propositions": [
+      {
+        "candidate_id": "Philippe Poutou",
+        "value": "L'idée serait de rompre avec une approche sélective et utilitariste de la régularisation, en la fondant sur un principe de droits universels et inconditionnels pour toute personne présente sur le territoire. La bonne approche consiste à engager une régularisation large, immédiate et inconditionnelle de toutes les personnes sans-papiers, indépendamment de leur situation professionnelle. Cette démarche s'inscrit dans le cadre plus global de l'ouverture des frontières et de la garantie d'une liberté totale de circulation et d'installation, en accordant l'intégralité des droits sociaux et politiques à tous les résidents. Ainsi, cela permettrait de sortir d'une logique de précarité organisée et d'assurer que les droits fondamentaux s'appliquent à chaque personne vivant sur le territoire, en mettant fin à l'exploitation liée au statut administratif."
+      },
+      {
+        "candidate_id": "Marine Le Pen",
+        "value": "L'idée serait de rejeter catégoriquement toute forme de régularisation, car elle constitue une prime à l'illégalité et affaiblit l'autorité de l'État. La bonne approche consiste à appliquer une politique de fermeté absolue, en rendant systématique et immédiate la reconduite à la frontière de tout étranger en situation irrégulière, sans considération pour sa situation professionnelle. Le concept d'emploi en tension ne doit pas servir de prétexte à une exception à la loi ; la priorité doit être de former et d'orienter la main-d'œuvre nationale vers ces secteurs. Ainsi, cela permettrait de mettre fin au signal d'attraction que représentent les espoirs de régularisation et de restaurer pleinement la souveraineté de la nation dans le contrôle de son marché du travail."
+      },
+      {
+        "candidate_id": "Jean-Luc Mélenchon",
+        "value": "L'idée serait de sortir d'une logique utilitariste qui conditionne la régularisation des travailleurs sans papiers aux seuls besoins de l'économie, pour affirmer un principe de dignité humaine et de droits fondamentaux. La bonne approche consiste à abroger les lois restrictives pour instaurer un cadre légal permettant un examen individuel et approfondi de chaque situation. La priorité est de garantir un accueil et un hébergement dignes sur tout le territoire, ainsi qu'un droit d'asile effectif, en se donnant les moyens d'étudier chaque dossier sans précipitation. Ainsi, cela permettrait de lutter contre l'exploitation et la précarité en reconnaissant les droits de toutes les personnes présentes sur le sol national, indépendamment des tensions sectorielles du marché du travail."
+      },
+      {
+        "candidate_id": "Valérie Pécresse",
+        "value": "L'idée serait de répondre aux besoins de main-d’œuvre uniquement par les canaux d'une immigration légale, choisie et quantifiée. Le principe d'une fermeté absolue s'applique : aucune régularisation ne sera accordée aux personnes entrées ou séjournant de manière irrégulière sur le territoire, quel que soit le secteur d'activité concerné. La seule voie acceptable pour pourvoir les emplois en tension consiste à définir en amont des quotas par métiers et par pays, permettant de sélectionner des profils dans un cadre maîtrisé. Cette approche préventive est le corollaire d'une politique d'expulsion systématique des étrangers en situation illégale. Ainsi, cela permettrait de supprimer tout appel d'air et de garantir que l'immigration de travail soit le fruit d'une décision souveraine et non la conséquence d'une situation de fait."
+      },
+      {
+        "candidate_id": "Fabien Roussel",
+        "value": "L'idée serait de traiter la régularisation comme un enjeu d'égalité des droits et de lutte contre l'exploitation, plutôt que comme un simple outil de gestion du marché du travail. La bonne approche consiste à régulariser l'ensemble des travailleuses et travailleurs sans papiers actuellement en activité, indépendamment du secteur. Cette démarche vise à garantir une égalité de statut pour tous, ce qui constitue la seule arme efficace contre le travail clandestin et la mise en concurrence des salariés organisée par les employeurs. Ainsi, cela permettrait de faire reculer l'exploitation en assurant que les mêmes droits et protections s'appliquent à toutes et à tous sur le territoire."
+      },
+      {
+        "candidate_id": "Eric Zemmour",
+        "value": "L'idée serait de poser un principe de non-régularisation absolue pour toute personne entrée illégalement sur le territoire, afin de mettre fin aux filières clandestines et de restaurer la primauté de la loi. L'approche consiste à traiter l'immigration illégale non comme un vivier de main-d'œuvre, mais comme une infraction appelant une sanction. Pour ce faire, le délit de séjour irrégulier serait rétabli, rendant toute régularisation par le travail juridiquement impossible. La seule voie envisagée pour les étrangers en situation irrégulière est l'éloignement systématique du territoire, indépendamment de leur situation professionnelle. Ainsi, cela permettrait de supprimer totalement les \"appels d'air\" et de réaffirmer que la présence sur le sol national est conditionnée au respect strict de la loi, sans exception fondée sur des considérations économiques conjoncturelles."
+      },
+      {
+        "candidate_id": "Jean Lassalle",
+        "value": "L'idée serait de traiter les tensions sur le marché du travail à la source, en agissant sur la formation de la main-d'œuvre nationale et l'attractivité des métiers, plutôt que de recourir à la régularisation de l'immigration illégale. L'axe central est de restaurer la souveraineté en matière de politique migratoire, en concentrant les efforts sur le contrôle des frontières tout en respectant le droit d'asile. La réponse aux besoins des entreprises doit passer par une relance de l'apprentissage, une revalorisation des filières professionnelles et une simplification des normes du droit du travail pour faciliter l'embauche légale. Ainsi, cela permettrait de garantir que les emplois disponibles bénéficient en priorité à la main-d'œuvre résidant sur le territoire, tout en assurant une gestion cohérente et maîtrisée des flux migratoires."
+      },
+      {
+        "candidate_id": "Anne Hidalgo",
+        "value": "L'idée serait de prévenir la formation d'une main-d'œuvre clandestine plutôt que de recourir à des régularisations a posteriori comme solution principale. L'approche centrale consiste à transformer le statut du demandeur d'asile en ouvrant systématiquement l'accès au travail dès le dépôt de la demande. Cette mesure s'inscrirait dans une politique d'intégration globale et immédiate, incluant des parcours linguistiques et un accompagnement renforcé. Cette démarche vise à tarir à la source le travail illégal en créant une voie d'intégration légale et transparente par l'emploi. Ainsi, cela permettrait de sécuriser les parcours des individus tout en répondant de manière régulée aux besoins de l'économie, sans attendre que des situations irrégulières ne s'installent."
+      },
+      {
+        "candidate_id": "Yannick Jadot",
+        "value": "L'idée serait de dépasser la logique sectorielle des \"métiers en tension\" pour adopter une approche de régularisation large et systématique. L'enjeu est de reconnaître la situation de tous les travailleurs étrangers déjà présents sur le territoire, quelle que soit leur branche d'activité. La bonne approche consiste à mettre en œuvre une régularisation systématique des travailleurs sans-papiers, fondée sur leur présence et leur activité, et non sur des listes restrictives d'emplois. Cette politique s'accompagnera d'une facilitation des démarches administratives et d'une pleine reconnaissance de leurs droits. Ainsi, cela permettrait de mettre fin à l'exploitation de ces travailleurs, de les intégrer pleinement à la société et de construire une politique migratoire fondée sur la dignité et non sur une logique utilitariste."
+      },
+      {
+        "candidate_id": "Nicolas Dupont-Aignan",
+        "value": "L'idée serait de rejeter toute forme de régularisation par le travail, qui est perçue comme un facteur d'attraction pour l'immigration clandestine. La priorité est d'appliquer la loi en procédant à l'expulsion systématique de tout étranger en situation irrégulière, quelle que soit sa situation professionnelle. La démarche consiste à privilégier l'accès à l'emploi pour les nationaux et les résidents légaux, tout en luttant contre la concurrence déloyale que représente l'emploi de main-d'œuvre clandestine. Ainsi, cela permettrait de réduire l'appel d'air, de garantir le respect de la loi et de protéger les travailleurs français de toute forme de dumping social."
+      },
+      {
+        "candidate_id": "Emmanuel Macron",
+        "value": "L'idée serait de fonder le droit au séjour sur une intégration réussie et vérifiable, plutôt que de créer des filières de régularisation spécifiques, y compris pour les secteurs en tension. La bonne approche consiste à conditionner l'obtention d'un titre de long séjour à des critères stricts et cumulatifs : une insertion professionnelle effective et la réussite d'un examen de français. Parallèlement, les procédures de décision doivent être accélérées pour expulser plus efficacement ceux qui ne sont pas éligibles au séjour. Ainsi, cela permettrait d'avoir une politique d'immigration maîtrisée et cohérente, où le droit de rester sur le territoire est la conséquence d'un parcours d'intégration réussi et non une réponse à des situations irrégulières."
+      },
+      {
+        "candidate_id": "Nathalie Arthaud",
+        "value": "L'idée serait de refuser une approche utilitariste et sélective qui divise les travailleurs en fonction des besoins du patronat. L'axe central est de reconnaître que tous les travailleurs, quelle que soit leur origine ou leur statut administratif, appartiennent au même camp et font fonctionner la société. La seule approche cohérente est donc d'accorder une liberté totale de circulation et d'installation. Cela implique la régularisation immédiate et inconditionnelle de l'ensemble des travailleurs sans papiers, sans distinction de secteur d'activité, en leur accordant les mêmes droits que les autres, y compris le droit de vote. Ainsi, cela permettrait de mettre fin à l'exploitation d'une main-d'œuvre privée de droits, qui tire l'ensemble des conditions de travail vers le bas, et de renforcer l'unité de tous les travailleurs."
+      }
+    ]
+  },
+  {
+    "question": "Faut-il autoriser le port de signes religieux dans les établissements scolaires publics ?",
+    "propositions": [
+      {
+        "candidate_id": "Philippe Poutou",
+        "value": "L'idée serait de garantir la pleine liberté individuelle des élèves, en rompant avec une logique de contrôle et d'uniformisation des corps par l'institution scolaire. La bonne approche consiste à affirmer un principe de liberté vestimentaire totale pour les élèves, incluant le port de signes d'appartenance philosophique ou religieuse. Cette mesure implique l'abrogation de toute législation restrictive, considérée comme une atteinte aux libertés fondamentales et un outil de discrimination ciblé. La priorité est de faire de l'école un espace d'accueil inconditionnel, centré sur l'émancipation intellectuelle plutôt que sur la surveillance des apparences. Ainsi, cela permettrait de mettre fin aux politiques d'exclusion, tout en recentrant l'institution scolaire sur sa mission première de transmission des savoirs."
+      },
+      {
+        "candidate_id": "Marine Le Pen",
+        "value": "L'idée serait de réaffirmer le rôle de l'école comme creuset de l'assimilation républicaine en en faisant un sanctuaire de neutralité absolue, protégé de toute forme de communautarisme. La bonne approche consiste à prohiber par la loi toute expression idéologique ou religieuse au sein de l'espace scolaire. Cette interdiction concernerait l'ensemble des signes d'appartenance, sans distinction, afin de garantir l'égalité entre les élèves et de préserver les enfants des revendications qui divisent la société. L'école doit redevenir le lieu de l'apprentissage d'un socle commun, à l'abri des pressions extérieures. Ainsi, cela permettrait de restaurer l'institution scolaire dans sa mission première et de renforcer l'unité nationale en luttant contre les ferments de la division."
+      },
+      {
+        "candidate_id": "Jean-Luc Mélenchon",
+        "value": "L'idée serait de réaffirmer le principe de laïcité comme condition essentielle de l'école républicaine, afin de préserver cet espace commun comme un lieu d'émancipation intellectuelle et de formation du citoyen, à l'abri des pressions religieuses et communautaires. La bonne approche consiste donc à appliquer sans exception la règle de neutralité, qui interdit le port de tout signe ou tenue manifestant ostensiblement une appartenance religieuse par les élèves. Cette exigence est la garantie offerte à chaque enfant de pouvoir développer son libre arbitre dans un cadre qui privilégie le savoir et les valeurs universelles. Ainsi, cela permettrait de garantir l'égalité entre tous les élèves et de s'assurer que l'école demeure un sanctuaire dédié à la transmission des savoirs et au développement de l'esprit critique, libre de toute influence dogmatique."
+      },
+      {
+        "candidate_id": "Valérie Pécresse",
+        "value": "L'idée serait de réaffirmer l'école comme un sanctuaire de neutralité absolue, protégé de toute pression religieuse ou communautaire. La priorité est de garantir l'application la plus stricte de la loi existante interdisant les signes ostensibles pour les élèves. Cette exigence de neutralité sera étendue à tous les adultes qui participent à la vie scolaire, notamment les accompagnateurs de sorties, pour qui le port de signes religieux sera proscrit. L'objectif est de préserver la cohésion nationale en faisant de l'espace éducatif un lieu où l'appartenance à la République prime sur toute autre identité. Ainsi, cela permettrait de garantir l'égalité entre tous les enfants et de les former à la citoyenneté loin des influences communautaristes."
+      },
+      {
+        "candidate_id": "Fabien Roussel",
+        "value": "L'idée serait de réaffirmer le principe de laïcité comme la condition de l'égalité et de la liberté de conscience au sein de l'école publique. L'approche consiste à garantir la stricte neutralité de l'espace scolaire, en le préservant des pressions communautaires et du prosélytisme. Cela implique le maintien d'un cadre clair où les signes d'appartenance religieuse n'ont pas leur place, afin de permettre à chaque élève de se forger un jugement libre. Un observatoire indépendant de la laïcité veillerait à son application juste, sans en faire un outil de discrimination. Ainsi, cela permettrait de conforter la mission émancipatrice de l'école républicaine et de promouvoir un climat d'apprentissage serein."
+      },
+      {
+        "candidate_id": "Eric Zemmour",
+        "value": "L'idée serait de faire de l'école un sanctuaire inviolable, entièrement dédié à l'instruction et à l'assimilation, en la protégeant de toute forme de revendication communautaire. La démarche consiste non seulement à maintenir l'interdiction existante, mais à l'inscrire dans une vision plus large visant à neutraliser les marqueurs identitaires. Le rétablissement de la blouse à l'école primaire, par exemple, a pour but de gommer les différences vestimentaires, qu'elles soient sociales ou religieuses. Plus fondamentalement, cette interdiction à l'école découle d'un principe plus global : l'interdiction du port du voile islamique dans l'ensemble de l'espace public. Ainsi, cela permettrait de garantir que l'école demeure un creuset d'unité nationale où les élèves sont considérés comme de futurs citoyens, libres de toute pression extérieure."
+      },
+      {
+        "candidate_id": "Jean Lassalle",
+        "value": "L'idée serait de préserver l'école publique comme un sanctuaire de neutralité, dédié à la transmission des savoirs fondamentaux et à la formation de citoyens libres. L'école doit demeurer un espace où l'appartenance à la communauté nationale prime sur les identités particulières, afin de garantir l'égalité entre tous les élèves et de protéger leur liberté de conscience. Il s'agit de recentrer l'institution scolaire sur sa mission première : instruire et émanciper par la connaissance, à l'abri des tensions idéologiques et religieuses qui fracturent la société. Ainsi, cela permettrait de conforter le rôle de l'école comme creuset de la République, où se forge une citoyenneté partagée dans le respect mutuel, condition essentielle à la cohésion de la Nation."
+      },
+      {
+        "candidate_id": "Anne Hidalgo",
+        "value": "L'idée serait de sanctuariser l'école publique comme un espace de neutralité et d'émancipation, où le principe de laïcité est non seulement respecté mais activement promu. La priorité n'est donc pas de revenir sur le cadre légal existant, mais au contraire de le défendre et de l'appliquer sans concession. L'axe central consiste à renforcer la transmission des valeurs républicaines à travers un enseignement civique renouvelé. Toute atteinte à la laïcité sera clairement sanctionnée, et les enseignants seront systématiquement protégés face aux pressions extérieures visant leur pédagogie. Ainsi, cela permettrait de garantir que l'école demeure un creuset de la citoyenneté, protégeant chaque élève des influences communautaires pour lui assurer une liberté de conscience totale."
+      },
+      {
+        "candidate_id": "Yannick Jadot",
+        "value": "L'idée serait de promouvoir une laïcité d'apaisement et de vivre-ensemble, fondée sur le principe de liberté de conscience. La bonne approche consiste à s'appuyer sur l'esprit de la loi de 1905, qui n'interdit ni la religion ni les signes religieux dans l'espace public. Il s'agit de refuser une laïcité de combat qui cherche à éliminer les expressions publiques de la foi, pour se concentrer sur la lutte contre les amalgames et les discours extrémistes. Le cadre scolaire doit être un lieu de mixité et d'intégration, où le respect mutuel prime sur l'uniformisation. Ainsi, cela permettrait de faire de la laïcité un principe de liberté et de cohésion, assurant la pleine intégration de tous les élèves dans la vie républicaine."
+      },
+      {
+        "candidate_id": "Nicolas Dupont-Aignan",
+        "value": "L'idée serait de garantir la neutralité absolue de l'école publique, pilier de la République, en la protégeant de toute manifestation d'appartenance religieuse. La bonne approche consiste à appliquer la laïcité de manière ferme et sans exception, en interdisant le port de signes et tenues ostensibles pour les élèves comme pour le personnel. Cette règle, loin d'être hostile aux religions, vise à préserver la liberté de conscience de chaque enfant et l'égalité de tous face à l'instruction. Il est impératif de défendre et d'appliquer ce principe sur tout le territoire pour maintenir l'école comme un espace de cohésion. Ainsi, cela permettrait de prévenir les pressions communautaires et de refaire de l'école le creuset de la citoyenneté française."
+      },
+      {
+        "candidate_id": "Emmanuel Macron",
+        "value": "L'idée serait de sanctuariser l'école publique comme un espace de neutralité et d'émancipation, où les principes républicains priment sur toute autre considération. La bonne approche consiste à garantir l'application stricte et intransigeante du cadre légal existant qui proscrit le port de signes religieux ostensibles. L'école doit rester un lieu protégé, dédié à la transmission des savoirs et à la formation du citoyen, à l'abri des pressions communautaires et des revendications identitaires. Ainsi, cela permettrait de préserver la cohésion nationale en assurant que chaque élève puisse se construire librement, en tant qu'individu et citoyen, dans le respect des valeurs communes qui fondent la République."
+      },
+      {
+        "candidate_id": "Nathalie Arthaud",
+        "value": "L'idée serait de sanctuariser l'école publique comme un espace d'émancipation et de neutralité, à l'abri des pressions religieuses et sociales. La bonne approche consiste à y maintenir une laïcité claire, ce qui se traduit par l'interdiction du port de signes ou de tenues manifestant ostensiblement une appartenance religieuse pour les élèves. Cette règle ne vise pas à stigmatiser une croyance, mais à garantir la liberté de conscience de tous et à combattre les symboles de l'oppression des femmes. L'école doit être un lieu préservé où se forment des citoyens libres et égaux. Ainsi, cela permettrait de garantir que chaque élève, et en particulier chaque jeune fille, dispose d'un cadre protégé pour construire son autonomie."
+      }
+    ]
+  },
+  {
+    "question": "Faut-il augmenter les dépenses militaires de la France dans le contexte géopolitique actuel ?",
+    "propositions": [
+      {
+        "candidate_id": "Philippe Poutou",
+        "value": "L'idée serait de rompre radicalement avec la posture militariste et interventionniste, en engageant une politique active de désarmement unilatéral. La bonne approche consiste à engager le démantèlement complet du complexe militaro-industriel, en reconvertissant ses capacités de production vers la transition écologique. L'axe central est l'arrêt immédiat de toutes les exportations d'armements et le retrait de toutes les alliances militaires, notamment de l'OTAN. Cette démarche doit culminer avec la destruction de l'arsenal nucléaire et la fin de toute intervention militaire extérieure. Ainsi, cela permettrait de libérer des moyens financiers considérables pour les urgences sociales et écologiques, tout en fondant les relations internationales sur la coopération et la solidarité entre les peuples plutôt que sur la puissance militaire."
+      },
+      {
+        "candidate_id": "Marine Le Pen",
+        "value": "L'idée serait d'engager un réarmement planifié et substantiel, seule réponse possible à la dégradation de l'environnement international et au retour des politiques de puissance. L'axe central est de porter le budget des armées à 55 milliards d'euros à l'horizon 2027. Cet effort financier significatif sera fléché vers l'augmentation des effectifs, la modernisation des équipements et la reconstitution des stocks de munitions. Cette montée en puissance matérielle et humaine est la condition pour garantir la crédibilité de la dissuasion nucléaire, qui demeure la clé de voûte de la défense nationale. Ainsi, cela permettrait de doter le pays des moyens nécessaires à une véritable \"politique des mains libres\", lui redonnant la pleine maîtrise de ses engagements et la capacité de défendre ses intérêts stratégiques en toute indépendance."
+      },
+      {
+        "candidate_id": "Jean-Luc Mélenchon",
+        "value": "L'idée serait de rompre avec une logique d'alignement militaire et de course à l'armement pour refonder une doctrine de défense axée sur la souveraineté nationale et la recherche de la paix. La bonne approche consiste à s'extraire du commandement intégré de l'OTAN pour recouvrer une pleine autonomie stratégique, et à refuser toute intervention militaire sans mandat explicite de l'ONU. Les ressources doivent être réorientées vers une défense populaire, incluant une conscription citoyenne et la nationalisation des industries d'armement, plutôt que d'alimenter une escalade. Ainsi, cela permettrait de doter le pays d'une défense indépendante au service d'une politique de paix active et de coopération, plutôt que d'allouer des budgets croissants à une logique de blocs et de confrontation."
+      },
+      {
+        "candidate_id": "Valérie Pécresse",
+        "value": "L'idée serait de répondre à la dégradation du contexte géopolitique par une remontée en puissance capacitaire de nos armées. L'axe central de cette stratégie est un effort budgétaire massif et planifié, se traduisant par une augmentation de 108 milliards d'euros des crédits alloués à la défense d'ici à 2030. Cet investissement exceptionnel vise à doter les forces de tous les moyens nécessaires pour assurer la protection du territoire et des citoyens face aux nouvelles menaces, comme l'a révélé l'invasion de l'Ukraine. Cette ambition s'inscrit dans un cadre national de souveraineté et s'articule avec le projet d'une Europe de la défense plus autonome. Ainsi, cela permettrait de garantir la sécurité du pays et de réaffirmer son rang de puissance militaire de premier plan."
+      },
+      {
+        "candidate_id": "Fabien Roussel",
+        "value": "L'idée serait de reconfigurer l'outil militaire pour garantir une pleine souveraineté nationale, en optimisant les ressources existantes plutôt qu'en augmentant les dépenses globales. La priorité est de mettre fin aux opérations extérieures coûteuses et de quitter les structures militaires intégrées pour dégager des marges de manœuvre budgétaires. Ces économies seraient alors réinvesties dans la modernisation d'un outil de défense polyvalent et cohérent, centré sur la protection du territoire et le maintien d'une force de dissuasion nationale. Un pôle public des industries d'armement serait également créé pour garantir cette autonomie stratégique. Ainsi, cela permettrait de bâtir une défense moderne et efficace, financée par une réallocation intelligente des moyens, garantissant une véritable indépendance stratégique sans engager le pays dans une nouvelle course aux armements."
+      },
+      {
+        "candidate_id": "Eric Zemmour",
+        "value": "L'idée serait de rompre avec le sous-investissement chronique pour inverser le déclassement de l'outil de défense et garantir l'autonomie stratégique du pays. La démarche consiste en une augmentation programmée et massive du budget des armées, visant à atteindre 70 milliards d'euros par an d'ici 2030. Cet effort financier sera fléché vers la modernisation de la dissuasion nucléaire, la reconstitution des capacités conventionnelles (avec des objectifs de deux porte-avions, vingt frégates et trois cents avions de chasse) et l'investissement dans les nouveaux champs de conflictualité comme le cyber et l'espace. Ainsi, cela permettrait de rebâtir une armée complète et puissante, pilier de la souveraineté nationale et capable d'assurer la protection des intérêts français dans le monde."
+      },
+      {
+        "candidate_id": "Jean Lassalle",
+        "value": "L'idée serait de garantir la souveraineté nationale par la reconstruction d'une défense autonome et complète, capable d'opérer en dehors des alliances existantes. L'axe central consiste à rebâtir une industrie de l'armement et de l'équipement pleinement souveraine, pour ne plus dépendre de fournisseurs étrangers. Cet effort doit inclure un renforcement majeur de la cyberdéfense, en lui allouant un budget conséquent à hauteur d'un quart de celui des autres armées. En complément, la création d'une Garde Nationale dotera l'armée régulière d'une force d'appoint indispensable. Ainsi, cela permettrait de disposer des moyens militaires nécessaires à une politique de défense et une diplomatie indépendantes, condition préalable à un désengagement des structures de commandement militaire intégré."
+      },
+      {
+        "candidate_id": "Anne Hidalgo",
+        "value": "L'idée serait de garantir la souveraineté de la France et la sécurité de ses citoyens en adaptant ses capacités de défense aux défis du XXIe siècle. L'axe central est une augmentation des moyens alloués à nos armées, qui se traduira par une révision à la hausse de la loi de programmation militaire 2019-2025. Cet effort budgétaire ciblera en priorité le renforcement de la recherche et du développement ainsi que l'adaptation aux nouvelles menaces, notamment dans les domaines spatial et de la cybersécurité. Ainsi, cela permettrait de doter le pays d'une défense crédible et moderne, capable de protéger le territoire national et de faire face à l'évolution du contexte géopolitique."
+      },
+      {
+        "candidate_id": "Yannick Jadot",
+        "value": "L'idée serait de substituer à la logique d'augmentation des budgets une approche de rationalisation et d'optimisation des dépenses de défense. L'enjeu est de garantir la sécurité par une meilleure efficacité et une diplomatie active, non par une course à l'armement. La bonne approche consiste à mettre en œuvre des mesures concrètes de contrôle et de réduction des armements, tout en plaidant pour une diminution concertée des dépenses militaires à l'échelle mondiale. La priorité sera donnée à l'intégration de la production de défense au niveau européen et au renforcement de la coopération en matière de prévention et de résolution non-violente des conflits. Ainsi, cela permettrait d'allouer les ressources de manière plus juste et efficace, en contribuant à la désescalade globale plutôt qu'à l'exacerbation des tensions géopolitiques."
+      },
+      {
+        "candidate_id": "Nicolas Dupont-Aignan",
+        "value": "L'idée serait de garantir l'indépendance stratégique de la nation en reconstruisant un outil de défense à la hauteur des enjeux géopolitiques. La bonne approche consiste à sanctuariser les dépenses militaires en portant leur budget à 2,5 % du Produit Intérieur Brut, contre 2 % actuellement. Cet effort financier permettra de lancer un plan de recrutement massif visant à intégrer 40 000 soldats supplémentaires sur cinq ans, afin de combler les effectifs perdus. En parallèle, la priorité sera de rattraper le retard accumulé en matière d'équipements et de revaloriser la solde des militaires. Ainsi, cela permettrait à la France de se donner les moyens de sa politique étrangère, de garantir sa souveraineté en sortant du commandement intégré de l'OTAN, et de restaurer sa pleine capacité d'action sur la scène internationale."
+      },
+      {
+        "candidate_id": "Emmanuel Macron",
+        "value": "L'idée serait de poursuivre un effort de défense substantiel et continu pour adapter nos armées aux nouvelles menaces et garantir notre souveraineté. La bonne approche consiste à sanctuariser l'objectif de consacrer 2 % du PIB aux dépenses militaires, afin de financer un programme de modernisation complet de nos équipements d'ici 2030, incluant de nouveaux avions de combat, sous-marins et véhicules blindés. Cet effort portera également sur les effectifs, avec un doublement du nombre de réservistes opérationnels d'ici 2027. Cette montée en puissance s'inscrira dans le cadre d'une autonomie stratégique européenne renforcée. Ainsi, cela permettrait de doter le pays d'un outil de défense crédible, capable de faire face aux menaces actuelles et futures, tout en affirmant notre rôle de pilier de la sécurité en Europe."
+      },
+      {
+        "candidate_id": "Nathalie Arthaud",
+        "value": "L'idée serait de rompre radicalement avec la logique de course aux armements et de réorienter les budgets militaires vers les besoins essentiels de la population. La priorité est d'engager un désengagement militaire total, en retirant les troupes déployées à l'étranger dans des opérations qui ne servent que des intérêts économiques privés. Il s'agit également de cesser toute exportation d'armements, qui alimente les conflits internationaux. Les milliards ainsi économisés doivent être réaffectés en urgence aux services publics, comme la santé, l'éducation et les retraites. Ainsi, cela permettrait de promouvoir une politique de paix fondée sur la solidarité internationale entre les peuples, et non sur la puissance militaire au service d'une minorité."
+      }
+    ]
+  },
+  {
+    "question": "Faut-il plafonner les loyers à un niveau national pour lutter contre la hausse du coût du logement ?",
+    "propositions": [
+      {
+        "candidate_id": "Philippe Poutou",
+        "value": "L'idée serait de considérer le logement comme un droit fondamental et non comme une marchandise, en brisant la spéculation immobilière pour garantir un accès universel à un toit. La mesure principale consiste à instaurer un blocage général des loyers sur l'ensemble du territoire. Cette action doit s'accompagner d'un arrêt total des expulsions locatives et de la réquisition des logements vacants pour répondre aux situations d'urgence. Parallèlement, la création d'un grand service public du logement, financé par la renationalisation des sociétés HLM, permettra de lancer un plan de construction de 200 000 logements sociaux par an. Ainsi, cela permettrait de garantir la sécurité et la stabilité résidentielle pour tous les ménages, en extrayant durablement le logement des logiques de profit."
+      },
+      {
+        "candidate_id": "Marine Le Pen",
+        "value": "L'idée serait de répondre à la crise du logement en facilitant l'accession à la propriété plutôt qu'en instaurant un contrôle des loyers, jugé inefficace et contraire à l'objectif d'enracinement familial. La bonne approche consiste à déployer des leviers incitatifs puissants : un prêt public à taux zéro d'un montant maximal de 100 000 euros pour les jeunes couples acquérant un bien, ainsi que des allègements fiscaux sur la transmission du patrimoine immobilier pour favoriser sa conservation dans les familles. La réorientation de l'accès au logement social vers une stricte priorité nationale viendra compléter le dispositif. Ainsi, cela permettrait d'offrir une solution structurelle en transformant les locataires en propriétaires, une politique qui favorise la transmission et la stabilité, à l'inverse d'un plafonnement qui décourage l'investissement et dégrade l'offre locative."
+      },
+      {
+        "candidate_id": "Jean-Luc Mélenchon",
+        "value": "L'idée serait de considérer le logement comme un droit fondamental et non comme un produit de spéculation, en mettant un terme à l'explosion des loyers qui précarise des millions de personnes. La bonne approche consiste à instaurer un encadrement national strict des loyers, complété par une garantie universelle pour sécuriser locataires et propriétaires. Cette régulation des prix sera soutenue par une politique volontariste de construction de 200 000 logements publics par an et l'interdiction des expulsions locatives sans solution de relogement proposée par l'État. Ainsi, cela permettrait de maîtriser durablement le coût du logement sur tout le territoire, de garantir la sécurité résidentielle pour tous et de lutter efficacement contre le mal-logement."
+      },
+      {
+        "candidate_id": "Valérie Pécresse",
+        "value": "L'idée serait de libérer l'offre de logements et de favoriser l'accession à la propriété plutôt que de contraindre le marché par un plafonnement administratif des loyers. L'approche centrale est de provoquer un choc d'offre, avec un objectif de 500 000 logements neufs ou rénovés chaque année, tout en facilitant le parcours des primo-accédants. Pour cela, les procédures de construction seront allégées et des aides financières, comme le prêt à taux zéro, seront généralisées sur tout le territoire pour aider les Français à devenir propriétaires. Ainsi, cela permettrait une régulation naturelle des prix par l'abondance de l'offre, rendant le logement plus accessible sans décourager l'investissement privé ni créer de pénurie."
+      },
+      {
+        "candidate_id": "Fabien Roussel",
+        "value": "L'idée serait de garantir le droit universel au logement en s'attaquant au poids excessif des loyers, qui doit être déconnecté de la spéculation immobilière. L'approche consiste à instaurer un encadrement national strict, avec une règle claire : la quittance ne pourra excéder 20 % des revenus du foyer. Cette mesure s'inscrirait dans un plan d'ensemble mobilisant des investissements massifs pour la construction de 200 000 logements sociaux par an et la rénovation thermique. La gestion serait pilotée par un service public du logement, chargé d'assurer la baisse effective des coûts pour les locataires. Ainsi, cela permettrait de garantir l'accès de tous à un logement de qualité, en faisant de son coût un facteur soutenable pour le budget des ménages plutôt qu'une source de précarité."
+      },
+      {
+        "candidate_id": "Eric Zemmour",
+        "value": "L'idée serait de s'attaquer aux causes structurelles du coût du logement par une double offensive sur l'offre et l'accession, plutôt que de recourir à une mesure de contrôle des prix qui décourage l'investissement. La démarche consiste à relancer massivement la construction de logements neufs en simplifiant les normes et en réduisant les délais de recours administratifs. Parallèlement, la priorité est de transformer les locataires en propriétaires en supprimant les droits de mutation pour les primo-accédants et en favorisant l'accès au crédit. Cette politique s'appuie sur une fiscalité allégée pour les propriétaires afin de fluidifier le marché. Ainsi, cela permettrait de réguler les prix par l'abondance de l'offre et non par la contrainte, créant une France de propriétaires plutôt qu'une nation de locataires soumis à une administration des loyers."
+      },
+      {
+        "candidate_id": "Jean Lassalle",
+        "value": "L'idée serait de rétablir l'équilibre du marché du logement en faveur des résidents, en combinant une régulation efficace des loyers avec des dispositifs d'aide et d'accès à la propriété. L'approche consiste à rendre l'encadrement des loyers pleinement effectif par un meilleur contrôle, plutôt que de se limiter à un affichage national. Cette mesure doit s'accompagner d'une augmentation des aides personnalisées, notamment pour les jeunes, et du développement de la location-accession pour faciliter l'accès à la propriété. Il est également prioritaire de favoriser les primo-accédants et les locaux face aux logements touristiques. Ainsi, cela permettrait de maîtriser la pression immobilière de manière ciblée et de garantir à chacun la possibilité de se loger dignement, en allégeant durablement le poids du logement dans le budget des ménages."
+      },
+      {
+        "candidate_id": "Anne Hidalgo",
+        "value": "L'idée serait de maîtriser le coût du logement par une approche ciblée et multi-facettes, plutôt que par un plafonnement national uniforme et rigide. La stratégie consiste à généraliser le dispositif d'encadrement des loyers à l'ensemble des zones où la tension immobilière est forte, en partenariat étroit avec les collectivités locales. Cette régulation sera complétée par une relance massive de la construction de logements sociaux. Enfin, un \"bouclier logement\" sera instauré sous la forme d'une allocation complémentaire pour garantir qu'aucun ménage ne soit contraint de consacrer plus d'un tiers de ses revenus pour se loger. Ainsi, cela permettrait d'agir efficacement sur les prix là où la pression est la plus forte, tout en protégeant directement le pouvoir d'achat des locataires."
+      },
+      {
+        "candidate_id": "Yannick Jadot",
+        "value": "L'idée serait de faire de l'encadrement des loyers la norme sur tout le territoire national pour garantir un accès universel à un logement abordable. La bonne approche consiste à généraliser le dispositif d'encadrement dans toutes les communes où la tension du marché l'exige. Cette régulation sera indissociable de la création d'une garantie universelle des loyers, un mécanisme qui sécurise les propriétaires face aux impayés tout en protégeant les locataires. L'ensemble vise à équilibrer les rapports entre bailleurs et locataires. Ainsi, cela permettrait de freiner la spéculation immobilière et de stabiliser le coût du logement, en faisant de l'accès à un habitat digne un droit effectif pour toutes et tous."
+      },
+      {
+        "candidate_id": "Nicolas Dupont-Aignan",
+        "value": "L'idée serait de s'attaquer à la racine de la crise du logement en favorisant l'accès à la propriété plutôt qu'en instaurant un plafonnement national des loyers, qui ne résoudrait pas le problème structurel. La bonne approche consiste à doubler le nombre de nouveaux propriétaires chaque année par une politique ambitieuse. Pour y parvenir, les leviers incluent l'élargissement du prêt à taux zéro, le développement des contrats de location-accession pour les logements sociaux et une garantie de l'État sur une partie de l'apport personnel. Ainsi, cela permettrait de réduire la pression sur le marché locatif en offrant une solution durable et en permettant à davantage de ménages de se constituer un patrimoine."
+      },
+      {
+        "candidate_id": "Emmanuel Macron",
+        "value": "L'idée serait de privilégier des solutions locales et incitatives pour répondre à la tension sur le logement, plutôt que d'imposer un plafonnement national uniforme des loyers. La bonne approche consiste à décentraliser la politique du logement en confiant la pleine responsabilité, ainsi que les financements afférents, aux communes et aux intercommunalités. Celles-ci sont les mieux placées pour adapter les réponses aux réalités de leur territoire. L'effort doit porter sur la facilitation de l'accès au logement, par exemple en étendant la caution publique pour les locataires, tout en sanctionnant fermement les mauvais payeurs. Ainsi, cela permettrait de développer des politiques du logement plus agiles et efficaces, en agissant sur les causes locales des tensions plutôt qu'en appliquant une mesure administrative rigide et indifférenciée."
+      },
+      {
+        "candidate_id": "Nathalie Arthaud",
+        "value": "L'idée serait de considérer le logement comme un droit fondamental et non comme une marchandise soumise à la spéculation et à la loi du profit. La bonne approche consiste donc à mettre fin à la liberté des propriétaires et des grands groupes immobiliers de fixer les prix, en imposant un blocage général et une baisse autoritaire des loyers sur l'ensemble du territoire. Cette mesure d'urgence doit s'accompagner d'un grand plan de construction de logements publics de qualité, financé par les profits des grandes entreprises, pour répondre aux besoins de millions de mal-logés et de sans-abri. L'objectif est d'extraire le logement de la logique de marché. Ainsi, cela permettrait de garantir l'accès de toutes et tous à un logement décent à un coût abordable, en traitant ce besoin essentiel comme un service public."
+      }
+    ]
+  },
+  {
+    "question": "Faut-il inscrire le droit à l’IVG dans la Constitution française ?",
+    "propositions": [
+      {
+        "candidate_id": "Philippe Poutou",
+        "value": "L'idée serait de consacrer le droit à l'avortement comme une liberté fondamentale et inconditionnelle, en le rendant irréversible et protégé de toute menace politique ou juridique. La bonne approche ne se limite pas à une simple inscription constitutionnelle, mais consiste à en garantir l'effectivité matérielle. La priorité est d'assurer sa gratuité totale, son accessibilité partout sur le territoire par un maillage dense de centres dédiés, et d'étendre le délai légal à 24 semaines pour que le choix soit réel. Ainsi, cela permettrait de garantir une pleine et entière souveraineté des femmes sur leur propre corps, en levant tous les obstacles, qu'ils soient financiers, géographiques ou temporels."
+      },
+      {
+        "candidate_id": "Marine Le Pen",
+        "value": "L'idée serait de décréter une pause sur les débats sociétaux majeurs afin de préserver l'unité du pays, aujourd'hui fracturé sur les questions éthiques. La bonne approche consiste à instaurer un moratoire législatif d'au moins trois ans sur toute évolution du cadre juridique existant, y compris constitutionnel. Cette suspension vise à éviter de nouvelles fractures et à concentrer l'action publique sur les urgences économiques et sociales. Le cadre légal en vigueur serait scrupuleusement respecté, et toute évolution future sur ces sujets de conscience pourrait, à l'issue de cette période, faire l'objet d'une consultation directe des citoyens. Ainsi, cela permettrait de garantir la stabilité civile tout en redonnant la parole au peuple pour trancher les questions les plus fondamentales."
+      },
+      {
+        "candidate_id": "Jean-Luc Mélenchon",
+        "value": "L'idée serait de sanctuariser le droit à l'interruption volontaire de grossesse pour le rendre permanent et inaliénable, en le protégeant de toute tentative de régression politique. La bonne approche consiste à l'inscrire formellement dans la Constitution, afin de le consacrer comme une liberté fondamentale au plus haut niveau de la hiérarchie des normes. Cette garantie juridique doit s'accompagner d'un renforcement des moyens des centres de planning familial pour assurer un accès effectif, libre et gratuit à l'IVG pour toutes, sur l'ensemble du territoire. Ainsi, cela permettrait de sécuriser définitivement ce droit essentiel à la dignité et à l'autonomie des femmes."
+      },
+      {
+        "candidate_id": "Valérie Pécresse",
+        "value": "L'idée serait de réaffirmer l'attachement à ce droit fondamental des femmes, en se plaçant dans la continuité de l'héritage de la loi qui l'a instauré. La protection de ce droit est assurée par le cadre législatif existant, qui constitue un acquis solide et intangible. La démarche consiste à défendre les droits des femmes de manière concrète au quotidien, sans juger nécessaire d'ouvrir un chantier constitutionnel sur cette question, celui-ci étant mobilisé pour d'autres priorités. L'enjeu est de garantir l'application effective de la loi sur tout le territoire. Ainsi, cela permettrait de conforter ce droit essentiel, tout en considérant le cadre législatif actuel comme le rempart approprié et suffisant à sa protection."
+      },
+      {
+        "candidate_id": "Fabien Roussel",
+        "value": "L'idée serait de garantir le droit universel au logement en s'attaquant au poids excessif des loyers, qui doit être déconnecté de la spéculation immobilière. L'approche consiste à instaurer un encadrement national strict, avec une règle claire : la quittance ne pourra excéder 20 % des revenus du foyer. Cette mesure s'inscrirait dans un plan d'ensemble mobilisant des investissements massifs pour la construction de 200 000 logements sociaux par an et la rénovation thermique. La gestion serait pilotée par un service public du logement, chargé d'assurer la baisse effective des coûts pour les locataires. Ainsi, cela permettrait de garantir l'accès de tous à un logement de qualité, en faisant de son coût un facteur soutenable pour le budget des ménages plutôt qu'une source de précarité."
+      },
+      {
+        "candidate_id": "Eric Zemmour",
+        "value": "L'idée serait de sanctuariser le principe de protection de la vie et de valoriser le rôle unique de la femme qui la porte, plutôt que de constitutionnaliser un droit qui s'oppose à l'objectif de renaissance démographique. L'approche consiste à privilégier une politique de soutien massif à la famille et à la natalité, en instaurant des incitations financières directes à la naissance et en protégeant le cadre familial contre les dérives qui marchandisent le corps ou déstructurent la filiation. L'action publique doit se concentrer sur la création de conditions favorables à l'accueil de la vie. Ainsi, cela permettrait de réorienter la société vers la transmission et l'avenir collectif, en considérant que la priorité est de défendre la vie à naître plutôt que de garantir constitutionnellement un droit qui en suspend le cours."
+      },
+      {
+        "candidate_id": "Jean Lassalle",
+        "value": "L'idée serait de concentrer l'action publique sur la refondation de l'État et la consolidation des droits concrets, plutôt que d'ouvrir un débat sur l'inscription de nouveaux droits sociétaux dans la Constitution. La véritable protection des libertés fondamentales repose sur la restauration d'une souveraineté pleine et entière, une démocratie vivante qui redonne la parole au peuple, et des services publics qui garantissent à tous un accès effectif à la santé. L'enjeu n'est pas de constitutionnaliser des dispositions déjà assurées par la loi, mais de s'attaquer aux fractures économiques et territoriales qui menacent la cohésion nationale. Ainsi, cela permettrait de mobiliser les forces du pays sur des réformes structurelles essentielles, considérées comme le véritable socle de la citoyenneté et du bien-être collectif."
+      },
+      {
+        "candidate_id": "Anne Hidalgo",
+        "value": "L'idée serait de garantir de manière irréversible le droit fondamental à l'interruption volontaire de grossesse en l'élevant au plus haut niveau de notre hiérarchie des normes. Cette démarche vise à sanctuariser une liberté essentielle pour les femmes, en la protégeant de toute remise en cause politique future. L'inscription dans la Constitution s'inscrirait dans une politique globale de renforcement des droits des femmes, au même titre que la lutte déterminée contre les violences et pour l'égalité réelle. Il s'agit d'une mesure de sauvegarde qui affirme la maîtrise par chaque femme de son propre corps comme un principe républicain fondamental. Ainsi, cela permettrait de consolider définitivement cet acquis majeur et de réaffirmer l'engagement de la République en faveur de l'autonomie et de la liberté de toutes."
+      },
+      {
+        "candidate_id": "Yannick Jadot",
+        "value": "L'idée serait de consacrer la liberté des femmes à disposer de leur corps en garantissant de manière irréversible le droit à l'interruption volontaire de grossesse. La bonne approche consiste à sanctuariser ce droit fondamental pour le protéger de toute tentative de régression. Il s'agit de réaffirmer sa primauté, notamment sur la liberté de conscience du corps médical, afin d'assurer un accès effectif et inconditionnel pour toutes. Ainsi, cela permettrait d'ancrer définitivement cette liberté fondamentale dans le pacte républicain, la rendant non négociable pour les générations futures."
+      },
+      {
+        "candidate_id": "Nicolas Dupont-Aignan",
+        "value": "L'idée serait de se concentrer sur les politiques qui soutiennent la famille et encouragent la natalité, considérant que le véritable enjeu sociétal est le déclin démographique. La bonne approche consiste à mener une politique familiale ambitieuse, en rétablissant les allocations et le quotient familial à leur niveau de 2012 et en créant massivement des places en crèche. L'axe central est de créer un environnement matériel et culturel favorable à l'accueil de la vie, en voyant la famille comme la cellule de base de la société. Ainsi, cela permettrait de répondre à la crise de la natalité, ce qui constitue une priorité supérieure à un débat constitutionnel sur l'IVG."
+      },
+      {
+        "candidate_id": "Emmanuel Macron",
+        "value": "L'idée serait de garantir de manière irréversible le droit des femmes à disposer de leur corps, en l'élevant au plus haut niveau de notre ordre juridique. La bonne approche consiste à sanctuariser ce droit fondamental en l'inscrivant explicitement dans la Constitution. Cette démarche s'inscrit dans la continuité des avancées en faveur de l'égalité et des libertés individuelles. Il s'agit d'un acte de protection face aux remises en cause possibles, afin d'assurer que ce droit essentiel demeure une liberté garantie pour toutes. Ainsi, cela permettrait de consacrer ce droit comme un pilier de notre pacte républicain et d'envoyer un message fort sur l'attachement de la nation aux droits des femmes."
+      },
+      {
+        "candidate_id": "Nathalie Arthaud",
+        "value": "L'idée serait de garantir l'accès effectif et inconditionnel à l'interruption volontaire de grossesse, en considérant que sa simple inscription dans un texte de loi, même constitutionnel, ne protège de rien. La véritable menace provient de la dégradation et du démantèlement des services publics, qui rendent ce droit théorique. La priorité absolue est donc de défendre et de renforcer l'hôpital public en arrêtant les fermetures de lits et de centres IVG, et en y allouant les moyens humains et financiers nécessaires. L'axe central est de s'assurer que chaque femme puisse matériellement exercer ce choix, gratuitement et à proximité de son domicile. Ainsi, cela permettrait de passer d'une liberté formelle à un droit réel, garanti par un service de santé public accessible à toutes."
+      }
+    ]
+  },
+  {
+    "question": "Faut-il autoriser la consommation encadrée du cannabis à usage récréatif ?",
+    "propositions": [
+      {
+        "candidate_id": "Philippe Poutou",
+        "value": "L'idée serait de rompre radicalement avec la logique prohibitionniste, en traitant la consommation de drogues comme un enjeu de santé publique et de liberté individuelle plutôt que comme un problème criminel. La bonne approche consiste donc à procéder à la légalisation complète du cannabis et à la dépénalisation de l'usage de toutes les drogues. Cette politique vise à assécher les réseaux mafieux qui prospèrent sur l'interdit et à mettre fin à l'incarcération de masse pour des délits mineurs, en sortant la gestion de la production et de la distribution des logiques de profit. Ainsi, cela permettrait de réorienter les moyens de la répression vers la prévention et la réduction des risques, tout en mettant fin à une source majeure d'inégalités sociales face à la justice."
+      },
+      {
+        "candidate_id": "Marine Le Pen",
+        "value": "L'idée serait de rejeter catégoriquement toute forme de légalisation, perçue comme une capitulation de l'État, pour au contraire faire de la lutte contre le trafic de drogue une priorité absolue. La bonne approche consiste à traiter le cannabis non comme un enjeu de liberté individuelle, mais comme une source majeure d'insécurité et de financement de la criminalité. Cela implique de renforcer significativement les moyens des forces de l'ordre et de la justice, et d'appliquer une politique pénale de tolérance zéro pour démanteler les réseaux et reconquérir les territoires perdus. Ainsi, cela permettrait de restaurer l'ordre républicain en s'attaquant à la racine du mal, plutôt que de l'entériner par la loi."
+      },
+      {
+        "candidate_id": "Jean-Luc Mélenchon",
+        "value": "L'idée serait de mettre fin à une politique de prohibition inefficace, qui s'avère coûteuse tout en alimentant les réseaux criminels et en mettant en danger la santé des consommateurs. La bonne approche consiste donc à légaliser la consommation de cannabis et à organiser un contrôle public strict de sa production et de sa vente. Cette régulation par l'État permettra de garantir la qualité des produits, de tarir la source de revenus des trafics et d'encadrer l'accès, notamment pour financer des politiques de prévention. Ainsi, cela permettrait de remplacer une logique répressive stérile par une stratégie de santé publique et de sécurité, en asséchant l'économie souterraine et en libérant des moyens pour la police et la justice."
+      },
+      {
+        "candidate_id": "Valérie Pécresse",
+        "value": "L'idée serait de traiter le cannabis exclusivement sous l'angle de la sécurité et de l'ordre public, en refusant toute forme de légalisation qui enverrait un signal de laxisme. La priorité absolue est le démantèlement des réseaux criminels qui gangrènent certains quartiers. L'approche consiste à mener une lutte implacable contre les trafiquants, en mobilisant des brigades spécialisées pour reconquérir les territoires perdus et en appliquant une politique d'impunité zéro, notamment par l'instauration de peines planchers pour les trafiquants de stupéfiants. Toute forme de consommation reste donc prohibée. Ainsi, cela permettrait de rétablir l'autorité de l'État et de protéger la société des ravages du trafic, plutôt que de banaliser une substance dangereuse."
+      },
+      {
+        "candidate_id": "Fabien Roussel",
+        "value": "L'idée serait de refonder la politique des drogues en la centrant sur la santé publique et la réduction des risques, plutôt que de s'en tenir à une approche purement répressive jugée inefficace. La question de la légalisation ou de la dépénalisation de l'usage du cannabis doit faire l'objet d'un grand débat démocratique, rigoureux et éclairé, qui associerait les professionnels de santé, les acteurs de la prévention et les collectivités locales. En parallèle, l'effort public serait massivement réorienté vers le développement des structures de soin en addictologie, tout en renforçant la lutte contre les trafics. Ainsi, cela permettrait de construire une réponse collective et apaisée à cette question de société, fondée sur des objectifs de santé publique et de sécurité, plutôt que sur une simple logique de prohibition."
+      },
+      {
+        "candidate_id": "Eric Zemmour",
+        "value": "L'idée serait de traiter la question des stupéfiants sous l'angle exclusif de la sécurité et de l'ordre public, en refusant catégoriquement toute forme de légalisation qui reviendrait à une capitulation face aux réseaux criminels. L'approche consiste à mener une guerre totale contre les trafiquants en créant une force nationale dédiée, regroupant les services de police, de justice et de douane. La tolérance zéro s'appliquerait à tous les niveaux, avec des sanctions fermes comme l'expulsion systématique des trafiquants et de leurs familles des logements sociaux. La priorité n'est pas d'encadrer la consommation, mais d'éradiquer l'offre. Ainsi, cela permettrait de restaurer l'autorité de l'État dans les territoires gangrenés par le trafic et de garantir la sécurité des citoyens comme seule et unique priorité."
+      },
+      {
+        "candidate_id": "Jean Lassalle",
+        "value": "L'idée serait de substituer à une logique de prohibition, qui a montré ses limites, une approche de régulation étatique permettant de maîtriser la filière et de financer la prévention. La bonne approche consiste à légaliser la consommation, en mettant en place un cadre strict pour encadrer sa vente. Ce dispositif doit impérativement s'accompagner de l'affectation d'une part substantielle des recettes fiscales générées au financement de politiques de prévention et de lutte contre les addictions. Ainsi, cela permettrait d'assécher les trafics en reprenant le contrôle de la distribution, tout en dégageant des ressources nouvelles et pérennes pour renforcer la politique de santé publique en matière de dépendance."
+      },
+      {
+        "candidate_id": "Anne Hidalgo",
+        "value": "L'idée serait de sortir d'une approche purement répressive qui a démontré son inefficacité, pour construire une nouvelle politique des drogues fondée sur la santé publique et un large consensus national. La méthode privilégiée est l'organisation d'une grande conférence de consensus qui examinera, sans tabou, la question d'une légalisation encadrée par l'État pour les consommateurs majeurs. Ce débat, mené avec l'appui des élus locaux, portera en priorité sur la prévention des addictions et la lutte contre les trafics. Si cette voie était choisie, l'État prendrait le contrôle total de la production, de la qualité et de la distribution du produit. Ainsi, cela permettrait de bâtir une solution efficace et partagée, de reprendre le contrôle sur le marché illégal et de garantir la sécurité sanitaire des consommateurs."
+      },
+      {
+        "candidate_id": "Yannick Jadot",
+        "value": "L'idée serait de substituer à une politique répressive inefficace une légalisation encadrée par l'État. L'enjeu est de traiter la consommation de cannabis comme un enjeu de santé publique et de sécurité, plutôt que de l'abandonner à des réseaux criminels. La bonne approche consiste à encadrer la consommation, la production et la vente à des fins récréatives. Les recettes fiscales générées seront entièrement fléchées vers la lutte contre les addictions et l'accompagnement vers l'emploi, tandis que les moyens dédiés à la répression seront réorientés vers la prévention. Ainsi, cela permettrait de tarir l'économie parallèle, de réduire la criminalité qui y est liée et d'assurer une meilleure protection de la santé des populations par une régulation publique responsable."
+      },
+      {
+        "candidate_id": "Nicolas Dupont-Aignan",
+        "value": "L'idée serait de s'opposer fermement à toute forme de légalisation du cannabis à usage récréatif, une mesure qui ne ferait qu'aggraver les problèmes de sécurité et de santé publique. La bonne approche consiste à intensifier la lutte contre les réseaux de trafiquants qui gangrènent de nombreux territoires. Pour y parvenir, il est impératif d'augmenter les effectifs des forces de l'ordre et de garantir l'application systématique de peines planchers pour les délinquants, dans une logique de tolérance zéro. L'axe central est de restaurer l'autorité de l'État et de refuser toute forme de laxisme. Ainsi, cela permettrait de rétablir l'ordre républicain et de protéger la jeunesse des dangers liés à la consommation de stupéfiants."
+      },
+      {
+        "candidate_id": "Emmanuel Macron",
+        "value": "L'idée serait de traiter la consommation de cannabis comme un délit qui empoisonne le quotidien, en rendant sa sanction plus efficace et immédiate. La bonne approche consiste à systématiser la réponse pénale par des amendes forfaitaires, plutôt que d'engager des procédures longues, en permettant leur prélèvement direct sur les revenus. Cette mesure s'inscrit dans une stratégie de fermeté globale contre les trafics et les nuisances qui en découlent. Ainsi, cela permettrait de garantir une réponse rapide et dissuasive à des comportements qui dégradent l'ordre public, sans s'engager dans une voie de légalisation."
+      },
+      {
+        "candidate_id": "Nathalie Arthaud",
+        "value": "L'idée serait de mettre fin à la logique répressive de la prohibition, qui s'est avérée un échec total et sert principalement à pénaliser la jeunesse des quartiers populaires. La bonne approche consiste à dépénaliser immédiatement la consommation et la vente pour cesser une répression stérile, sans pour autant livrer ce produit à la logique de marché et aux grands groupes capitalistes qui n'y voient qu'une nouvelle source de profits. La priorité doit être une politique de santé publique axée sur la prévention et la réduction des risques, tout en s'attaquant aux causes profondes des addictions que sont la misère et l'aliénation. Ainsi, cela permettrait de sortir d'une hypocrisie coûteuse et de concentrer les efforts sur l'émancipation collective plutôt que sur la gestion d'un nouveau marché."
+      }
+    ]
+  },
+  {
+    "question": "Faut-il rendre obligatoire un service civique ou militaire pour tous les jeunes citoyens ?",
+    "propositions": [
+      {
+        "candidate_id": "Philippe Poutou",
+        "value": "L'idée serait de rompre avec toute logique d'embrigadement de la jeunesse, en s'opposant fermement à l'instauration de tout service obligatoire, qu'il soit de nature civile ou militaire. La bonne approche consiste à exiger la suppression immédiate de dispositifs comme le Service National Universel et à rejeter toute proposition future visant à imposer une période de service. La priorité est de garantir les conditions matérielles d'une véritable émancipation, en concentrant les moyens publics sur l'autonomie financière et l'accès à l'éducation, plutôt que sur des programmes de mise au pas. Ainsi, cela permettrait de préserver la liberté de choix des jeunes et d'orienter les ressources de l'État vers des politiques favorisant leur autonomie réelle plutôt que vers un encadrement moral et idéologique."
+      },
+      {
+        "candidate_id": "Marine Le Pen",
+        "value": "L'idée serait de substituer à l'obligation généralisée un engagement volontaire, ciblé sur une mission à forte valeur symbolique afin de retisser le lien entre la jeunesse et le patrimoine national. La bonne approche consiste à instituer un Service national du patrimoine, ouvert aux jeunes de 18 à 24 ans. Ce dispositif, fondé sur le volontariat, proposerait des missions de six mois, renouvelables une fois, dédiées à la restauration, à la protection et à la mise en valeur du patrimoine bâti et naturel. Ainsi, cela permettrait de canaliser l'énergie de la jeunesse vers un projet concret de transmission, en valorisant l'engagement choisi plutôt qu'en instaurant une contrainte uniforme potentiellement mal acceptée."
+      },
+      {
+        "candidate_id": "Jean-Luc Mélenchon",
+        "value": "L'idée serait de refonder le lien civique et de créer une culture de défense partagée en impliquant l'ensemble de la jeunesse dans la vie de la Nation. La bonne approche consiste à instaurer une conscription citoyenne obligatoire, qui ne se limiterait pas aux seules missions militaires mais viserait à renforcer la cohésion nationale et la résilience du pays face aux crises. Ce service obligatoire pour tous les jeunes citoyens formerait le socle d'une nouvelle garde civile nationale, impliquant directement le peuple dans sa propre protection et dans les tâches d'intérêt général. Ainsi, cela permettrait de construire une défense populaire et indépendante, tout en renforçant le sentiment d'appartenance à une communauté nationale unie par des devoirs et des objectifs communs."
+      },
+      {
+        "candidate_id": "Valérie Pécresse",
+        "value": "L'idée serait de promouvoir l'engagement citoyen de la jeunesse en se fondant sur le volontariat et l'incitation, plutôt que sur une obligation universelle. La bonne approche consiste à renforcer significativement les dispositifs existants, en doublant le nombre de places offertes dans le cadre du service civique pour répondre à une demande croissante. Cette démarche privilégie la qualité et le sens d'un engagement choisi à la contrainte d'un service imposé à tous. L'objectif est de susciter des vocations et de multiplier les expériences au service de la collectivité. Ainsi, cela permettrait de développer une culture de la citoyenneté active, en valorisant la liberté de choix comme le véritable moteur de la cohésion nationale."
+      },
+      {
+        "candidate_id": "Fabien Roussel",
+        "value": "L'idée serait de rompre avec les dispositifs de service obligatoire jugés superficiels pour ouvrir une véritable réflexion nationale sur le lien entre la jeunesse et la nation. La pertinence même d'un nouveau service national, qu'il soit civique ou militaire, doit être tranchée par un grand débat associant la représentation nationale et tous les secteurs de la société. C'est à cette concertation que reviendrait la charge de définir, le cas échéant, les missions et les modalités d'un tel engagement, pour s'assurer qu'il réponde à des besoins réels. Ainsi, cela permettrait de construire une forme de service légitime et acceptée, fondée sur un projet de société partagé plutôt que sur une obligation imposée sans véritable consensus."
+      },
+      {
+        "candidate_id": "Eric Zemmour",
+        "value": "L'idée serait de privilégier un dispositif ciblé et volontaire plutôt que d'imposer une obligation universelle, afin de l'utiliser comme un puissant levier d'assimilation. La démarche consiste à offrir chaque année à 10 000 jeunes la possibilité de s'engager dans un service militaire volontaire. Ce cadre a pour vocation de renforcer le lien avec la nation par un engagement personnel fort, et non par une contrainte généralisée qui en diluerait la portée. L'objectif n'est pas de brasser l'ensemble d'une classe d'âge, mais de former un noyau de citoyens particulièrement attachés à la communauté nationale. Ainsi, cela permettrait de forger un sentiment d'appartenance renforcé et de transmettre les valeurs de cohésion et de discipline, en se concentrant sur les individus les plus motivés."
+      },
+      {
+        "candidate_id": "Jean Lassalle",
+        "value": "L'idée serait de refonder un moment de cohésion nationale pour la jeunesse en instaurant un Service national universel, obligatoire pour tous les jeunes majeurs, filles et garçons. Ce service se déroulerait sur une période de neuf mois, du 15 septembre au 15 juin, et proposerait deux voies distinctes : une version militaire pour acquérir les bases du métier de soldat, et une version civile, vécue comme une expérience de mixité sociale et de fraternité au sein d'associations ou de collectivités. Ce parcours serait complété par l'acquisition de formations pratiques, comme le permis de conduire ou le brevet de secourisme, et ouvrirait des droits concrets tels qu'une première annuité de retraite et la gratuité des transports. Ainsi, cela permettrait de garantir qu'une même classe d'âge partage une expérience commune forte, de renforcer le lien social et de transmettre un sentiment d'appartenance à la nation."
+      },
+      {
+        "candidate_id": "Anne Hidalgo",
+        "value": "L'idée serait de renforcer la cohésion nationale en misant sur l'émancipation et l'autonomie de la jeunesse plutôt que sur l'instauration d'une obligation de service. L'approche centrale consiste à donner aux jeunes les moyens concrets de leur engagement, en instaurant un minimum jeunesse sous condition de ressources et une dotation en capital de 5 000 euros à 18 ans pour financer leurs projets. L'accent est mis sur l'accompagnement individualisé, notamment via le mentorat, et sur une formation approfondie à la citoyenneté tout au long du parcours scolaire. Ainsi, cela permettrait de cultiver un engagement citoyen authentique et durable, fondé sur l'égalité des chances et la capacité de chaque jeune à construire son propre avenir, plutôt que sur un dispositif uniforme et contraignant."
+      },
+      {
+        "candidate_id": "Yannick Jadot",
+        "value": "L'idée serait de remplacer le projet de service national universel par un soutien direct à l'engagement volontaire des jeunes. L'enjeu n'est pas d'imposer un cadre unique, mais de dynamiser la richesse de l'éducation populaire. La bonne approche consiste à réallouer les ressources financières prévues pour le service obligatoire afin de renforcer l'accès de tous aux vacances, aux loisirs et aux actions collectives portées par les associations locales. La priorité est de valoriser les expériences non formelles qui favorisent l'émancipation et la conscientisation. Ainsi, cela permettrait de construire une culture de l'engagement fondée sur le volontariat et la diversité des initiatives, plutôt que sur une obligation centralisée."
+      },
+      {
+        "candidate_id": "Nicolas Dupont-Aignan",
+        "value": "L'idée serait de renforcer la cohésion nationale en instaurant un service national pour tous les jeunes citoyens. La bonne approche consiste à créer un service national civique mixte et obligatoire d'une durée de trois mois. Pour les volontaires, ce service pourrait être prolongé par un engagement militaire d'une année au sein des armées. L'accomplissement de ce service inclurait le passage du permis de conduire, offrant une contrepartie concrète à l'engagement des jeunes. Ainsi, cela permettrait de retisser le lien entre la jeunesse et la nation, tout en offrant une première expérience citoyenne et une qualification utile pour l'insertion professionnelle."
+      },
+      {
+        "candidate_id": "Emmanuel Macron",
+        "value": "L'idée serait de généraliser un parcours d'engagement citoyen pour la jeunesse, fondé sur le volontariat et des incitations fortes plutôt que sur une obligation stricte. La bonne approche consiste à déployer le service national universel à grande échelle, en encourageant un engagement plein et entier par des contreparties concrètes et attractives, comme le financement intégral du permis de conduire. Ce modèle de volontariat valorisé s'étendra également aux engagements de plus longue durée, tels que la réserve, qui seront soutenus par des aides financières aux études. Ainsi, cela permettrait de diffuser une culture de l'engagement et de renforcer le lien civique au sein de la nouvelle génération, en misant sur la valorisation de l'engagement volontaire plutôt que sur la contrainte d'un service obligatoire."
+      },
+      {
+        "candidate_id": "Nathalie Arthaud",
+        "value": "L'idée serait de refuser catégoriquement toute forme d'embrigadement de la jeunesse dans un service national, qu'il soit civil ou militaire, car il ne sert qu'à promouvoir le nationalisme et à préparer les esprits à la guerre. La bonne approche consiste à offrir à la jeunesse des perspectives réelles d'émancipation par l'accès à un emploi stable et à une éducation de qualité, en luttant contre le chômage de masse qui la frappe. L'objectif est de former des esprits critiques, conscients de leurs intérêts collectifs, et non des citoyens dociles prêts à servir un ordre qui les exploite. Ainsi, cela permettrait de construire une solidarité concrète entre les jeunes travailleurs, au lieu de les soumettre à une discipline nationaliste qui les dresse les uns contre les autres et les prépare à accepter les guerres impérialistes."
+      }
+    ]
+  },
+  {
+    "question": "Faut-il accorder plus d’autonomie fiscale et réglementaire aux régions françaises ?",
+    "propositions": [
+      {
+        "candidate_id": "Philippe Poutou",
+        "value": "L'idée serait de rompre avec une logique de décentralisation qui met les territoires en concurrence, pour garantir une égalité réelle de droits et de services sur l'ensemble du territoire national. La bonne approche consiste à renforcer un État social centralisé, seul garant de l'unité des services publics et de la planification écologique. Le pouvoir de décision doit émaner d'assemblées locales de travailleurs et d'habitants, dont les exigences sont coordonnées au niveau national pour définir les grandes orientations. Toute autonomie fiscale ou réglementaire accordée aux échelons régionaux actuels serait ainsi abolie au profit d'une gestion unifiée. Ainsi, cela permettrait de mettre fin aux inégalités territoriales et de garantir que les besoins de la population sont satisfaits de manière uniforme, indépendamment du lieu de résidence."
+      },
+      {
+        "candidate_id": "Marine Le Pen",
+        "value": "L'idée serait de rejeter toute nouvelle décentralisation au profit d'une refondation de l'État, garant de l'unité nationale et de l'égalité entre les territoires. L'autonomie accrue des régions est perçue comme un risque de fragmentation et d'affaiblissement de la souveraineté. La bonne approche consiste à renforcer les prérogatives de l'État central, notamment via ses représentants locaux comme les préfets, pour piloter les politiques stratégiques. Plutôt que de déléguer des compétences fiscales ou réglementaires, l'action publique se concentrera sur un aménagement du territoire volontariste et un rééquilibrage des services publics décidés au niveau national. Ainsi, cela permettrait de garantir la cohésion de la nation et un traitement équitable pour tous les citoyens, en évitant la mise en concurrence des territoires."
+      },
+      {
+        "candidate_id": "Jean-Luc Mélenchon",
+        "value": "L'idée serait de réaffirmer le principe d'une République une et indivisible, garantissant l'égalité des droits et l'accès aux services publics pour tous les citoyens, quel que soit leur lieu de résidence. La bonne approche consiste à rejeter toute fragmentation de la souveraineté qui mènerait à une compétition stérile entre les territoires et à renforcer les prérogatives de l'État en matière de planification et de régulation. Il s'agit de garantir des services publics forts et uniformes sur tout le territoire, en supprimant les exceptions qui créent des ruptures d'égalité, plutôt que de déléguer de nouvelles compétences fiscales ou réglementaires. Ainsi, cela permettrait de lutter efficacement contre les inégalités territoriales et d'assurer que la solidarité nationale prime sur la compétition entre régions."
+      },
+      {
+        "candidate_id": "Valérie Pécresse",
+        "value": "L'idée serait de refonder l'organisation territoriale en libérant les énergies locales par un transfert de responsabilités clair et ambitieux. Le levier principal serait une grande loi de décentralisation, instaurant un pacte de liberté et de confiance avec les élus locaux. Cette loi ne se contenterait pas de déléguer, mais transférerait des blocs de compétences entiers, en confiant par exemple aux régions la totalité de la gestion de l'enseignement professionnel et de l'orientation. Cette nouvelle répartition des pouvoirs donnerait aux collectivités la latitude réglementaire pour adapter les politiques publiques aux spécificités de leur territoire. Ainsi, cela permettrait de rapprocher la décision des citoyens et d'adapter l'action publique aux réalités économiques et sociales locales, pour une meilleure efficacité."
+      },
+      {
+        "candidate_id": "Fabien Roussel",
+        "value": "L'idée serait de renforcer la démocratie de proximité en restaurant la capacité d'action des collectivités, tout en refusant une logique de mise en concurrence des territoires. L'axe central est le rétablissement de la clause de compétence générale pour les départements et les régions, ce qui leur rendra une marge d'initiative essentielle. Cette nouvelle étape de la décentralisation s'accompagnera d'une révision du découpage des grandes régions pour les rendre plus proches des populations. L'autonomie accordée restera toutefois fermement encadrée par le principe d'unité de la République, afin de garantir l'unicité des lois et l'égalité d'accès aux droits sur tout le territoire. Ainsi, cela permettrait de doter les échelons locaux de prérogatives réelles pour faire vivre la démocratie, tout en faisant de la solidarité nationale le socle de l'organisation territoriale."
+      },
+      {
+        "candidate_id": "Eric Zemmour",
+        "value": "L'idée serait de rompre avec la logique du \"mille-feuille\" territorial en clarifiant les responsabilités, plutôt que d'accorder une autonomie accrue qui ne ferait qu'ajouter à la confusion. La démarche consiste à réaffirmer le rôle central de l'État et de la commune, en leur restituant des compétences aujourd'hui diluées au niveau des régions, des départements et des intercommunalités. Le principe directeur est de mettre fin au partage des compétences : pour chaque politique publique, un seul décideur doit être désigné, mettant un terme aux doublons coûteux et à la dilution des responsabilités. Ainsi, cela permettrait de rendre l'action publique plus lisible et plus efficace, en restaurant une structure claire où le pouvoir local est incarné par le maire et la vision d'ensemble par un État stratège."
+      },
+      {
+        "candidate_id": "Jean Lassalle",
+        "value": "L'idée serait de remettre en cause la pertinence des régions actuelles, considérées comme des échelons administratifs budgétivores et déconnectés des réalités locales. Plutôt que d'accroître leur autonomie, l'objectif est de s'orienter vers une organisation territoriale fondée sur des provinces historiques, culturelles et économiques cohérentes. Cette démarche doit s'accompagner d'une restauration des compétences et de l'autonomie financière des communes, en abrogeant les lois qui ont imposé des intercommunalités à marche forcée. Ainsi, cela permettrait de valoriser les savoir-faire et les spécificités de chaque territoire, et de garantir que les décisions locales soient prises au plus près des citoyens."
+      },
+      {
+        "candidate_id": "Anne Hidalgo",
+        "value": "L'idée serait de passer d'une logique de contrôle centralisé à une véritable République de la proximité, en confiant aux collectivités, et notamment aux régions, une autonomie d'action pour renforcer l'efficacité des politiques publiques. L'axe central de cette réforme est la restauration de leur autonomie financière, avec des ressources renforcées et stables, et une juste compensation des transferts de compétences. Sur le plan réglementaire, un « permis de faire » sera instauré pour leur permettre d'expérimenter des dérogations aux normes nationales, en substituant à la logique de contrôle a priori un principe de confiance et de contrôle a posteriori. Ainsi, cela permettrait de libérer les énergies locales et de rendre l'action publique plus efficace et plus réactive aux besoins spécifiques de chaque territoire."
+      },
+      {
+        "candidate_id": "Yannick Jadot",
+        "value": "L'idée serait de refonder l'architecture territoriale en substituant au centralisme un modèle de fédéralisme différencié, fondé sur des régions aux identités cohérentes. La bonne approche consiste à acter cette transformation par référendum. Les collectivités obtiendront alors une pleine autonomie fiscale, avec des ressources sanctuarisées et protégées des arbitrages de l'État. Sur le plan réglementaire, elles pourront fixer leurs propres normes, dans le respect du principe de subsidiarité et d'une ambition toujours plus grande que la norme nationale. Ainsi, cela permettrait de libérer les énergies locales et de doter les territoires des leviers nécessaires pour piloter la transition écologique au plus près des besoins du quotidien."
+      },
+      {
+        "candidate_id": "Nicolas Dupont-Aignan",
+        "value": "L'idée serait de revitaliser la démocratie de proximité en redonnant du pouvoir aux communes, plutôt que d'accentuer la concentration des compétences au niveau régional. La priorité est d'abroger la loi NOTRe pour rendre aux maires et aux conseils municipaux les prérogatives qui leur ont été retirées au profit d'échelons administratifs jugés trop vastes et déconnectés. Cette démarche vise à renforcer le rôle de la commune comme cellule de base de la République et acteur essentiel de l'aménagement du territoire. Ainsi, cela permettrait de lutter contre la fracture territoriale et de garantir un développement plus équilibré en s'appuyant sur l'échelon le plus proche des citoyens."
+      },
+      {
+        "candidate_id": "Emmanuel Macron",
+        "value": "L'idée serait de traiter l'enchevêtrement des compétences locales par une simplification drastique des structures, plutôt que d'accorder une autonomie accrue à des échelons qui se superposent. La bonne approche consiste à fusionner les assemblées départementales et régionales au sein d'une collectivité unique, où siégerait un seul « conseiller territorial ». L'objectif est de mettre fin à la dilution des responsabilités en attribuant à chaque niveau de décision une mission claire et un responsable unique. Ainsi, cela permettrait de rendre l'action publique plus lisible et plus efficace pour les citoyens, en mettant un terme à la complexité et aux doublons qui nuisent à la bonne gestion des territoires."
+      },
+      {
+        "candidate_id": "Nathalie Arthaud",
+        "value": "L'idée serait de s'opposer fermement à toute forme de décentralisation qui introduirait une concurrence entre les territoires et affaiblirait la solidarité nationale. La priorité est de garantir une égalité de traitement pour tous les citoyens, où qu'ils résident. La bonne approche consiste à renforcer le caractère national et unifié des services publics et de la réglementation économique. Au lieu de déléguer des compétences fiscales ou réglementaires, il faut planifier l'économie et la répartition des richesses à l'échelle du pays tout entier pour répondre aux besoins de manière homogène. Les décisions stratégiques doivent relever d'une gestion centralisée. Ainsi, cela permettrait de lutter contre les inégalités territoriales et de garantir que les droits sociaux et les services essentiels soient identiques et de même qualité pour tous."
+      }
+    ]
+  }
+]
