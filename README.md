@@ -1,8 +1,5 @@
-# The_Political_Gap_Between_AIs_and_Citizens
-Dataset and prompts from "The Political Gap Between AIs &amp; Citizens" — a comparative analysis of how LLMs perceive political priorities vs. real election results across 8 countries.
+# The Political Gap Between AIs and Citizens
 
-
-# LLM Political Alignment Dataset
 
 This repository contains the full dataset, prompts, and standardized candidate propositions used in our research report **"The Political Gap Between AIs & Citizens"**.
 
