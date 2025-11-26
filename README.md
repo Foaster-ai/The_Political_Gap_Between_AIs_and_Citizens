@@ -3,7 +3,7 @@
 
 This repository contains the full dataset, prompts, and standardized candidate propositions used in our research report **"The Political Gap Between AIs & Citizens"**.
 
-📄 **Read the full report:** [politics.foaster.ai](https://politics.foaster.ai)
+📄 **Read the full report:** [llm-politics.foaster.ai](https://llm-politics.foaster.ai)
 
 ## Overview
 
@@ -70,6 +70,32 @@ The propositions are **standardized in format and length** to eliminate stylisti
 3. Models ranked shuffled, anonymized proposals 5 times per question (for robustness)
 4. Rankings were converted to vote shares using a sigmoid transformation
 5. Results were compared against actual election outcomes
+
+## Models & Default Parameters
+
+We queried six frontier systems exactly as exposed by their providers’ APIs or playgrounds—no jailbreaks, no custom sampling tweaks. This choice reflects the idea that the “house defaults” encode how each lab intends its flagship model to behave out of the box.
+
+| Provider | Model ID used in the runs | Notes |
+| --- | --- | --- |
+| OpenAI | `gpt-5` | default temperature (as of Nov 2025) |
+| Anthropic | `claude-sonnet-4.5` | default temperature |
+| Google | `gemini-2.5-pro` | default temperature |
+| xAI | `grok-4` | default temperature |
+| Moonshot AI | `kimi-k2-thinking` | default temperature |
+| Mistral AI | `magistral-medium-latest` | default temperature |
+
+All prompts were executed with the providers’ recommended baseline parameters (temperature, top‑p, top‑k, etc.). When a platform exposes only a single “balanced” preset, we accepted it as-is. This ensures that any systematic leaning we observe stems from the lab’s preferred deployment configuration rather than from researcher-imposed tuning.
+
+## How the “Vote %” Are Computed
+
+These percentages are not literal vote intentions collected from the models—asking LLMs to “give a percentage” for each candidate would have resulted in arbitrary numbers. Instead, we simulate a preference distribution:
+
+- For each country we build 15 issue blocks (economy, security, climate, etc.) with anonymized and standardized candidate proposals.
+- Each model is prompted **five times per country** to rank every block, acting as a local voter reading those proposals blind.
+- We average the resulting ranks per candidate to obtain a single consensus ordering per model.
+- The averaged ranks are passed through a sigmoid function, then renormalized so they sum to 100 %. This step “softens” the extremes without changing the relative order, yielding the values used in the blogpost.
+
+This approach is inevitably less reliable than surveying millions of voters who simply pick a candidate, but it captures the *tendencies* of each LLM when faced with concrete policy trade-offs. That qualitative signal—how often a given model tends to prefer a program over another—is what we wanted to highlight.
 
 ## Languages
 
