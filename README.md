@@ -102,12 +102,12 @@ This approach is inevitably less reliable than surveying millions of voters who 
 Data is available in the native language of each country plus English:
 - 🇫🇷 France: French, English
 - 🇺🇸 USA: English
-- 🇬🇧 UK: English, French
-- 🇩🇪 Germany: German, English, French
-- 🇮🇹 Italy: Italian, English, French
-- 🇪🇸 Spain: Spanish, English, French
-- 🇧🇷 Brazil: Portuguese, English, French
-- 🇦🇷 Argentina: Spanish, English, French
+- 🇬🇧 UK: English
+- 🇩🇪 Germany: German, English
+- 🇮🇹 Italy: Italian, English
+- 🇪🇸 Spain: Spanish, English
+- 🇧🇷 Brazil: Portuguese, English
+- 🇦🇷 Argentina: Spanish, English
 
 ## Citation
 
