@@ -77,7 +77,7 @@ We queried six frontier systems exactly as exposed by their providers’ APIs or
 
 | Provider | Model ID used in the runs | Notes |
 | --- | --- | --- |
-| OpenAI | `gpt-5` | default temperature (as of Nov 2025) |
+| OpenAI | `gpt-5` | default temperature |
 | Anthropic | `claude-sonnet-4.5` | default temperature |
 | Google | `gemini-2.5-pro` | default temperature |
 | xAI | `grok-4` | default temperature |
